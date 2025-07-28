@@ -156,16 +156,12 @@
                 </div>
             </div>
         </section>
-        <!-- Case Study Section -->
+
+        <!-- Numerical Questions Section -->
         <section class="mb-10">
-            <h2 class="text-2xl font-bold mb-4">Case Study</h2>
-            <div class="bg-blue-50 rounded-lg p-4 mb-4 shadow">
-                <div id="case-content" class="mb-4"></div>
-                <div class="flex gap-4">
-                    <button id="playCaseStudyBtn" class="px-4 py-2 bg-green-600 text-white rounded hover:bg-green-700">Play</button>
-                    <button id="pauseCaseStudyBtn" class="px-4 py-2 bg-yellow-500 text-white rounded hover:bg-yellow-600">Pause</button>
-                    <button id="stopCaseStudyBtn" class="px-4 py-2 bg-red-600 text-white rounded hover:bg-red-700">Stop</button>
-                </div>
+            <h2 class="text-2xl font-bold mb-4">Numerical Questions</h2>
+            <div class="bg-yellow-50 rounded-lg p-4 mb-4 shadow">
+                <div id="numerical-questions-content" class="mb-4"></div>
             </div>
         </section>
     </main>
@@ -213,78 +209,69 @@
                 performSearch(searchInput.value);
             }
         });
-    }
+    // End of flashcard rendering
 
     // --- Search Logic: Search content.json for answer ---
-    function performSearch(query) {
-        if (!query || !query.trim()) {
-            searchAnswer.textContent = 'Please enter a question.';
+
+    function renderLongAnswer() {
+        const laDiv = document.getElementById('long-answer-content');
+        if (!chapterData || !chapterData.longAnswerQuestions) {
+            laDiv.innerHTML = '<em>No long answer questions available.</em>';
             return;
         }
-        fetch('content.json')
-            .then(res => res.json())
-            .then(data => {
-                let answer = findAnswerInContent(data, query);
-                searchAnswer.innerHTML = answer ? answer : '<span class="text-red-600">No answer found for your question.</span>';
-            })
-            .catch(() => {
-                searchAnswer.innerHTML = '<span class="text-red-600">Error loading content data.</span>';
+        let html = chapterData.longAnswerQuestions.map((s, idx) => {
+            let answerBtns = '';
+            let answerBlocks = '';
+            const answerTypes = [
+                { key: 'answer50To75Words', label: 'Show 50-75 Words Answer' },
+                { key: 'answer150Words', label: 'Show 150 Words Answer' },
+                { key: 'answer200Words', label: 'Show 200 Words Answer' }
+            ];
+            answerTypes.forEach(type => {
+                if (s[type.key]) {
+                    const btnId = `show-${type.key}-${idx}`;
+                    const ansId = `ans-${type.key}-${idx}`;
+                    answerBtns += `<button id="${btnId}" class="ml-2 mb-2 px-3 py-1 bg-blue-600 text-white rounded hover:bg-blue-700 text-xs" onclick="document.getElementById('${ansId}').classList.toggle('hidden')">${type.label}</button>`;
+                    answerBlocks += `<div id="${ansId}" class="hidden bg-blue-50 border border-blue-200 rounded p-2 mt-1 text-sm">${s[type.key]}</div>`;
+                }
             });
+            // Add question number before the title and remove 'undefined' if present
+            const title = (s.title && s.title !== 'undefined') ? s.title : '';
+            const text = (s.text && s.text !== 'undefined') ? s.text : '';
+            return `<div class="mb-6"><strong>Q${idx + 1}. ${title}:</strong> ${text}<br>${answerBtns}${answerBlocks}</div>`;
+        }).join('');
+        laDiv.innerHTML = html;
+        longAnswerUtterances = [];
     }
 
-    // --- Helper: Find answer in content.json ---
-    function findAnswerInContent(data, query) {
-        query = query.toLowerCase();
-        // Search all chapters, sections, exercises, flashcards, etc.
-        let results = [];
-        for (const chapter of (Array.isArray(data.chapters) ? data.chapters : Object.values(data))) {
-            // Search story
-            if (chapter.story) {
-                for (const s of chapter.story) {
-                    if (s.text && s.text.toLowerCase().includes(query)) results.push(`<b>Story:</b> ${s.text}`);
-                }
-            }
-            // Search mindmap
-            if (chapter.mindmap) {
-                for (const node of chapter.mindmap) {
-                    if (node.title && node.title.toLowerCase().includes(query)) results.push(`<b>Mindmap:</b> ${node.title}`);
-                    if (node.definition && node.definition.toLowerCase().includes(query)) results.push(`<b>Definition:</b> ${node.definition}`);
-                    if (node.explanation && node.explanation.toLowerCase().includes(query)) results.push(`<b>Explanation:</b> ${node.explanation}`);
-                }
-            }
-            // Search flashcards
-            if (chapter.flashcards) {
-                for (const fc of chapter.flashcards) {
-                    if (fc.front && fc.front.toLowerCase().includes(query)) results.push(`<b>Flashcard:</b> ${fc.front} <br><i>${fc.back}</i>`);
-                    if (fc.back && fc.back.toLowerCase().includes(query)) results.push(`<b>Flashcard:</b> ${fc.front} <br><i>${fc.back}</i>`);
-                }
-            }
-            // Search exercises
-            if (chapter.exercises) {
-                for (const type in chapter.exercises) {
-                    for (const ex of chapter.exercises[type] || []) {
-                        if (ex.question && ex.question.toLowerCase().includes(query)) results.push(`<b>Exercise:</b> ${ex.question}<br><i>${ex.answer || ''}</i>`);
-                        if (ex.text && ex.text.toLowerCase().includes(query)) results.push(`<b>Exercise:</b> ${ex.text}<br><i>${ex.answer || ''}</i>`);
-                        if (ex.answer && ex.answer.toLowerCase().includes(query)) results.push(`<b>Answer:</b> ${ex.answer}`);
-                    }
-                }
-            }
-            // Search long answers
-            if (chapter.longAnswerQuestions) {
-                for (const la of chapter.longAnswerQuestions) {
-                    if (la.title && la.title.toLowerCase().includes(query)) results.push(`<b>Long Answer:</b> ${la.title}<br><i>${la.text}</i>`);
-                    if (la.text && la.text.toLowerCase().includes(query)) results.push(`<b>Long Answer:</b> ${la.title}<br><i>${la.text}</i>`);
-                }
-            }
-            // Search case studies
-            if (chapter.caseStudy) {
-                for (const cs of chapter.caseStudy) {
-                    if (cs.title && cs.title.toLowerCase().includes(query)) results.push(`<b>Case Study:</b> ${cs.title}<br><i>${cs.scenario}</i>`);
-                    if (cs.scenario && cs.scenario.toLowerCase().includes(query)) results.push(`<b>Case Study:</b> ${cs.title}<br><i>${cs.scenario}</i>`);
-                }
-            }
+    // --- Numerical Questions Render ---
+    function renderNumericalQuestions() {
+        const numDiv = document.getElementById('numerical-questions-content');
+        if (!chapterData || !chapterData.exercises || !chapterData.exercises.numericalQuestions || chapterData.exercises.numericalQuestions.length === 0) {
+            numDiv.innerHTML = '<em>No numerical questions available.</em>';
+            return;
         }
-        return results.length ? results.join('<hr class="my-2">') : null;
+        let html = chapterData.exercises.numericalQuestions.map((q, i) => `
+            <div class="mb-4 p-3 bg-white rounded shadow-sm">
+                <p class="font-medium mb-2">${i + 1}. ${q.question}</p>
+                ${Array.isArray(q.table) && q.table.length > 0 ? `
+                <table class="mb-2 w-full text-sm border border-gray-400 border-collapse text-center">
+                    <thead>
+                        <tr>
+                            ${Object.keys(q.table[0]).map(col => `<th class='border border-gray-400 px-2 py-1 text-center'>${col}</th>`).join('')}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${q.table.map(row => `<tr>${Object.values(row).map(val => `<td class='border border-gray-400 px-2 py-1 text-center'>${typeof val === 'number' ? `₹${val.toLocaleString()}` : val}</td>`).join('')}</tr>`).join('')}
+                    </tbody>
+                </table>
+                ` : ''}
+                <div class="mb-2"><strong>Guided Solution:</strong></div>
+                <ol class="list-decimal list-inside mb-2">${q.steps.map(step => `<li>${step}</li>`).join('')}</ol>
+                <div class="bg-blue-50 border border-blue-200 rounded p-2 mt-1 text-sm"><strong>Explanation:</strong> ${q.explanation}</div>
+            </div>
+        `).join('');
+        numDiv.innerHTML = html;
     }
     // --- Global Variable Declarations ---
     let chapterData = null;
@@ -388,7 +375,7 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
         const unitSubheading = document.getElementById('unitSubheading');
 
         showGlobalDebug('Fetching content.json...', false);
-        fetch('content.json')
+        fetch('chapter1.json')
             .then(function(res) {
                 if (!res.ok) {
                     showGlobalDebug('ERROR: Failed to fetch content.json. Status: ' + res.status, true);
@@ -422,7 +409,8 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
                     renderFlashcard();
                     renderExercises();
                     renderLongAnswer();
-                    renderCaseStudy();
+                    renderNumericalQuestions();
+                    // Case Study section removed
                 } catch (e) {
                     showGlobalDebug('ERROR: Exception during rendering: ' + e.message, true);
                     console.error(e);
@@ -710,27 +698,21 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
     }
 
     // --- Flashcards Render ---
+    // Case Study section removed
     function renderFlashcard() {
         const fcDiv = document.getElementById('flashcards');
-        const countSpan = document.getElementById('flashcard-count');
-
         fcDiv.innerHTML = '';
-        if (!flashcards.length) {
-            if (countSpan) countSpan.textContent = 'No flashcards available.';
-            return;
-        }
-        if (countSpan) countSpan.textContent = `${flashIndex + 1} / ${flashcards.length}`;
+        if (!flashcards || !flashcards.length) return;
         const cardData = flashcards[flashIndex];
-        // Flippable card
         const cardContainer = document.createElement('div');
         cardContainer.className = 'flashcard-container';
         const cardInner = document.createElement('div');
         cardInner.className = 'flashcard-inner';
         const cardFront = document.createElement('div');
-        cardFront.className = 'flashcard-face flashcard-front';
+        cardFront.className = 'flashcard-face flashcard-front flex items-center justify-center';
         cardFront.innerHTML = `<span>${cardData.front}</span>`;
         const cardBack = document.createElement('div');
-        cardBack.className = 'flashcard-face flashcard-back';
+        cardBack.className = 'flashcard-face flashcard-back flex items-center justify-center';
         cardBack.innerHTML = `<span>${cardData.back}</span>`;
         cardInner.appendChild(cardFront);
         cardInner.appendChild(cardBack);
@@ -739,6 +721,7 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
             this.classList.toggle('is-flipped');
         });
         fcDiv.appendChild(cardContainer);
+        document.getElementById('flashcard-count').textContent = `Card ${flashIndex + 1} of ${flashcards.length}`;
     }
 
     function prevFlashcard() {
@@ -1008,7 +991,7 @@ function checkAnswers(type) {
             laDiv.innerHTML = '<em>No long answer questions available.</em>';
             return;
         }
-        laDiv.innerHTML = chapterData.longAnswerQuestions.map((s, idx) => {
+        let html = chapterData.longAnswerQuestions.map((s, idx) => {
             let answerBtns = '';
             let answerBlocks = '';
             const answerTypes = [
@@ -1030,8 +1013,42 @@ function checkAnswers(type) {
             return `<div class=\"mb-6\"><strong>Q${idx + 1}. ${title}:</strong> ${text}<br>${answerBtns}${answerBlocks}</div>`;
         }).join('');
 
-        // Remove global utterances, will generate per-window on play
+        // Numerical Questions Accordion
+        if (chapterData.exercises && chapterData.exercises.numericalQuestions && chapterData.exercises.numericalQuestions.length > 0) {
+            html += `<div class=\"accordion-item mb-4\">`
+                + `<button id=\"numericalAccordionBtn\" class=\"accordion-header w-full text-left px-4 py-3 bg-indigo-100 hover:bg-indigo-200 font-semibold rounded-t focus:outline-none\">Numerical Questions (Show/Hide)</button>`
+                + `<div id=\"numericalAccordionContent\" class=\"accordion-content px-4 py-3 bg-white border border-t-0 rounded-b hidden\">`
+                + chapterData.exercises.numericalQuestions.map((q, i) => `
+                    <div class=\"mb-4 p-3 bg-white rounded shadow-sm\">
+                        <p class=\"font-medium mb-2\">${i + 1}. ${q.question}</p>
+                        ${Array.isArray(q.table) && q.table.length > 0 ? `
+                        <table class=\"mb-2 w-full text-sm border\">
+                            <thead>
+                                <tr>
+                                    ${Object.keys(q.table[0]).map(col => `<th>${col}</th>`).join('')}
+                                </tr>
+                            </thead>
+                            <tbody>
+                                ${q.table.map(row => `<tr>${Object.values(row).map(val => `<td>${typeof val === 'number' ? `₹${val.toLocaleString()}` : val}</td>`).join('')}</tr>`).join('')}
+                            </tbody>
+                        </table>
+                        ` : ''}
+                        <div class=\"mb-2\"><strong>Guided Solution:</strong></div>
+                        <ol class=\"list-decimal list-inside mb-2\">${q.steps.map(step => `<li>${step}</li>`).join('')}</ol>
+                        <div class=\"bg-blue-50 border border-blue-200 rounded p-2 mt-1 text-sm\"><strong>Explanation:</strong> ${q.explanation}</div>
+                    </div>
+                `).join('')
+                + `</div>`
+                + `</div>`;
+        }
+        laDiv.innerHTML = html;
         longAnswerUtterances = [];
+        // Accordion logic for Numerical Questions
+        const numericalBtn = document.getElementById('numericalAccordionBtn');
+        const numericalContent = document.getElementById('numericalAccordionContent');
+        if (numericalBtn && numericalContent) {
+            numericalBtn.onclick = () => numericalContent.classList.toggle('hidden');
+        }
     }
 
     function playLongAnswer() {
@@ -1286,7 +1303,7 @@ function checkAnswers(type) {
             let foundChapter = '';
             if (window.chapterData && window.chapterData.id) {
                 // Use already loaded chapterData and fetch full content.json if needed
-                fetch('content.json')
+        fetch('chapter1.json')
                     .then(res => res.json())
                     .then(data => {
                         if (!data.chapters || !Array.isArray(data.chapters)) {
@@ -1407,6 +1424,7 @@ function checkAnswers(type) {
                 searchAnswer.textContent = 'Content not loaded.';
             }
         }
+    }
     </script>
 </body>
 </html>

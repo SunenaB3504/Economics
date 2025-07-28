@@ -1,35 +1,7 @@
 {
   "chapters": [
     {
-      "caseStudy": [
-        {
-          "questions": [
-            {
-              "answer": "The core management quality KnowledgeCompass is lacking is 'Coordination'. The scenario explicitly mentions that the design and development teams are operating in silos, leading to conflicts, delays, and wasted efforts. Coordination is the essence of management, ensuring unity of action among interdependent departments and individuals towards a common goal. Without it, even efficient individual departments can fail to achieve overall organizational objectives. The finance department's complaints about declining ROI and bad marketing further emphasize the lack of integrated effort.",
-              "marks": 5,
-              "question": "Identify and explain the core management quality that KnowledgeCompass is lacking in this scenario. Provide specific reasons from the case to support your answer.",
-              "type": "identify",
-              "wordLimit": 100
-            },
-            {
-              "answer": "To bring KnowledgeCompass back on track, the management should implement the following steps:1. Foster Inter-departmental Communication: Encourage regular meetings, joint brainstorming sessions, and shared platforms between design, development, and marketing teams. This can include cross-functional project teams.\n2. Establish Clear Common Goals: Top management must reinforce that all departmental goals are subservient to the overarching organizational goal of delivering innovative and user-friendly products. Performance metrics should reflect cross-departmental collaboration.\n3. Implement Strong Leadership and Directing: Neil and Kanishq, as top management, need to actively direct and mediate conflicts, ensuring that individual departmental objectives align with the company's broader vision. Middle management (e.g., heads of design, development, marketing) should be empowered and held accountable for coordinating their teams' efforts.\n4. Promote Teamwork and Cooperation: Organize team-building activities and create a culture where employees feel responsible for the success of the entire product, not just their part. Emphasize 'Management as a Group Activity' and 'Coordination as a deliberate function'.\n5. Implement Effective Controlling Mechanisms: Establish clear benchmarks for inter-departmental handovers and project timelines. Regular reviews should identify deviations early and corrective actions taken swiftly to prevent major conflicts and delays.",
-              "marks": 10,
-              "question": "As a management consultant, what specific steps would you advise KnowledgeCompass to take to resolve these issues and improve their overall operational effectiveness and efficiency? Link your advice to management functions and characteristics discussed in the chapter.",
-              "type": "explain",
-              "wordLimit": 200
-            },
-            {
-              "answer": "Effectiveness is about achieving the target goal, completing activities, and doing the right task, focusing on the end result. For KnowledgeCompass, this means successfully launching the new AI-powered learning modules.\nEfficiency is about doing the task correctly with minimum cost, utilizing resources optimally. This relates to the design and development teams completing their work without excessive rework, resource wastage, or delays due to poor coordination.\nIn the scenario, KnowledgeCompass is struggling with both. While they eventually launch products (implying some effectiveness), the significant delays and conflicts indicate a lack of efficiency due to wasted time and resources. The fact that the products, once launched, fail to fully meet user expectations also points to a compromise in effectiveness, as the 'right' product was not delivered, or delivered poorly. A balanced approach is crucial for sustained success.",
-              "marks": 8,
-              "question": "Differentiate between 'effectiveness' and 'efficiency' in the context of KnowledgeCompass's situation. How is the company currently performing on these two parameters?",
-              "type": "differentiate",
-              "wordLimit": 150
-            }
-          ],
-          "scenario": "KnowledgeCompass, once a nimble startup, has grown into a significant EdTech corporation with hundreds of employees across multiple departments: content design, software development, marketing, sales, and customer support. Neil, the CEO, and Kanishq, the CTO, are proud of their growth but increasingly concerned about internal friction. The latest project, developing an AI-powered adaptive learning module, is severely behind schedule and over budget. The content design team complains that the software development team doesn't follow their specifications, leading to constant rework. The development team argues that design frequently changes requirements mid-project, and marketing promises features that aren't technically feasible. Meanwhile, the marketing department is frustrated because they can't launch campaigns without finished products, and sales targets are being missed. Profits are stagnating despite increased revenue, and customer feedback indicates that while products are innovative, they often lack seamless integration and timely updates. Neil and Kanishq realize their 'garage' days' informal coordination is no longer sufficient. The company's overall market share is threatened by more agile competitors.",
-          "title": "The Growth Pains of KnowledgeCompass"
-        }
-      ],
+      
       "exercises": {
         "mcq": [
           {
@@ -122,7 +94,29 @@
             ],
             "question": "Which management function involves determining in advance what is to be done and who is to do it?",
             "topic": "Functions of Management"
-          }
+          },
+         {
+           "id": 101,
+           "type": "assertion_mcq",
+           "question": "Assertion and Reason",
+           "assertion": "The government can reduce the deflationary gap by purchasing government securities in the open market.",
+           "reason": "The Central Bank purchases government securities in the open market to increase the lending capacity of commercial banks.",
+           "options": [
+             "A. Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of Assertion (A).",
+             "B. Both Assertion (A) and Reason (R) are true, but Reason (R) is not the correct explanation of Assertion (A).",
+             "C. Assertion (A) is true, but Reason (R) is false.",
+             "D. Assertion (A) is false, but Reason (R) is true."
+           ],
+          "correctAnswerIndex": 3,
+           "answer": "D",
+           "explanation": "Assertion (A) is false, but Reason (R) is true.",
+           "steps": [
+             "Step 1: Evaluate Assertion (A) for truthfulness.",
+             "Step 2: Evaluate Reason (R) for truthfulness.",
+             "Step 3: If both are true, check if Reason (R) explains Assertion (A).",
+             "Step 4: Select the correct option based on your analysis."
+           ]
+         }
         ],
         "oneWord": [
           {
@@ -288,6 +282,118 @@
             "correctAnswer": false,
             "explanation": "While management functions are often discussed in a sequence (planning, organising, staffing, directing, controlling), in reality, they are interrelated and performed simultaneously by managers. It's often difficult to pinpoint where one ends and another begins.",
             "question": "The various functions of a manager, such as planning, organising, directing, staffing, and controlling, are always carried out in isolation and sequentially, one after the other. True or False?"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "question": "Calculate the percentage increase in profit if a company's profit rises from Rs 40,000 to Rs 50,000.",
+            "table": [
+              { "Year": "Previous", "Profit": 40000 },
+              { "Year": "Current", "Profit": 50000 }
+            ],
+            "steps": [
+              "Step 1: Find the increase in profit: 50,000 - 40,000 = 10,000.",
+              "Step 2: Calculate percentage increase: (10,000 / 40,000) x 100 = 25%."
+            ],
+            "explanation": "The profit increased by Rs 10,000, which is a 25% increase over the previous year's profit.",
+            "guided": true
+          },
+          {
+            "question": "Under the Keynesian theory, ‘Reference Line’ is a straight line passing through the origin drawn at an angle of _____.",
+            "options": ["250", "450", "550", "750"],
+            "steps": [
+              "Step 1: Recall that in the Keynesian model, the 45-degree line represents all points where Aggregate Supply equals Aggregate Demand.",
+              "Step 2: Identify the specific angle at which this reference line is drawn.",
+              "Solution: The correct angle is 45 degrees."
+            ],
+            "answer": "450",
+            "explanation": "The reference line in Keynesian theory is drawn at 45 degrees.",
+            "guided": true
+          },
+          {
+            "question": "As per the Union Budget 2023-24, the total receipts of the government other than borrowings and the total expenditure are estimated at ₹ 27.2 lakh crore and ₹ 45 lakh crore respectively. The value of the ________ deficit would be ₹ 17.8 lakh crore.",
+            "options": ["revenue", "fiscal", "budgetary", "primary"],
+            "steps": [
+              "Step 1: Fiscal deficit = Total Expenditure – Total Receipts (other than borrowings).",
+              "Step 2: Deficit = ₹ 45 lakh crore – ₹ 27.2 lakh crore = ₹ 17.8 lakh crore.",
+              "Step 3: The calculated value corresponds to 'fiscal deficit'."
+            ],
+            "answer": "fiscal",
+            "explanation": "The fiscal deficit is ₹ 17.8 lakh crore.",
+            "guided": true
+          },
+          {
+            "question": "The trade under current account during January 2024 reflects a _________ of USD _____ billion.",
+            "options": ["surplus, 0.74", "surplus, 3.85", "deficit, 0.74", "deficit, 3.85"],
+            "steps": [
+              "Step 1: Identify the nature of the trade balance (surplus or deficit).",
+              "Step 2: Identify the numerical value of the trade balance.",
+              "Solution: The trade under current account reflects a deficit, 0.74 USD billion."
+            ],
+            "answer": "deficit, 0.74",
+            "explanation": "The trade under current account reflects a deficit of USD 0.74 billion.",
+            "guided": true
+          },
+          {
+            "question": "Estimate the value of Domestic Income (NDPFC) using the following data:",
+            "table": [
+              {"Item": "Household Consumption Expenditure", "Amount": 800},
+              {"Item": "Gross Business Fixed Capital Formation", "Amount": 150},
+              {"Item": "Gross Residential Construction Investment", "Amount": 120},
+              {"Item": "Government Final Consumption Expenditure", "Amount": 170},
+              {"Item": "Excess of Imports over Exports", "Amount": 20},
+              {"Item": "Inventory Investment", "Amount": 140},
+              {"Item": "Gross Public Investment", "Amount": 500},
+              {"Item": "Net Indirect Taxes", "Amount": 70},
+              {"Item": "Net Factor Income From Abroad", "Amount": -50},
+              {"Item": "Consumption of Fixed Capital", "Amount": 40}
+            ],
+            "steps": [
+              "Step 1: Add all expenditure components.",
+              "Step 2: Subtract Excess of Imports over Exports, Consumption of Fixed Capital, and Net Indirect Taxes.",
+              "Step 3: NDPFC = 800 + 170 + 150 + 120 + 500 + 140 – 20 – 40 – 70 = ₹ 1,750 crore."
+            ],
+            "answer": "₹ 1,750 crore",
+            "explanation": "Domestic Income (NDPFC) is ₹ 1,750 crore.",
+            "guided": true
+          },
+          {
+            "question": "For two hypothetical economies A and B, MPC = 0.6 and 0.8 respectively. Autonomous Consumption = ₹ 40 crore, Investment Expenditure = ₹ 100 crore. Calculate: (I) Break-even level of income for Economy A (II) Equilibrium level of income for Economy B.",
+            "steps": [
+              "(I) Break-even for A: Y = C; C = 40 + 0.6Y; Y = 40 + 0.6Y; 0.4Y = 40; Y = 100 crore.",
+              "(II) Equilibrium for B: Y = C + I; C = 40 + 0.8Y; Y = 40 + 0.8Y + 100; 0.2Y = 140; Y = 700 crore."
+            ],
+            "answer": "Break-even (A): ₹ 100 crore; Equilibrium (B): ₹ 700 crore",
+            "explanation": "Break-even income for A is ₹ 100 crore; equilibrium income for B is ₹ 700 crore.",
+            "guided": true
+          },
+          {
+            "question": "Explain the working process of the increase in investment on National Income, assuming MPS = 20%.",
+            "table": [
+              {"Round": 1, "Increase in investment (ΔI)": 1000, "Increase in income (ΔY)": 1000, "Increase in consumption (ΔC)": 800, "Increase in savings (ΔS)": 200},
+              {"Round": 2, "Increase in investment (ΔI)": null, "Increase in income (ΔY)": 800, "Increase in consumption (ΔC)": 640, "Increase in savings (ΔS)": 160},
+              {"Round": 3, "Increase in investment (ΔI)": null, "Increase in income (ΔY)": 640, "Increase in consumption (ΔC)": 512, "Increase in savings (ΔS)": 128},
+              {"Round": "Total", "Increase in investment (ΔI)": 1000, "Increase in income (ΔY)": 5000, "Increase in consumption (ΔC)": 4000, "Increase in savings (ΔS)": 1000}
+            ],
+            "steps": [
+              "Step 1: MPS = 0.2, so MPC = 0.8.",
+              "Step 2: Initial investment of ₹ 1,000 crore increases income by ₹ 1,000 crore.",
+              "Step 3: Each round, 80% is consumed, 20% is saved; process continues until total savings = investment.",
+              "Step 4: Multiplier k = 1 / MPS = 5; total increase in income = 5 × ₹ 1,000 crore = ₹ 5,000 crore."
+            ],
+            "answer": "Total increase in National Income is ₹ 5,000 crore.",
+            "explanation": "An increase in investment of ₹ 1,000 crore leads to a total increase in national income by ₹ 5,000 crore.",
+            "guided": true
+          },
+          {
+            "question": "Calculate the percentage change in Real GDP in 2023 using 2020 as the base year. Data: Real GDP in 2020 = ₹ 4,000 crore, Real GDP in 2023 = ₹ 4,500 crore.",
+            "steps": [
+              "Step 1: Change in Real GDP = ₹ 4,500 crore – ₹ 4,000 crore = ₹ 500 crore.",
+              "Step 2: Percentage change = (500 / 4,000) × 100 = 12.5%."
+            ],
+            "answer": "12.5%",
+            "explanation": "Percentage change in Real GDP is 12.5%.",
+            "guided": true
           }
         ]
       },
