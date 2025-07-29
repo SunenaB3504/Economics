@@ -1,9 +1,38 @@
+<!-- Removed duplicate metadata fetch. All dynamic metadata and content integration is handled in the main script block at the end of <body>. -->
+</body>
+<script>
+// Fetch updated chapter1.json and render all sections
+// --- Dynamic Metadata Integration ---
+fetch('chapter1.json')
+  .then(response => response.json())
+  .then(data => {
+    if (data.metadata) {
+      document.title = 'Economics';
+      const mainHeading = document.getElementById('mainHeading');
+      if (mainHeading) {
+        mainHeading.textContent = 'Economics';
+      }
+      const unitSubheading = document.getElementById('unitSubheading');
+      if (unitSubheading) {
+        unitSubheading.textContent = data.metadata.chapterTitle;
+      }
+    }
+    // Get chapter data (first chapter object)
+    window.chapterData = Array.isArray(data.chapters) ? data.chapters[0] : null;
+    if (!window.chapterData) return;
+    // Render all sections
+    window.flashcards = window.chapterData.flashcards || [];
+    renderExercises();
+    renderLongAnswer();
+    renderNumericalQuestions();
+  });
+</script>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chapter 1: Nature and Significance of Management</title>
+    <title>Economics</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📘</text></svg>">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
@@ -66,9 +95,11 @@
 </head>
 <body class="bg-gray-100 min-h-screen">
     <header class="bg-blue-900 text-white py-6 px-8">
+    <!-- Emoji favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📘</text></svg>" />
         <div class="flex flex-col md:flex-row md:items-center md:justify-between">
             <div>
-                <h1 id="mainHeading" class="text-3xl font-bold mb-1">Business Studies</h1>
+                <h1 id="mainHeading" class="text-3xl font-bold mb-1">Economics</h1>
                 <p id="unitSubheading" class="text-lg"></p>
 
             </div>
@@ -374,52 +405,51 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
         const mainHeading = document.getElementById('mainHeading');
         const unitSubheading = document.getElementById('unitSubheading');
 
-        showGlobalDebug('Fetching content.json...', false);
         fetch('chapter1.json')
-            .then(function(res) {
-                if (!res.ok) {
-                    showGlobalDebug('ERROR: Failed to fetch content.json. Status: ' + res.status, true);
-                    throw new Error('Failed to fetch content.json');
-                }
-                showGlobalDebug('content.json fetched successfully.', false);
-                return res.json();
-            })
-            .then(function(data) {
-                showGlobalDebug('Parsing content.json and searching for chapter1...', false);
-                if (!data.chapters || !Array.isArray(data.chapters)) {
-                    showGlobalDebug('ERROR: content.json does not contain a "chapters" array.', true);
-                    return;
-                }
-                chapterData = data.chapters.find(function(ch) { return ch.id === 'chapter1'; });
-                if (!chapterData) {
-                    showGlobalDebug('ERROR: chapter1 not found in content.json.', true);
-                    return;
-                }
-                // Set subheading dynamically
-                if (unitSubheading && chapterData.unitNumber && chapterData.unitName) {
-                    unitSubheading.textContent = `Unit ${chapterData.unitNumber}: ${chapterData.unitName}`;
-                } else if (unitSubheading && chapterData.title) {
-                    unitSubheading.textContent = chapterData.title;
-                }
-                showGlobalDebug('chapter1 found. Rendering sections...', false);
-                try {
-                    renderFullStory();
-                    renderMindmap();
-                    flashcards = chapterData.flashcards || [];
-                    renderFlashcard();
-                    renderExercises();
-                    renderLongAnswer();
-                    renderNumericalQuestions();
-                    // Case Study section removed
-                } catch (e) {
-                    showGlobalDebug('ERROR: Exception during rendering: ' + e.message, true);
-                    console.error(e);
-                }
-            })
-            .catch(function(err) {
-                showGlobalDebug('ERROR: Exception during fetch or render: ' + err.message, true);
-                console.error(err);
-            });
+          .then(function(res) {
+            if (!res.ok) {
+              showGlobalDebug('ERROR: Failed to fetch chapter1.json. Status: ' + res.status, true);
+              throw new Error('Failed to fetch chapter1.json');
+            }
+            showGlobalDebug('chapter1.json fetched successfully.', false);
+            return res.json();
+          })
+          .then(function(data) {
+            showGlobalDebug('Parsing chapter1.json and searching for chapter1...', false);
+            if (!data.chapters || !Array.isArray(data.chapters)) {
+              showGlobalDebug('ERROR: chapter1.json does not contain a "chapters" array.', true);
+              return;
+            }
+            chapterData = data.chapters.find(function(ch) { return ch.id === 'chapter1'; });
+            if (!chapterData) {
+              showGlobalDebug('ERROR: chapter1 not found in chapter1.json.', true);
+              return;
+            }
+            // Set subheading dynamically
+            if (unitSubheading && chapterData.unitNumber && chapterData.unitName) {
+              unitSubheading.textContent = `Unit ${chapterData.unitNumber}: ${chapterData.unitName}`;
+            } else if (unitSubheading && chapterData.title) {
+              unitSubheading.textContent = chapterData.title;
+            }
+            showGlobalDebug('chapter1 found. Rendering sections...', false);
+            try {
+              renderFullStory();
+              renderMindmap();
+              flashcards = chapterData.flashcards || [];
+              renderFlashcard();
+              renderExercises();
+              renderLongAnswer();
+              renderNumericalQuestions();
+              // Case Study section removed
+            } catch (e) {
+              showGlobalDebug('ERROR: Exception during rendering: ' + e.message, true);
+              console.error(e);
+            }
+          })
+          .catch(function(err) {
+            showGlobalDebug('ERROR: Exception during fetch or render: ' + err.message, true);
+            console.error(err);
+          });
 
 
         // --- Event Listeners ---
@@ -521,12 +551,38 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
         }
         // Render all storyParts as a single block, using richHtml if present
         let html = '';
-        chapterData.story[0].storyParts.forEach((part, idx) => {
-            if (part.richHtml) {
-                html += `<div class="mb-2">${part.richHtml}</div>`;
-            } else {
-                html += `<div class="mb-2"><span class="font-semibold">${part.speaker}:</span> ${part.text}</div>`;
+        if (!chapterData.story || !Array.isArray(chapterData.story) || chapterData.story.length === 0) {
+            fullStoryDiv.innerHTML = '<em>No anecdote available.</em>';
+            return;
+        }
+        chapterData.story.forEach((story, storyIdx) => {
+            // Story title
+            if (story.title) {
+                html += `<h3 class="text-xl font-bold mb-2 mt-6 text-blue-900">${story.title}</h3>`;
             }
+            // Story parts
+            story.storyParts.forEach((part, idx) => {
+                let speakerClass = '';
+                let avatar = '';
+                if (part.speaker === 'Neil') {
+                    speakerClass = 'text-blue-700 font-bold';
+                    avatar = '<span class="inline-block w-8 h-8 rounded-full bg-blue-200 text-blue-900 text-xl mr-2 align-middle">👦</span>';
+                } else if (part.speaker === 'Kanishq') {
+                    speakerClass = 'text-green-700 font-bold';
+                    avatar = '<span class="inline-block w-8 h-8 rounded-full bg-green-200 text-green-900 text-xl mr-2 align-middle">🧑</span>';
+                } else if (part.speaker === 'Narrator') {
+                    speakerClass = 'text-gray-700 font-semibold';
+                    avatar = '<span class="inline-block w-8 h-8 rounded-full bg-gray-200 text-gray-900 text-xl mr-2 align-middle">🎤</span>';
+                } else {
+                    speakerClass = 'text-yellow-700 font-semibold';
+                    avatar = '<span class="inline-block w-8 h-8 rounded-full bg-yellow-100 text-yellow-900 text-xl mr-2 align-middle">🗣️</span>';
+                }
+                if (part.richHtml) {
+                    html += `<div class="mb-4 p-3 rounded-lg bg-blue-50 shadow flex items-start">${avatar}<div>${part.richHtml}</div></div>`;
+                } else {
+                    html += `<div class="mb-4 p-3 rounded-lg bg-blue-50 shadow flex items-start">${avatar}<div><span class="${speakerClass}">${part.speaker ? part.speaker + ':' : ''}</span> <span class="text-gray-900">${part.text}</span></div></div>`;
+                }
+            });
         });
         fullStoryDiv.innerHTML = html;
 
@@ -540,11 +596,20 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
         }
         const speechService = window.speechService;
 
-        // Prepare utterances: one per story part, with speaker
-        let storyUtterances = chapterData.story[0].storyParts.map(part => ({
-            text: part.text,
-            speaker: part.speaker || 'Narrator'
-        }));
+        // Prepare utterances: flatten all storyParts from all stories
+        let storyUtterances = [];
+        if (chapterData.story && Array.isArray(chapterData.story)) {
+            chapterData.story.forEach(story => {
+                if (story.storyParts && Array.isArray(story.storyParts)) {
+                    story.storyParts.forEach(part => {
+                        storyUtterances.push({
+                            text: part.text,
+                            speaker: part.speaker || 'Narrator'
+                        });
+                    });
+                }
+            });
+        }
         let currentIdx = 0;
         let isPaused = false;
         let isPlaying = false;
