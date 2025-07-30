@@ -5,1173 +5,722 @@
         {
           "questions": [
             {
-              "answer": "The core economic problem faced by KnowledgeCompass is a significant decline in overall demand for educational products and services, leading to reduced sales and the need for layoffs. This points to a widespread economic downturn affecting multiple sectors, rather than an issue specific to KnowledgeCompass's product or market strategy.",
-              "marks": 3,
-              "question": "Identify the core economic problem faced by KnowledgeCompass in this scenario.",
-              "type": "identify",
-              "wordLimit": 50
-            },
-            {
-              "answer": "This situation exemplifies a macroeconomic challenge because it involves aggregate variables of the economy as a whole. The decline in sales is not due to KnowledgeCompass's specific product flaws or competitive pricing, but rather to a nationwide drop in overall purchasing power and employment. This widespread impact on consumption and investment across various sectors (affecting not just EdTech, but also other industries people are being laid off from) is characteristic of a macroeconomic issue like a recession or depression, where the economy as a whole is experiencing low output and high unemployment. Microeconomic issues would typically focus on individual firm decisions or specific market dynamics, not a general fall in demand affecting many businesses.",
-              "marks": 5,
-              "question": "Explain how this situation exemplifies a macroeconomic challenge rather than a microeconomic one for KnowledgeCompass.",
+              "answer": "KnowledgeCompass, as a growing EdTech startup, initially focused on microeconomic decisions like pricing individual courses, optimizing production of study materials, and managing employee wages to maximize profit. However, as it scaled into a corporation, it increasingly encountered macroeconomic factors. For instance, national inflation rates impact the cost of resources for content creation, while the overall employment levels in the country affect the demand for skill-enhancing courses and the availability of talent. Government educational policies or changes in interest rates (macro variables) would significantly influence their investment decisions and market reach, demonstrating a shift from purely firm-level concerns to broader economic considerations.",
+              "marks": 6,
+              "question": "KnowledgeCompass, founded by Neil and Kanishq, grew from a garage startup to a major corporation. Discuss how the economic decisions made by KnowledgeCompass might have evolved from being primarily 'microeconomic' in nature to requiring a 'macroeconomic' perspective as it scaled.",
               "type": "explain",
-              "wordLimit": 100
+              "wordLimit": 150
             },
             {
-              "answer": "In this scenario, KnowledgeCompass can control microeconomic factors such as its product offerings, pricing strategies, marketing campaigns, and internal operational efficiencies. For example, they could try to innovate their content, adjust subscription models, or streamline their production process. However, they cannot control the macroeconomic factors like the national unemployment rate, the overall decline in aggregate demand, or general price levels across the economy. These broader economic conditions are beyond the influence of any single firm, however large, and are typically addressed by government policies or central bank interventions aimed at stimulating the entire economy. KnowledgeCompass's challenge arises from these uncontrollable external macroeconomic forces impacting their market.",
-              "marks": 7,
-              "question": "Differentiate between the factors KnowledgeCompass can control (micro) and those it cannot (macro) in this scenario.",
-              "type": "differentiate",
+              "answer": "The 'Great Depression' scenario, where output and employment fell drastically, highlights the systemic risks that can affect even successful companies like KnowledgeCompass. If the economy experiences a similar downturn, KnowledgeCompass could face reduced demand for its EdTech products due to lower household incomes and increased unemployment, leading to decreased enrollments. Additionally, a depressed economy might impact their ability to secure investment for expansion or attract top talent, as overall economic uncertainty makes businesses and individuals more cautious. This illustrates why macro-level economic health is crucial even for individual firms.",
+              "marks": 5,
+              "question": "The chapter discusses the 'Great Depression' of 1929. Imagine a similar significant economic downturn occurring today. How might this macroeconomic phenomenon specifically impact KnowledgeCompass's business operations and growth strategy?",
+              "type": "explain",
               "wordLimit": 120
+            },
+            {
+              "answer": "The household sector provides the labor force (employees like teachers, developers, marketers for KnowledgeCompass) and also forms the primary consumer base for KnowledgeCompass's educational products. The firm sector (KnowledgeCompass itself) produces goods/services and employs labor. The government sector sets policies (e.g., educational reforms, tax incentives for EdTech) and provides public goods/services that can support or hinder KnowledgeCompass's operations. The external sector involves international sales of KnowledgeCompass's online courses (exports) and purchasing foreign technology (imports), impacting its global reach and operational efficiency.",
+              "marks": 7,
+              "question": "KnowledgeCompass operates within a larger economic system. Identify and explain the roles of the four major sectors (Households, Firms, Government, External Sector) in the context of KnowledgeCompass's business model.",
+              "type": "identify",
+              "wordLimit": 180
+            },
+            {
+              "answer": "The core difference lies in their focus: microeconomics studies individual economic units (like KnowledgeCompass as a single firm, or a student deciding which course to buy), their behavior, and market interactions. Macroeconomics, on the other hand, examines the economy as a whole, looking at aggregates like national income, overall employment, and general price levels. For KnowledgeCompass, microeconomics would involve setting tuition fees or deciding on staff salaries, while macroeconomics would involve analyzing how national inflation rates affect their overall profitability or how government spending on education influences total market size.",
+              "marks": 6,
+              "question": "Differentiate between microeconomics and macroeconomics using examples relevant to KnowledgeCompass's operations.",
+              "type": "differentiate",
+              "wordLimit": 150
+            },
+            {
+              "answer": "For KnowledgeCompass, investment expenditure would include purchasing new servers and software for their online learning platform, building new physical coaching centers, or investing in research and development for new educational technologies. These expenditures are aimed at increasing their productive capacity, allowing them to serve more students or offer more advanced courses in the future.",
+              "marks": 3,
+              "question": "Define 'investment expenditure' in the context of a capitalist economy and provide examples of what this would entail for KnowledgeCompass.",
+              "type": "explain",
+              "wordLimit": 80
             }
           ],
-          "scenario": "KnowledgeCompass, the successful EdTech startup founded by Neil and Kanishq, had been on an exponential growth trajectory for years. They expanded from a small garage operation to a multinational corporation, continually launching innovative educational products and services. However, the last year has seen an unprecedented downturn. Nationally, unemployment has soared, and consumer spending has plummeted. Families are tightening their belts, leading to a significant drop in new subscriptions and renewals for KnowledgeCompass’s premium learning modules. Despite their competitive pricing and high-quality content, sales are down by 30%, forcing Neil and Kanishq to consider layoffs. Their competitor, 'LearnSmart', which operates in a niche segment of language learning, is also struggling, but their primary challenge seems to stem from a new rival offering free lessons, a problem unique to their specific market. Neil and Kanishq realize their own problem feels much broader, affecting almost every business, from local restaurants to large manufacturing plants, rather than just the EdTech sector.",
-          "title": "KnowledgeCompass and the Economic Landscape: A Macroeconomic Conundrum"
+          "scenario": "KnowledgeCompass, a leading EdTech startup founded by Neil and Kanishq, has seen exponential growth, expanding from a small garage operation to a multi-national corporation. As they plan their next phase of expansion, which involves launching new AI-powered learning modules and opening several international centers, they encounter various economic considerations. Neil is concerned about rising national inflation and its impact on their operational costs and customer purchasing power, while Kanishq is focused on optimizing internal resource allocation and pricing strategies for their new courses. They recently attended an economic summit where discussions revolved around government fiscal policies and global trade imbalances.",
+          "title": "KnowledgeCompass: Navigating the Macroeconomic Landscape"
         }
       ],
       "exercises": {
         "mcq": [
           {
-            "correctAnswerIndex": 0,
-            "explanation": "Microeconomics focuses on individual economic units like consumers, producers, and specific markets. Macroeconomics, on the other hand, deals with the economy as a whole, addressing aggregate variables like national income, unemployment, and inflation.",
-            "keywords": [
-              "Microeconomics",
-              "Macroeconomics",
-              "Individual units",
-              "Economy as a whole"
-            ],
+            "correctAnswerIndex": 2,
+            "explanation": "Macroeconomics focuses on the economy as a whole, dealing with aggregate variables like national income, unemployment, and inflation, unlike microeconomics which deals with individual units.",
             "options": [
-              "Individual economic units and specific markets",
-              "The economy as a whole, including national income and unemployment",
-              "The study of government policies only",
-              "Financial markets and stock prices"
+              "Study of individual consumer behavior",
+              "Analysis of single market demand and supply",
+              "Study of the economy as a whole",
+              "Examination of a firm's pricing strategy"
             ],
-            "question": "Which of the following best describes the primary focus of microeconomics?",
-            "topic": "Microeconomics vs. Macroeconomics"
-          },
-          {
-            "correctAnswerIndex": 3,
-            "explanation": "Macroeconomic questions concern the health of the economy as a whole, such as general price levels (inflation/deflation), overall employment conditions, and indicators of economic growth or decline. Individual firm profit maximization is a microeconomic concern.",
-            "keywords": [
-              "Macroeconomics",
-              "Economic questions",
-              "Prices",
-              "Employment",
-              "Economy as a whole"
-            ],
-            "options": [
-              "How a single consumer decides what to buy",
-              "How a firm determines its optimal production level",
-              "The profit maximization strategies of KnowledgeCompass",
-              "Whether prices as a whole will rise or fall in the country"
-            ],
-            "question": "Which of the following is a typical question addressed by macroeconomics?",
-            "topic": "Macroeconomic Concerns"
+            "question": "What is the primary focus of macroeconomics?"
           },
           {
             "correctAnswerIndex": 1,
-            "explanation": "The Great Depression, starting in 1929, was a severe economic downturn characterized by massive falls in output and employment across Europe and North America, significantly challenging the classical economic view of self-correcting markets.",
-            "keywords": [
-              "Great Depression",
-              "1929",
-              "Output",
-              "Employment",
-              "Classical tradition"
-            ],
-            "options": [
-              "The end of World War II",
-              "The Great Depression of 1929",
-              "The Industrial Revolution",
-              "The Dot-com bubble burst"
-            ],
-            "question": "The emergence of macroeconomics as a separate branch of economics is closely linked to the events surrounding which major historical economic crisis?",
-            "topic": "Emergence of Macroeconomics"
-          },
-          {
-            "correctAnswerIndex": 2,
-            "explanation": "John Maynard Keynes published 'The General Theory of Employment, Interest and Money' in 1936, which challenged the classical assumption of automatic full employment and laid the foundation for modern macroeconomics.",
-            "keywords": [
-              "John Maynard Keynes",
-              "The General Theory",
-              "1936",
-              "Macroeconomics"
-            ],
+            "explanation": "John Maynard Keynes published 'The General Theory of Employment, Interest and Money' in 1936, which marked the emergence of macroeconomics as a separate branch.",
             "options": [
               "Adam Smith",
-              "David Ricardo",
               "John Maynard Keynes",
-              "Milton Friedman"
+              "Alfred Marshall",
+              "David Ricardo"
             ],
-            "question": "Who published 'The General Theory of Employment, Interest and Money' in 1936, which is credited with the emergence of macroeconomics?",
-            "topic": "Keynes and Macroeconomics"
-          },
-          {
-            "correctAnswerIndex": 3,
-            "explanation": "The classical tradition in economics, prevalent before Keynes, believed that all willing labourers would find employment and factories would operate at full capacity, assuming self-correcting markets.",
-            "keywords": [
-              "Classical tradition",
-              "Full employment",
-              "Full capacity",
-              "Self-correcting markets"
-            ],
-            "options": [
-              "Government intervention is essential for full employment",
-              "Markets often fail to reach equilibrium",
-              "Aggregate demand is the primary driver of output",
-              "All labourers ready to work will find employment"
-            ],
-            "question": "What was a dominant belief of the 'classical tradition' in economics before Keynes?",
-            "topic": "Classical vs. Keynesian Thought"
+            "question": "Which economist is credited with the emergence of macroeconomics as a separate branch of economics?"
           },
           {
             "correctAnswerIndex": 0,
-            "explanation": "Unemployment rate is defined as the number of people not working but looking for jobs, divided by the total number of people working or looking for jobs, multiplied by 100.",
-            "keywords": [
-              "Unemployment rate",
-              "Definition",
-              "Labor force"
-            ],
+            "explanation": "The Great Depression, which started in 1929, highlighted the limitations of classical economic thought and necessitated a new approach to understand widespread unemployment and output fall.",
             "options": [
-              "Number of people unemployed and looking for jobs / (Total working + Total looking for jobs)",
-              "Total unemployed people / Total population",
-              "Total employed people / Total working age population",
-              "Number of people who stopped looking for jobs / Total labor force"
+              "The Great Depression of 1929",
+              "The Industrial Revolution",
+              "The World War I",
+              "The rise of globalization"
             ],
-            "question": "How is the unemployment rate typically defined?",
-            "topic": "Economic Indicators"
-          },
-          {
-            "correctAnswerIndex": 1,
-            "explanation": "A capitalist economy is characterized by private ownership of the means of production, production for sale in the market, and the presence of wage labor where labor services are bought and sold at a wage rate.",
-            "keywords": [
-              "Capitalist economy",
-              "Characteristics",
-              "Private ownership",
-              "Market production",
-              "Wage labor"
-            ],
-            "options": [
-              "State ownership of all means of production",
-              "Private ownership of means of production, production for market, wage labor",
-              "Production primarily for self-consumption by families",
-              "Absence of a market for goods and services"
-            ],
-            "question": "Which of the following is a defining characteristic of a capitalist economy?",
-            "topic": "Capitalist Economy"
-          },
-          {
-            "correctAnswerIndex": 2,
-            "explanation": "Entrepreneurship involves exercising control over major decisions, bearing risk, and organizing factors of production (land, labor, capital) to generate profit.",
-            "keywords": [
-              "Factors of production",
-              "Entrepreneurship",
-              "Risk",
-              "Decision-making",
-              "Profit"
-            ],
-            "options": [
-              "Only the supply of raw materials",
-              "Only the financial capital borrowed for production",
-              "Control over decisions, risk-bearing, and organizing production",
-              "The physical space where production takes place"
-            ],
-            "question": "In a capitalist enterprise, 'entrepreneurship' primarily refers to:",
-            "topic": "Factors of Production"
+            "question": "What historical event significantly contributed to the development of macroeconomics?"
           },
           {
             "correctAnswerIndex": 3,
-            "explanation": "Revenue is the total money earned from selling products. Profits are what remains after paying for factors of production (rent, interest, wages). Investment expenditure is using profits to buy new machinery or build factories to expand productive capacity.",
-            "keywords": [
-              "Revenue",
-              "Profit",
-              "Investment expenditure",
-              "Productive capacity"
-            ],
+            "explanation": "In a capitalist economy, production primarily takes place for selling the output in the market to earn profit, as opposed to self-consumption or state control.",
             "options": [
-              "Money paid as wages to laborers",
-              "Money paid as interest on borrowed capital",
-              "Money earned from selling land",
-              "Expenses which raise productive capacity for future production"
+              "Production is solely for self-consumption",
+              "Means of production are owned by the state",
+              "Labour services are not bought or sold",
+              "Production takes place for selling the output in the market"
             ],
-            "question": "What is 'investment expenditure' in a capitalist economy?",
-            "topic": "Capitalist Economy Concepts"
+            "question": "Which of the following is a key characteristic of a capitalist economy?"
           },
           {
             "correctAnswerIndex": 0,
-            "explanation": "Wage labor refers to labor services that are bought and sold against wages in a market, distinguishing it from labor performed by family members for self-consumption.",
-            "keywords": [
-              "Wage labor",
-              "Wages",
-              "Labor services",
-              "Market"
-            ],
+            "explanation": "Households consist of individuals who make consumption decisions, save, pay taxes, and supply labor and capital to firms and government.",
             "options": [
-              "Labor services sold and purchased against wages",
-              "Labor provided by family members for self-consumption",
-              "Labor performed by government employees",
-              "Labor provided voluntarily without payment"
-            ],
-            "question": "What is meant by 'wage labor'?",
-            "topic": "Capitalist Economy Terms"
-          },
-          {
-            "correctAnswerIndex": 1,
-            "explanation": "The four major sectors in an economy from a macroeconomic point of view are households, firms, government, and the external sector. Financial institutions are part of the firm/business sector or act as intermediaries.",
-            "keywords": [
-              "Sectors of economy",
-              "Macroeconomic sectors",
               "Households",
               "Firms",
               "Government",
-              "External sector"
+              "External Sector"
             ],
-            "options": [
-              "Consumers, producers, banks, and markets",
-              "Households, firms, government, and external sector",
-              "Agriculture, industry, services, and trade",
-              "Private sector, public sector, and non-profit organizations"
-            ],
-            "question": "According to the macroeconomic point of view, what are the four major sectors in an economy?",
-            "topic": "Sectors of the Economy"
-          },
-          {
-            "correctAnswerIndex": 3,
-            "explanation": "Households are the source of demand for goods and services, supply labor and capital, and receive income as wages, salaries, rent, or interest. They also save and pay taxes.",
-            "keywords": [
-              "Households",
-              "Economic agents",
-              "Demand",
-              "Supply of labor",
-              "Income"
-            ],
-            "options": [
-              "Primarily responsible for framing laws and enforcing justice",
-              "Entities that undertake production activities to earn profit",
-              "Organizations that manage monetary policy and interest rates",
-              "Individuals or groups making consumption decisions and supplying factors of production"
-            ],
-            "question": "What is the primary role of the 'household sector' in an economy?",
-            "topic": "Sectors of the Economy - Households"
-          },
-          {
-            "correctAnswerIndex": 2,
-            "explanation": "The State, or Government, performs economic functions such as framing and enforcing laws, undertaking production (public services), imposing taxes, and spending on public infrastructure, education, and health.",
-            "keywords": [
-              "State",
-              "Government",
-              "Economic functions",
-              "Taxes",
-              "Public services"
-            ],
-            "options": [
-              "Maximizing private profits for shareholders",
-              "Providing only defense services",
-              "Framing laws, imposing taxes, providing public services",
-              "Regulating individual consumer choices"
-            ],
-            "question": "Which of the following is an economic function typically performed by the State (Government)?",
-            "topic": "Sectors of the Economy - Government"
-          },
-          {
-            "correctAnswerIndex": 0,
-            "explanation": "The external sector deals with trade (exports and imports) and capital flows between the domestic country and the rest of the world. Interest rates are determined domestically, and consumer preferences are part of the household sector.",
-            "keywords": [
-              "External sector",
-              "Exports",
-              "Imports",
-              "Capital flows",
-              "International trade"
-            ],
-            "options": [
-              "Exports, imports, and capital flows from foreign countries",
-              "Only the movement of people across borders",
-              "The determination of domestic interest rates",
-              "The preferences of consumers in different countries"
-            ],
-            "question": "The 'external sector' in macroeconomics primarily refers to:",
-            "topic": "Sectors of the Economy - External"
+            "question": "Which sector in an economy makes decisions relating to consumption and also supplies labor?"
           },
           {
             "correctAnswerIndex": 1,
-            "explanation": "Adam Smith suggested that if individuals act in their self-interest in markets, the wealth and welfare of the country as a whole would naturally be promoted, often referred to as the 'invisible hand' concept.",
-            "keywords": [
-              "Adam Smith",
-              "Self-interest",
-              "Wealth of Nations",
-              "Founding father"
-            ],
+            "explanation": "The Reserve Bank of India (RBI) is a statutory body that pursues macroeconomic policies like managing money supply and interest rates.",
             "options": [
-              "That the State must directly control all economic activities",
-              "That individuals pursuing self-interest in markets benefit the whole country",
-              "That markets are inherently unstable and require constant intervention",
-              "That national wealth depends on accumulating gold and silver"
+              "Individual consumers",
+              "Reserve Bank of India (RBI)",
+              "Private companies",
+              "Small businesses"
             ],
-            "question": "What did Adam Smith, the founding father of modern economics, primarily suggest regarding individual self-interest in markets?",
-            "topic": "Adam Smith and Classical Economics"
+            "question": "Who among the following is a macroeconomic decision-maker?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Unemployment rate is defined as the number of people looking for jobs but not working, divided by the total labor force (those working or looking for jobs), multiplied by 100.",
+            "options": [
+              "Number of unemployed / Total population",
+              "Number of unemployed / Number of employed",
+              "Number of people looking for jobs and not working / Total labor force (working or looking for jobs)",
+              "Number of unemployed / Working age population"
+            ],
+            "question": "How is the unemployment rate typically defined?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Adam Smith is considered the founding father of modern economics, known for his work 'An Enquiry into the Nature and Cause of the Wealth of Nations'.",
+            "options": [
+              "Adam Smith",
+              "Karl Marx",
+              "John Stuart Mill",
+              "Friedrich Hayek"
+            ],
+            "question": "Who is regarded as the founding father of modern economics?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Investment expenditure refers to expenses that increase productive capacity, such as buying new machinery or building new factories.",
+            "options": [
+              "Spending on daily consumables",
+              "Paying wages to employees",
+              "Purchasing raw materials for production",
+              "Buying new machinery to expand production"
+            ],
+            "question": "Which of the following best describes 'investment expenditure' in a capitalist economy?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "In microeconomics, factors like inflation or unemployment are often taken as given, as they are large-scale phenomena beyond the control of individual agents.",
+            "options": [
+              "Taken as given",
+              "The primary variables of study",
+              "Always ignored",
+              "Directly influenced by individual buyers and sellers"
+            ],
+            "question": "In microeconomics, how are 'macro' phenomena like inflation or unemployment generally treated?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "The text identifies agricultural goods, industrial goods, and services as three general kinds of commodities that can represent the economy's output in a more disaggregated macroeconomic analysis.",
+            "options": [
+              "Consumer goods, Capital goods, Intermediate goods",
+              "Durable goods, Non-durable goods, Services",
+              "Agricultural goods, Industrial goods, Services",
+              "Public goods, Private goods, Club goods"
+            ],
+            "question": "According to the chapter, which three general kinds of commodities may be taken as a representative of all commodities being produced within the economy for a more detailed macroeconomic analysis?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The external sector deals with trade (exports and imports) and capital flows between the domestic country and the rest of the world.",
+            "options": [
+              "Taxation and public spending",
+              "Exports and imports",
+              "Consumption and saving",
+              "Production and employment within firms"
+            ],
+            "question": "What are the two main kinds of trade activities associated with the external sector?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Firms hire wage labor, employ services of capital and land, and produce goods and services with the motive of selling them in the market to earn profits.",
+            "options": [
+              "Primarily provide public services",
+              "Are non-profit organizations",
+              "Are mainly engaged in consumption",
+              "Undertake production for profit in the market"
+            ],
+            "question": "In a capitalist economy, what is the primary role of 'firms'?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "In the classical tradition before Keynes, it was believed that all willing laborers would find employment and factories would operate at full capacity, assuming market self-correction.",
+            "options": [
+              "All labourers ready to work will find employment",
+              "Unemployment is a persistent problem",
+              "Government intervention is essential for full employment",
+              "Markets often fail to reach equilibrium"
+            ],
+            "question": "What was the dominant thinking in economics, known as the classical tradition, before Keynes's work?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "While convenience is a reason, overlooking vital distinctive characteristics of individual goods is a potential drawback, as agricultural and industrial production conditions can be very different, or the labor of a manager differs from an accountant.",
+            "options": [
+              "It makes analysis too complex.",
+              "It always leads to inaccurate conclusions.",
+              "It may overlook vital distinctive characteristics of individual goods.",
+              "It prevents understanding of aggregate output."
+            ],
+            "question": "What is a potential drawback of simplifying macroeconomic analysis by focusing on a single imaginary commodity?"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "answer": "5 million",
+            "explanation": "The unemployment rate indicates the proportion of the total labor force that is unemployed. To find the number of unemployed, multiply the total labor force by the unemployment rate.",
+            "question": "If a country has a labor force of 100 million people and an unemployment rate of 5%, how many people are unemployed?",
+            "steps": [
+              "Unemployment Rate = (Number of Unemployed / Total Labor Force) * 100",
+              "5% = (Number of Unemployed / 100,000,000) * 100",
+              "Number of Unemployed = (5 / 100) * 100,000,000",
+              "Number of Unemployed = 0.05 * 100,000,000 = 5,000,000"
+            ],
+            "table": null
+          },
+          {
+            "answer": "$603 billion",
+            "explanation": "To find the new aggregate output, first calculate the amount of the fall by multiplying the initial output by the percentage fall, and then subtract this amount from the initial output.",
+            "question": "During the Great Depression in the USA, aggregate output fell by about 33%. If the initial aggregate output was $900 billion, what was the new aggregate output after the fall?",
+            "steps": [
+              "Reduction in output = 33% of $900 billion = 0.33 * $900 billion = $297 billion",
+              "New aggregate output = Initial output - Reduction in output",
+              "New aggregate output = $900 billion - $297 billion = $603 billion"
+            ],
+            "table": null
+          },
+          {
+            "answer": "₹100,000",
+            "explanation": "Profit is the residual revenue left after all explicit costs (rent, interest, and wages) have been paid from the total revenue generated by selling the product.",
+            "question": "A capitalist enterprise generates a total revenue of ₹500,000. It pays ₹80,000 as rent for land, ₹120,000 as interest for capital, and ₹200,000 as wages for labor. Calculate the profit earned by the entrepreneurs.",
+            "steps": [
+              "Total Revenue = ₹500,000",
+              "Total Costs (Rent + Interest + Wages) = ₹80,000 + ₹120,000 + ₹200,000 = ₹400,000",
+              "Profit = Total Revenue - Total Costs",
+              "Profit = ₹500,000 - ₹400,000 = ₹100,000"
+            ],
+            "table": null
+          },
+          {
+            "answer": "22 percentage points",
+            "explanation": "A percentage point change is simply the absolute difference between two percentage figures, indicating the magnitude of the change directly.",
+            "question": "In the USA, the unemployment rate rose from 3% in 1929 to 25% in 1933. What was the percentage point increase in the unemployment rate during this period?",
+            "steps": [
+              "Percentage point increase = Final unemployment rate - Initial unemployment rate",
+              "Percentage point increase = 25% - 3%",
+              "Percentage point increase = 22 percentage points"
+            ],
+            "table": null
+          },
+          {
+            "answer": "135 million",
+            "explanation": "First, calculate the number of unemployed individuals based on the unemployment rate. Then, subtract this number from the total labor force to determine the number of employed individuals.",
+            "question": "If a country has a total labor force of 150 million people and an unemployment rate of 10%, how many people are employed?",
+            "steps": [
+              "Number of Unemployed = Unemployment Rate * Total Labor Force",
+              "Number of Unemployed = 0.10 * 150 million = 15 million",
+              "Number of Employed = Total Labor Force - Number of Unemployed",
+              "Number of Employed = 150 million - 15 million = 135 million"
+            ],
+            "table": null
           }
         ],
         "oneWord": [
           {
-            "correctAnswer": "Microeconomics",
-            "explanation": "Microeconomics focuses on the behavior of individual economic units like consumers and firms, and the functioning of individual markets.",
-            "keywords": [
-              "Individual",
-              "Firms",
-              "Consumers",
-              "Markets"
-            ],
-            "question": "The branch of economics that studies individual economic agents and their decisions is called?",
-            "topic": "Microeconomics"
+            "correctAnswer": "Macroeconomics",
+            "question": "Which branch of economics deals with the economy as a whole?"
           },
           {
-            "correctAnswer": "Macroeconomics",
-            "explanation": "Macroeconomics is concerned with the economy as a whole, dealing with aggregate phenomena such as inflation, unemployment, and national output.",
-            "keywords": [
-              "Aggregate",
-              "Economy",
-              "Inflation",
-              "Unemployment"
-            ],
-            "question": "The branch of economics that deals with the economy as a whole is known as?",
-            "topic": "Macroeconomics"
+            "correctAnswer": "Microeconomics",
+            "question": "Which branch of economics studies individual economic agents and their decisions?"
           },
           {
             "correctAnswer": "John Maynard Keynes",
-            "explanation": "Keynes's 'The General Theory of Employment, Interest and Money' published in 1936, marked the formal emergence of macroeconomics as a distinct field.",
-            "keywords": [
-              "General Theory",
-              "1936",
-              "Economist"
-            ],
-            "question": "Who is credited with the emergence of macroeconomics as a separate branch of economics?",
-            "topic": "Emergence of Macroeconomics"
+            "question": "Who published 'The General Theory of Employment, Interest and Money'?"
           },
           {
-            "correctAnswer": "The Great Depression",
-            "explanation": "This severe economic crisis, which started in 1929, highlighted the failure of classical economic theories to explain persistent unemployment and economic stagnation, thus prompting new macroeconomic thought.",
-            "keywords": [
-              "1929",
-              "Economic crisis",
-              "Unemployment"
-            ],
-            "question": "What major historical economic event prompted the need for a new way of thinking about the economy as a whole, leading to the rise of macroeconomics?",
-            "topic": "Great Depression"
+            "correctAnswer": "1936",
+            "question": "In which year did 'The General Theory of Employment, Interest and Money' get published?"
           },
           {
-            "correctAnswer": "Classical tradition",
-            "explanation": "Before Keynes, mainstream economic thought held that markets would naturally adjust to achieve full employment and output, a view known as the classical tradition.",
-            "keywords": [
-              "Pre-Keynes",
-              "Full employment",
-              "Self-regulating markets"
-            ],
-            "question": "What was the dominant school of thought in economics before John Maynard Keynes?",
-            "topic": "Classical Economics"
+            "correctAnswer": "Great Depression",
+            "question": "What major economic event of 1929 influenced Keynes's work?"
           },
           {
-            "correctAnswer": "Entrepreneurship",
-            "explanation": "Entrepreneurship is the factor of production that involves organizing the other factors (land, labor, capital), making key decisions, and bearing the risks associated with the enterprise.",
-            "keywords": [
-              "Risk-bearing",
-              "Decision-making",
-              "Organization"
-            ],
-            "question": "What is the factor of production that exercises control over major decisions and bears a large part of the risk associated with a firm?",
-            "topic": "Factors of Production"
+            "correctAnswer": "Classical Tradition",
+            "question": "What was the dominant school of thought in economics before Keynes?"
           },
           {
-            "correctAnswer": "Wage labor",
-            "explanation": "Wage labor refers to the services of labor that are bought and sold in the market for a price called the wage rate, distinguishing it from subsistence farming or family labor.",
-            "keywords": [
-              "Labor services",
-              "Wages",
-              "Market"
-            ],
-            "question": "What term refers to the labor that is sold and purchased against wages in a capitalist economy?",
-            "topic": "Capitalist Economy"
+            "correctAnswer": "Adam Smith",
+            "question": "Who is considered the founding father of modern economics?"
           },
           {
-            "correctAnswer": "Investment expenditure",
-            "explanation": "This refers to the portion of revenue or profit that is used to acquire new machinery, build factories, or expand productive capacity for future production.",
-            "keywords": [
-              "Productive capacity",
-              "Machinery",
-              "Expansion"
-            ],
-            "question": "What type of expenditure raises the productive capacity of an economy, often through the purchase of new machinery or building new factories?",
-            "topic": "Capitalist Economy Concepts"
+            "correctAnswer": "Profit",
+            "question": "What is the earning of entrepreneurs after paying rent, interest, and wages?"
+          },
+          {
+            "correctAnswer": "Investment Expenditure",
+            "question": "What are expenses that raise productive capacity, like buying new machinery?"
+          },
+          {
+            "correctAnswer": "Wage Rate",
+            "question": "What is the price at which labour services are bought and sold?"
           },
           {
             "correctAnswer": "Households",
-            "explanation": "Households are a major sector comprising individuals or groups who make consumption decisions and supply factors of production like labor and capital.",
-            "keywords": [
-              "Consumption",
-              "Individuals",
-              "Factors of production"
-            ],
-            "question": "Which major sector in an economy consists of individuals or groups whose decisions relate to consumption and who supply labor and capital?",
-            "topic": "Sectors of the Economy"
+            "question": "Which sector consists of individuals making consumption decisions and supplying labor?"
           },
           {
-            "correctAnswer": "External sector",
-            "explanation": "The external sector encompasses transactions with the rest of the world, including exports, imports, and capital flows.",
-            "keywords": [
-              "Trade",
-              "Foreign",
-              "Imports",
-              "Exports"
-            ],
-            "question": "Which sector deals with trade and capital flows between the domestic country and the rest of the world?",
-            "topic": "Sectors of the Economy"
+            "correctAnswer": "Government",
+            "question": "What term is used in the book to denote the 'State'?"
+          },
+          {
+            "correctAnswer": "Exports",
+            "question": "What are goods sold by the domestic country to the rest of the world?"
+          },
+          {
+            "correctAnswer": "Imports",
+            "question": "What are goods bought by the economy from the rest of the world?"
+          },
+          {
+            "correctAnswer": "Firms",
+            "question": "What term is used in the book for production units organized according to capitalist principles?"
           }
         ],
         "shortAnswer1": [
           {
-            "answer": "Microeconomics focuses on individual economic units like consumers, producers, and specific markets. It studies how these individual agents make decisions to maximize their self-interest (e.g., consumers choosing optimum goods, producers maximizing profit). Macroeconomics, in contrast, examines the economy as a whole, dealing with aggregate phenomena like national output, overall price levels, and total employment. It addresses broad questions concerning the 'health' of the country's economy and policies aimed at achieving societal goals.",
-            "explanation": "The key difference lies in the scope: micro focuses on 'small' individual parts, while macro looks at the 'large' aggregates of the entire economy.",
-            "feedback": {
-              "correct": "Excellent! You've clearly distinguished between the individual-level focus of microeconomics and the aggregate, economy-wide perspective of macroeconomics.",
-              "incorrect": "Not quite. Remember, microeconomics deals with individual decisions and specific markets, while macroeconomics deals with the overall economy. Review the scope of each."
-            },
-            "keywords": [
-              "Microeconomics",
-              "Macroeconomics",
-              "Individual",
-              "Aggregate",
-              "Scope"
-            ],
-            "question": "Briefly explain the fundamental difference between microeconomics and macroeconomics.",
-            "topic": "Microeconomics vs. Macroeconomics"
+            "answer": "Macroeconomics differs from microeconomics primarily in its scope. Microeconomics studies individual economic units (like consumers, firms) and specific markets, focusing on their decisions and interactions. Macroeconomics, conversely, examines the economy as a whole, focusing on aggregate variables such as national income, overall employment levels, general price levels (inflation), and total output. While microeconomics might ask 'How does a firm decide its price?', macroeconomics asks 'What causes overall prices to rise in the economy?'",
+            "question": "Briefly explain the fundamental difference between microeconomics and macroeconomics."
           },
           {
-            "answer": "Macroeconomists often simplify analysis by focusing on a single 'imaginary commodity' or 'representative good' that reflects the average production, price, and employment levels of all goods and services. This simplification is possible because variables like prices, interest rates, and employment levels often move together for different commodities, especially during significant economic changes like inflation or depression. This allows for a more manageable analysis of the economy as a whole without getting bogged down in disaggregated details.",
-            "explanation": "This simplification helps in understanding general trends and relationships across the entire economy, rather than individual market nuances.",
-            "feedback": {
-              "correct": "Great job! You've explained why and how the concept of a representative good is used to simplify macroeconomic analysis.",
-              "incorrect": "Consider why economists might choose to simplify a complex economy into a single representative good. Think about the overall trends of economic variables."
-            },
-            "keywords": [
-              "Simplification",
-              "Representative good",
-              "Aggregate variables",
-              "Macroeconomic analysis"
-            ],
-            "question": "Why do macroeconomists often simplify their analysis by focusing on a single imaginary commodity?",
-            "topic": "Macroeconomic Simplification"
+            "answer": "A capitalist economy is characterized by: (a) private ownership of the means of production (e.g., land, capital), (b) production primarily for selling the output in the market to earn profit, and (c) the sale and purchase of labour services at a price called the wage rate (i.e., wage labour). These features distinguish it from other economic systems, emphasizing market-driven production and private initiative.",
+            "question": "List the three main characteristics of a capitalist economy as described in the chapter."
           },
           {
-            "answer": "Adam Smith suggested that if buyers and sellers in each market pursue their own self-interest, the wealth and welfare of the country as a whole would naturally be promoted, implying that there was no need to consider the aggregate economy separately. However, economists later found limitations, including market failures (where markets did not exist or failed to produce equilibrium) and the necessity for society (or the State) to pursue important social goals (like employment, defence, education) which required modifying aggregate effects of microeconomic decisions through policies like taxation or money supply changes.",
-            "explanation": "Smith's 'invisible hand' theory had limitations, especially regarding societal welfare and market imperfections.",
-            "feedback": {
-              "correct": "Excellent! You've accurately identified both Adam Smith's initial idea and the crucial reasons why economists later had to look beyond it.",
-              "incorrect": "While Adam Smith believed in self-interest, economists discovered situations where this wasn't sufficient for overall societal welfare. Think about market failures and broader social goals."
-            },
-            "keywords": [
-              "Adam Smith",
-              "Self-interest",
-              "Limitations",
-              "Market failure",
-              "Social goals"
-            ],
-            "question": "What was Adam Smith's original view on the aggregate economy, and why did economists later find it necessary to look beyond it?",
-            "topic": "Adam Smith and Limitations"
+            "answer": "The four major sectors in an economy from a macroeconomic point of view are: (1) Households: consumers of goods and services, suppliers of labour and capital; (2) Firms: production units that hire inputs and produce output for sale; (3) Government (or State): frames laws, enforces them, delivers justice, undertakes production, imposes taxes, and spends on public infrastructure; and (4) External Sector: engages in international trade (exports and imports) and capital flows.",
+            "question": "Identify and briefly describe the four major sectors into which an economy is typically divided in macroeconomics."
           },
           {
-            "answer": "The Great Depression of 1929 was a severe economic crisis characterized by a drastic fall in output and employment levels across Europe and North America. In the USA, the unemployment rate rose from 3% to 25% from 1929 to 1933, and aggregate output fell by about 33%. This crisis challenged the prevailing classical economic belief that economies would automatically achieve full employment, leading economists like John Maynard Keynes to develop new theories focusing on the functioning of the economy in its entirety, thus giving birth to macroeconomics.",
-            "explanation": "The scale and persistence of the Great Depression revealed fundamental flaws in existing economic thought, leading to a paradigm shift.",
-            "feedback": {
-              "correct": "Very well explained! You've captured the severity of the Great Depression and its profound impact on economic thought and the emergence of macroeconomics.",
-              "incorrect": "You need to elaborate on the impact of the Great Depression. Focus on the scale of unemployment and output fall, and how it challenged existing economic theories."
-            },
-            "keywords": [
-              "Great Depression",
-              "1929",
-              "Unemployment",
-              "Output fall",
-              "Keynes"
-            ],
-            "question": "Describe the economic conditions during the Great Depression of 1929 and its significance for the study of economics.",
-            "topic": "Great Depression"
+            "answer": "The Great Depression (1929 and subsequent years) was a severe worldwide economic downturn. It saw a massive fall in output and employment levels, particularly in Europe and North America. In the USA, the unemployment rate surged from 3% to 25%, and aggregate output plummeted by about 33%. This crisis challenged the prevailing classical economic theories and highlighted the need for a new framework to understand and address large-scale economic failures.",
+            "question": "Describe the key features of the Great Depression of 1929 and its impact."
           },
           {
-            "answer": "A capitalist economy has three main characteristics: (a) Private ownership of means of production, meaning capital, land, and other resources are owned by private individuals or entities. (b) Production takes place for selling the output in the market, not primarily for self-consumption. (c) There is sale and purchase of labour services at a price called the wage rate, forming what is known as 'wage labour'. Entrepreneurs organize these factors with the motive of earning profit.",
-            "explanation": "These characteristics differentiate capitalist economies from other economic systems where ownership, production motives, or labor arrangements might differ.",
-            "feedback": {
-              "correct": "Excellent! You've accurately listed and explained the key features of a capitalist economy.",
-              "incorrect": "Remember the three defining features: private ownership, market-oriented production, and wage labor. Review each of these points carefully."
-            },
-            "keywords": [
-              "Capitalist economy",
-              "Characteristics",
-              "Private ownership",
-              "Market production",
-              "Wage labor"
-            ],
-            "question": "What are the three essential characteristics of a capitalist economy as described in the chapter?",
-            "topic": "Capitalist Economy"
+            "answer": "Economic agents (or economic units) are individuals or institutions that make economic decisions. Examples include: (1) Consumers who decide what and how much to consume; (2) Producers (firms) who decide what and how much to produce; and (3) Entities like the government, corporations, and banks that make decisions on spending, interest rates, taxation, etc. These agents drive economic activity through their choices.",
+            "question": "Who are considered 'economic agents' and what kind of decisions do they make?"
           }
         ],
         "shortAnswer2": [
           {
-            "answer": "Economic agents, also known as economic units, are individuals or institutions that make economic decisions. Examples include consumers who decide what and how much to consume, producers who decide what and how much to produce, and entities like the government, corporations, and banks that make decisions on spending, interest rates, or taxation. Their decisions collectively shape economic activity.",
-            "explanation": "These agents are the fundamental decision-makers in any economy, driving demand, supply, and policy.",
-            "feedback": {
-              "correct": "Well done! You've provided a clear definition of economic agents and relevant examples.",
-              "incorrect": "Make sure you include examples of different types of economic agents, not just individuals, and explain their role in decision-making."
-            },
-            "keywords": [
-              "Economic agents",
-              "Economic units",
-              "Decision-makers",
-              "Consumers",
-              "Producers",
-              "Government",
-              "Banks"
-            ],
-            "question": "Who are 'economic agents' and what is their role in an economy? Provide examples.",
-            "topic": "Economic Agents"
+            "answer": "Macroeconomics emerged as a separate branch of economics largely due to the publication of John Maynard Keynes's 'The General Theory of Employment, Interest and Money' in 1936. Before this, the dominant 'classical tradition' believed in the self-correcting nature of markets, assuming full employment. However, the unprecedented scale of the Great Depression (1929), with its massive unemployment and output fall, exposed the inadequacy of classical theories. Keynes's work provided a new framework to analyze the economy as a whole and explain phenomena like long-lasting unemployment, thus giving birth to macroeconomics.",
+            "question": "Explain the historical context and the main reason for the emergence of macroeconomics as a distinct field of study."
           },
           {
-            "answer": "While simplification to a representative good is convenient, macroeconomists sometimes depart from it when the economy is best understood as composed of distinct sectors, such as agriculture and industry. This is because production conditions, technologies, and prices can differ significantly across these sectors. For instance, treating all labor as uniform might obscure differences between a manager's and an accountant's labor. Analyzing specific sectors and their interdependencies (or rivalries) can provide a much better understanding of certain economic phenomena that a purely aggregate view might miss.",
-            "explanation": "Ignoring sectoral differences can lead to overlooking vital distinctive characteristics and relationships that influence the overall economy.",
-            "feedback": {
-              "correct": "Great answer! You've highlighted the importance of sectoral analysis when aggregate simplification is insufficient.",
-              "incorrect": "Think about why an aggregated view might not always be enough. What specific details might be missed if we only look at a single 'representative' category?"
-            },
-            "keywords": [
-              "Distinct sectors",
-              "Simplification",
-              "Limitations",
-              "Interdependence",
-              "Agricultural",
-              "Industrial"
-            ],
-            "question": "Why do macroeconomists sometimes depart from the simplification of a single representative good and instead analyze distinct sectors?",
-            "topic": "Sectoral Analysis"
+            "answer": "Adam Smith is considered the founding father of modern economics. In his seminal work, 'An Enquiry into the Nature and Cause of the Wealth of Nations' (1776), he advocated for a free market economy. His famous idea was that if individuals pursue their self-interest in markets, it would lead to overall societal welfare, as if guided by an 'invisible hand'. This perspective initially suggested that economists might not need to study the wealth and welfare of the country as a whole separately, laying a foundational concept that later macroeconomists built upon or diverged from.",
+            "question": "Briefly explain the contribution of Adam Smith to the field of economics and his relevant idea as mentioned in the chapter."
           },
           {
-            "answer": "The four factors of production are: (a) **Land:** Natural resources used in production, either consumed (like raw materials) or fixed (like plots of land). (b) **Labour:** Human effort and skill applied to production. (c) **Capital:** Man-made resources used in production, such as machinery, tools, and factories. (d) **Entrepreneurship:** The organizing and risk-bearing factor that brings together land, labor, and capital, makes key decisions, and aims for profit.",
-            "explanation": "These are the fundamental inputs required to produce goods and services in any economy, particularly in a capitalist system.",
-            "feedback": {
-              "correct": "Excellent! You've accurately listed and defined all four factors of production.",
-              "incorrect": "Double-check your understanding of each factor of production. Make sure you haven't missed any or confused their definitions."
-            },
-            "keywords": [
-              "Factors of production",
-              "Land",
-              "Labour",
-              "Capital",
-              "Entrepreneurship",
-              "Inputs"
-            ],
-            "question": "List and briefly describe the four factors of production in a capitalist economy.",
-            "topic": "Factors of Production"
+            "answer": "Entrepreneurship is a key factor of production in a capitalist economy. Entrepreneurs are individuals who exercise control over major decisions within a firm, bear a significant portion of the risks associated with the enterprise, and organize the other factors of production (land, labour, capital). Their motive is to produce goods and services and sell them in the market to earn profit. They innovate, take risks, and drive investment expenditure to expand productive capacity.",
+            "question": "What is the role of an entrepreneur in a capitalist economy, according to the chapter?"
           },
           {
-            "answer": "The four major sectors in an economy, from a macroeconomic perspective, are: (1) **Households:** Individuals or groups making consumption and saving decisions, supplying labor and capital, and earning income. (2) **Firms:** Production units that hire factors of production to produce goods and services, aiming to sell them in the market for profit. (3) **Government (State):** Responsible for framing laws, enforcing justice, providing public goods and services (e.g., infrastructure, education, health), imposing taxes, and undertaking public spending. (4) **External Sector:** Deals with economic interactions with the rest of the world, including exports (selling goods abroad), imports (buying goods from abroad), and capital flows.",
-            "explanation": "These sectors represent the major groupings of economic agents and their interrelationships, which are crucial for understanding the flow of income and expenditure in the economy.",
-            "feedback": {
-              "correct": "Fantastic! You've provided a comprehensive overview of all four macroeconomic sectors and their roles.",
-              "incorrect": "Review the four major sectors carefully. Make sure you remember the 'external sector' and the specific roles of firms, households, and the government."
-            },
-            "keywords": [
-              "Sectors of economy",
-              "Households",
-              "Firms",
-              "Government",
-              "External sector",
-              "Exports",
-              "Imports"
-            ],
-            "question": "Describe the four major sectors in an economy from a macroeconomic point of view.",
-            "topic": "Sectors of the Economy"
+            "answer": "While simplifying to a single representative good makes analysis convenient by allowing focus on aggregate variables, it can lead to overlooking vital distinctive characteristics. For example, the production conditions for agricultural goods are vastly different from industrial goods. Similarly, treating all labour as homogenous might fail to distinguish between the labour of a manager and an accountant. This simplification, while useful for broad trends, might not capture specific dynamics or interdependencies between different types of goods or sectors, which macroeconomists sometimes need to analyze.",
+            "question": "Discuss the advantages and potential limitations of simplifying macroeconomic analysis by focusing on a 'single imaginary commodity' representing all goods and services."
           },
           {
-            "answer": "Macroeconomic decision-makers are typically the State itself or statutory bodies like the Reserve Bank of India (RBI) and Securities and Exchange Board of India (SEBI). Their goals are fundamentally different from individual economic agents. While individuals maximize private profit or welfare, macroeconomic agents pursue public goals defined by law or the constitution, such as achieving full employment, controlling inflation, providing public goods like education and healthcare, and ensuring national defense. Their activities are aimed at the welfare of the country as a whole, often requiring the deployment of economic resources for collective needs rather than individual self-interest.",
-            "explanation": "The distinct nature of their goals and scope of action sets macroeconomic decision-makers apart from microeconomic agents.",
-            "feedback": {
-              "correct": "Excellent! You've clearly identified macroeconomic decision-makers and articulated how their public goals differ from individual self-interest.",
-              "incorrect": "Remember, macroeconomic decision-makers have a broader, public welfare objective. How do their goals differ from individual consumers or firms?"
-            },
-            "keywords": [
-              "Macroeconomic decision-makers",
-              "State",
-              "RBI",
-              "SEBI",
-              "Public goals",
-              "Welfare of country"
-            ],
-            "question": "Who are the macroeconomic decision-makers, and how do their goals differ from those of individual economic agents?",
-            "topic": "Macroeconomic Decision Makers"
+            "answer": "Macroeconomic decision-makers, such as the State itself or statutory bodies like the Reserve Bank of India (RBI) or SEBI, differ from individual economic agents. Firstly, their goals are public goals, defined by law or constitution (e.g., full employment, price stability), rather than maximizing private profit or welfare. Secondly, their actions often go beyond purely economic objectives, aiming to deploy resources for public needs like defence, education, and healthcare. They can implement policies (like taxation, money supply changes) to modify market forces for the welfare of the country as a whole, which individual agents cannot.",
+            "question": "Explain how macroeconomic decision-makers and their objectives differ from individual economic agents, as described in the chapter."
           }
         ],
         "trueFalse": [
           {
             "correctAnswer": false,
-            "explanation": "Microeconomics focuses on individual economic units and specific markets, not the economy as a whole.",
-            "question": "Microeconomics deals with the aggregate output and employment levels of a country as a whole."
+            "explanation": "Microeconomics focuses on individual units and markets, not the economy as a whole.",
+            "question": "Microeconomics primarily deals with aggregate economic variables of an economy."
           },
           {
             "correctAnswer": true,
-            "explanation": "Macroeconomics concerns broad economic questions like overall price levels, employment across the country, and indicators of national economic health.",
-            "question": "Questions about whether prices as a whole will rise or fall are typically addressed in macroeconomics."
+            "explanation": "The chapter explicitly states this, using the example of food grain and industrial goods moving together.",
+            "question": "In an economy as a whole, output levels of all goods and services tend to move together."
           },
           {
             "correctAnswer": true,
-            "explanation": "The output levels of different goods and services in an economy generally tend to move together, meaning growth in one sector often accompanies growth in others, and vice versa.",
-            "question": "If food grain output is growing, it is generally accompanied by a rise in industrial goods output."
+            "explanation": "This simplification is done in macroeconomics because what affects one commodity (prices, wages) often affects others similarly, especially during rapid changes like inflation or depression.",
+            "question": "Macroeconomic analysis can simplify by focusing on a single imaginary commodity because attributes like prices and wages tend to move similarly across different commodities."
           },
           {
             "correctAnswer": false,
-            "explanation": "Adam Smith suggested that if buyers and sellers pursue their self-interest, the wealth and welfare of the country as a whole would be promoted, implying less need to think about the aggregate economy separately.",
-            "question": "Adam Smith argued that economists needed to think of the wealth and welfare of the country as a whole separately from individual self-interest."
+            "explanation": "Adam Smith suggested that individual self-interest would lead to collective welfare, implying less need to think about the country's wealth separately, but economists later found this not always true.",
+            "question": "Adam Smith suggested that economists must always think of the wealth and welfare of the country as a whole separately, even if buyers and sellers follow self-interest."
           },
           {
             "correctAnswer": true,
-            "explanation": "Economists discovered that markets sometimes fail to exist, or fail to produce demand-supply equilibrium, and that social goals require intervention, necessitating a macroeconomic perspective.",
-            "question": "One reason for the emergence of macroeconomics was the observation that markets could fail to produce equilibrium of demand and supply."
-          },
-          {
-            "correctAnswer": true,
-            "explanation": "Macroeconomic policies are pursued by the State or statutory bodies like RBI and SEBI, whose goals are public and collective, unlike individual profit maximization.",
-            "question": "The goals of macroeconomic decision-makers are typically focused on public welfare rather than individual private profit."
+            "explanation": "One reason macroeconomists had to look further was because markets sometimes failed to exist or produce equilibrium, and society had social goals beyond individual self-interest.",
+            "question": "Economists found that markets sometimes failed to produce equilibrium of demand and supply, necessitating macroeconomic study."
           },
           {
             "correctAnswer": false,
-            "explanation": "Macroeconomics, as a separate branch, emerged after Keynes published his book in 1936, challenging the classical tradition.",
-            "question": "Macroeconomics existed as a distinct field of study long before the Great Depression of 1929."
-          },
-          {
-            "correctAnswer": true,
-            "explanation": "The Great Depression, starting in 1929, saw unemployment rates soar significantly (e.g., from 3% to 25% in the USA) and aggregate output fall substantially.",
-            "question": "During the Great Depression of 1929, unemployment rates rose drastically in countries like the USA."
-          },
-          {
-            "correctAnswer": true,
-            "explanation": "A capitalist economy is defined by private ownership of production means, production for market sale, and the buying/selling of wage labor.",
-            "question": "A key characteristic of a capitalist country is the private ownership of the means of production."
+            "explanation": "Macroeconomic policies are pursued by the State or statutory bodies like RBI, not individual economic agents maximizing private profit.",
+            "question": "Macroeconomic policies are primarily pursued by individual economic agents maximizing their private profit or welfare."
           },
           {
             "correctAnswer": false,
-            "explanation": "In many underdeveloped countries, production is carried out by peasant families, often for self-consumption, and wage labor is seldom used, which does not fully align with the characteristics of a capitalist economy.",
-            "question": "The analysis presented in this book for a capitalist economy is fully applicable to all underdeveloped countries."
+            "explanation": "The Great Depression dealt a blow to developed countries, specifically mentioned as Europe and North America.",
+            "question": "The Great Depression of 1929 primarily affected underdeveloped countries."
           },
           {
             "correctAnswer": true,
-            "explanation": "Households are crucial as they provide the demand for goods and services produced by firms, and also supply factors like labor and capital.",
-            "question": "The market where firms sell their products would not function without demand coming from the households."
+            "explanation": "This statement is directly from the text, defining wage labour.",
+            "question": "Wage labour refers to labour which is sold and purchased against wages."
           },
           {
             "correctAnswer": false,
-            "explanation": "Capital from foreign countries flowing into the domestic country is a form of interaction with the external sector, alongside exports and imports.",
-            "question": "The external sector of an economy only involves exports and imports of goods, not capital flows."
+            "explanation": "Production in capitalist countries is mainly carried out by capitalist enterprises, not peasant families, and is primarily for the market.",
+            "question": "In capitalist countries, production is solely for family consumption and seldom uses wage labour."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The text defines 'revenue' as the money earned from selling the product.",
+            "question": "The money earned by an entrepreneur from selling the product in the market is called revenue."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The text states that in a capitalist country, factors of production earn incomes through the process of production and sale of resultant output.",
+            "question": "In a capitalist country, the factors of production earn their incomes through the process of production and sale of the resultant output in the market."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The State, or Government, imposes taxes and spends money on public infrastructure, schools, etc., which are significant economic functions.",
+            "question": "The economic functions of the state (government) are limited to framing laws and delivering justice, with no role in production or public spending."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Capital from foreign countries flowing in or domestic capital flowing out are ways the external sector affects the economy, besides exports and imports.",
+            "question": "Besides exports and imports, capital flows between domestic and foreign countries are another way the external sector affects the domestic economy."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The unemployment rate in the USA during the Great Depression rose from 3% to 25%, a significant increase.",
+            "question": "During the Great Depression in the USA, the unemployment rate only slightly increased, from 3% to 5%."
           }
         ]
       },
       "flashcards": [
         {
-          "back": "The branch of economics that deals with the behavior of individual economic units, such as consumers and producers, and the functioning of specific markets.",
-          "front": "Microeconomics"
-        },
-        {
-          "back": "The branch of economics that deals with the economy as a whole, focusing on aggregate variables like national income, employment, and the general price level.",
+          "back": "A branch of economics that deals with the aggregate economic variables of an economy, such as national income, overall employment, and general price levels.",
           "front": "Macroeconomics"
         },
         {
-          "back": "Individuals or institutions that take economic decisions, such as consumers, producers, governments, and banks.",
-          "front": "Economic Agents (or Economic Units)"
+          "back": "A branch of economics that studies individual 'economic agents' (like consumers and producers) and the functioning of particular markets.",
+          "front": "Microeconomics"
         },
         {
-          "back": "A severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States with the stock market crash of October 29, 1929 (Black Tuesday). It led to massive unemployment and a significant fall in output.",
-          "front": "Great Depression of 1929"
+          "back": "Individuals or institutions which take economic decisions, such as consumers, producers, government, corporations, and banks.",
+          "front": "Economic Agents / Economic Units"
         },
         {
-          "back": "The British economist who published 'The General Theory of Employment, Interest and Money' in 1936, marking the birth of modern macroeconomics.",
-          "front": "John Maynard Keynes"
+          "back": "A severe worldwide economic downturn that began in 1929, characterized by massive falls in output and employment levels.",
+          "front": "Great Depression (of 1929)"
         },
         {
-          "back": "The school of thought in economics before Keynes, which believed that all labourers willing to work would find employment and factories would operate at full capacity due to self-correcting markets.",
-          "front": "Classical Tradition"
-        },
-        {
-          "back": "The percentage of the total labour force that is unemployed but actively seeking employment.",
+          "back": "The percentage of the total labour force (people working or looking for jobs) who are not working but are looking for jobs.",
           "front": "Unemployment Rate"
         },
         {
-          "back": "An economy in which production activities are mainly carried out by private capitalist enterprises, characterized by private ownership of means of production, production for market sale, and the use of wage labor.",
-          "front": "Capitalist Economy"
+          "back": "The school of thought in economics before Keynes, which believed that all labourers ready to work would find employment and all factories would operate at full capacity.",
+          "front": "Classical Tradition"
         },
         {
-          "back": "The resources used in the production of goods and services: Land (natural resources), Labour (human effort), Capital (man-made assets), and Entrepreneurship (organizing and risk-bearing).",
+          "back": "Regarded as the founding father of modern economics, known for his work 'An Enquiry into the Nature and Cause of the Wealth of Nations'.",
+          "front": "Adam Smith"
+        },
+        {
+          "back": "A British economist whose book 'The General Theory of Employment, Interest and Money' (1936) led to the emergence of macroeconomics as a separate branch.",
+          "front": "John Maynard Keynes"
+        },
+        {
+          "back": "Economic resources used in the production of goods and services; identified in the chapter as capital, land, and labour (and implicitly, entrepreneurship).",
           "front": "Factors of Production"
         },
         {
-          "back": "The raw materials, machinery, buildings, and other resources required for production, whose ownership in a capitalist economy is predominantly private.",
-          "front": "Means of Production"
-        },
-        {
-          "back": "The inputs used in the production process, such as raw materials, labor, capital, and land.",
+          "back": "The inputs used in the production process, such as land, labour, and capital.",
           "front": "Inputs"
         },
         {
-          "back": "Natural resources used in production, including land itself, minerals, and other raw materials.",
-          "front": "Land (as a factor of production)"
-        },
-        {
-          "back": "The human effort, both physical and mental, applied in the production of goods and services.",
-          "front": "Labour (as a factor of production)"
-        },
-        {
-          "back": "Man-made resources used in the production process, such as machinery, tools, equipment, and factory buildings.",
-          "front": "Capital (as a factor of production)"
-        },
-        {
-          "back": "The entrepreneurial ability to organize and combine the other factors of production (land, labour, and capital), make business decisions, and bear the risks associated with the firm to earn profit.",
-          "front": "Entrepreneurship"
-        },
-        {
-          "back": "The price paid for the use of borrowed capital, typically expressed as a percentage of the principal amount.",
-          "front": "Rate of Interest"
-        },
-        {
-          "back": "The price paid for labor services per unit of time, typically an hour, day, or month.",
-          "front": "Wage Rate"
-        },
-        {
-          "back": "The payment to workers for their services, which is the price for wage labor.",
-          "front": "Wages"
-        },
-        {
-          "back": "The portion of revenue remaining after all costs of production (rent, interest, wages) have been paid, representing the earning of the entrepreneurs.",
-          "front": "Profit"
-        },
-        {
-          "back": "Expenditures made by producers to increase their productive capacity, such as buying new machinery or building new factories.",
+          "back": "Expenses which raise the productive capacity of an economy, such as buying new machinery or building new factories.",
           "front": "Investment Expenditure"
         },
         {
-          "back": "Labor services that are bought and sold in the market for a price called the wage rate.",
+          "back": "The money earned by an entrepreneur from selling the product in the market.",
+          "front": "Revenue"
+        },
+        {
+          "back": "The earning of the entrepreneurs, which is the rest of the revenue after paying rent for land, interest for capital, and wages for labour.",
+          "front": "Profit"
+        },
+        {
+          "back": "The price at which labour services are sold and purchased.",
+          "front": "Wage Rate"
+        },
+        {
+          "back": "Labour that is sold and purchased against wages.",
           "front": "Wage Labour"
         },
         {
-          "back": "Production units in a capitalist economy that employ factors of production to produce goods and services for sale in the market with the motive of earning profits.",
-          "front": "Firms (or Capitalist Firms)"
+          "back": "An economy in which most economic activities have private ownership of means of production, production for market sale, and sale/purchase of labour services at a wage rate.",
+          "front": "Capitalist Country / Capitalist Economy"
         },
         {
-          "back": "The total quantity of goods and services produced within an economy over a specific period.",
+          "back": "Production units in a capitalist economy where the entrepreneur hires wage labour, employs capital and land, and produces goods and services for profit.",
+          "front": "Firms / Capitalist Firms"
+        },
+        {
+          "back": "The goods and services produced by firms.",
           "front": "Output"
         },
         {
-          "back": "A major sector consisting of individuals or groups who make decisions relating to their own consumption, save, pay taxes, and supply factors of production like labor and capital.",
+          "back": "A sector consisting of a single individual or a group of individuals for whom consumption decisions are jointly determined; they also save and pay taxes.",
           "front": "Household Sector"
         },
         {
-          "back": "A major sector representing the State, which frames and enforces laws, delivers justice, imposes taxes, spends on public infrastructure, and provides public goods and services.",
-          "front": "Government (or State)"
+          "back": "The institution that frames laws, enforces them, delivers justice, undertakes production, imposes taxes, and spends money on public infrastructure and services.",
+          "front": "Government / State"
         },
         {
-          "back": "The sector of an economy that deals with economic interactions with the rest of the world, including international trade (exports and imports) and capital flows.",
+          "back": "The fourth important sector in macroeconomic study that deals with trade (exports and imports) and capital flows with the rest of the world.",
           "front": "External Sector"
         },
         {
-          "back": "Goods and services produced domestically and sold to residents of other countries.",
+          "back": "Goods sold by the domestic country to the rest of the world.",
           "front": "Exports"
         },
         {
-          "back": "Goods and services purchased by domestic residents from residents of other countries.",
+          "back": "Goods bought by the economy from the rest of the world.",
           "front": "Imports"
         }
       ],
       "id": "chapter1",
       "longAnswerQuestions": [
         {
-          "answer150Words": "Microeconomics focuses on individual economic units and their decisions, such as a single consumer's choices or a firm's production levels. It analyzes how individual markets for specific goods and services operate, aiming to understand concepts like supply, demand, and price determination at a granular level. Key motivations include individual profit maximization for producers and satisfaction maximization for consumers. In contrast, macroeconomics studies the economy as a whole, addressing aggregate phenomena like national income, overall employment rates, and the general price level (inflation/deflation). It examines broad economic questions that concern all citizens, such as the country's overall economic health and the role of government policies in achieving societal goals. For instance, while microeconomics might analyze the market for KnowledgeCompass's premium modules, macroeconomics would look at the overall demand for education across the nation or the total unemployment rate affecting the EdTech sector.",
-          "answer200Words": "Microeconomics and macroeconomics represent two distinct but complementary approaches to studying economic phenomena. Microeconomics is the study of economic behavior and decisions of individual units, such as consumers, households, firms, and specific markets. It delves into how these individual agents allocate resources, make choices to maximize their self-interest (e.g., consumer utility, firm profit), and how prices and quantities are determined in individual markets. For example, understanding KnowledgeCompass's optimal pricing strategy for its learning modules or how students decide to subscribe falls under microeconomics. Macroeconomics, on the other hand, takes a broader perspective, focusing on the economy as a whole. It analyzes aggregate variables and issues such as national output (GDP), overall employment and unemployment, general price levels (inflation), and economic growth. Its aim is to understand the performance, structure, behavior, and decision-making of an economy at a national or global level. Macroeconomic questions include examining the reasons for nationwide recessions, the impact of government spending on the national economy, or the overall level of investment across all sectors, like when KnowledgeCompass considers expanding its national infrastructure impacting aggregate investment in the economy.",
-          "answer50To75Words": "Microeconomics studies individual economic units like consumers, firms, and specific markets, focusing on their decisions and resource allocation. For example, how KnowledgeCompass prices its courses or a student chooses a subscription. Macroeconomics, conversely, examines the economy as a whole. It deals with aggregate variables such as national income, overall employment, and inflation. Its goal is to understand the country's overall economic health and the impact of broad government policies, like the national unemployment rate affecting KnowledgeCompass's sales.",
-          "text": "What is the primary difference between microeconomics and macroeconomics? Elaborate on their respective focuses and provide examples."
+          "answer150Words": "Macroeconomics is distinct from microeconomics primarily in its scope and focus. Microeconomics delves into the economic decisions and behaviors of individual economic units, such as consumers, households, and firms, and the functioning of specific markets. It analyzes how individual agents allocate scarce resources to maximize their utility or profit, given their constraints. For example, it studies how a single firm sets its prices or how a consumer chooses between two goods. Macroeconomics, conversely, examines the economy as a whole. Its focus is on aggregate variables and phenomena that affect the entire nation or large sectors, such as national income, total employment, inflation (general price level changes), and economic growth. It seeks to understand why economies experience recessions, what causes unemployment on a large scale, or what determines the overall price level. While microeconomics looks at the 'trees', macroeconomics looks at the 'forest', recognizing that aggregate outcomes are not simply the sum of individual actions but involve complex interdependencies.",
+          "answer200Words": "Macroeconomics and microeconomics represent two fundamental approaches to studying economic phenomena, differing significantly in their scope and the questions they address. Microeconomics, derived from the Greek word 'mikros' meaning 'small', focuses on the economic behavior and decisions of individual units: individual consumers maximizing satisfaction, individual firms maximizing profit, or the dynamics of supply and demand in specific markets. It deals with issues like price determination of a single commodity, wage rates for particular types of labour, or production decisions of a single company. The 'macro' phenomena like inflation or unemployment are typically taken as given in microeconomic analysis. In contrast, macroeconomics, from 'makros' meaning 'large', analyzes the economy at an aggregate level. It concerns itself with economy-wide phenomena such as national income (GDP), overall employment rates, the general price level (inflation/deflation), interest rates, and government fiscal and monetary policies. Macroeconomists seek to understand the causes of recessions, the factors driving economic growth, and the mechanisms through which government intervention can influence the entire economy. While rooted in microeconomic foundations, macroeconomics acknowledges that the sum of individual rational decisions does not always lead to a desirable aggregate outcome, thus necessitating a broader perspective and distinct policy tools.",
+          "answer50To75Words": "Macroeconomics studies the economy as a whole, focusing on aggregate variables like national income, employment, and inflation. Its aim is to understand economy-wide issues such as recessions, unemployment, and overall price changes. In contrast, microeconomics examines the economic decisions of individual units like consumers and firms, and the functioning of specific markets. It focuses on individual prices, quantities, and resource allocation at a smaller scale. Essentially, macroeconomics looks at the 'big picture', while microeconomics focuses on the 'small parts'.",
+          "text": "Distinguish clearly between microeconomics and macroeconomics, providing examples of the types of questions each field attempts to answer.",
+          "title": "Distinction between Microeconomics and Macroeconomics"
         },
         {
-          "answer150Words": "The Great Depression, beginning in 1929, was a global economic catastrophe that significantly challenged existing economic thought and paved the way for modern macroeconomics. It was characterized by unprecedented declines in output and soaring unemployment. In the USA, unemployment skyrocketed from 3% to 25% between 1929 and 1933, and aggregate output fell by about 33%. This prolonged and severe downturn contradicted the classical economic belief that markets would automatically self-correct and ensure full employment. The classical tradition failed to explain the persistent, widespread joblessness and idle factory capacity. This systemic failure highlighted the need to study the economy in its entirety, focusing on the interdependence of different sectors and aggregate variables. John Maynard Keynes's seminal work, 'The General Theory of Employment, Interest and Money' (1936), offered a new framework to understand and address such economy-wide issues, thereby formally establishing macroeconomics as a distinct field.",
-          "answer200Words": "The Great Depression of 1929-30s was a seminal event that fundamentally reshaped economic thinking and directly led to the emergence of macroeconomics as a separate discipline. Prior to this, the dominant 'classical tradition' held that economies naturally tended towards full employment and output, with any deviations being temporary and self-correcting. However, the sheer scale and persistence of the Great Depression shattered this belief. Countries across Europe and North America experienced massive declines in output and unprecedented levels of unemployment. For instance, in the USA, the unemployment rate soared from a mere 3% in 1929 to a staggering 25% by 1933, while aggregate output plummeted by approximately 33%. Factories lay idle, and millions were without jobs, despite being willing to work. These events clearly demonstrated that the economy could experience long-lasting unemployment and underutilization of resources, a phenomenon that microeconomic analysis, focused on individual markets, could not adequately explain or address. This crisis inspired John Maynard Keynes to publish 'The General Theory of Employment, Interest and Money' in 1936. Keynes's work provided a theoretical framework to understand how an economy as a whole could settle into an equilibrium with high unemployment and what policies (like government intervention) could be implemented to manage aggregate demand, thus laying the foundation for modern macroeconomic theory.",
-          "answer50To75Words": "The Great Depression (1929) was a severe economic crisis with massive output declines and soaring unemployment (e.g., US unemployment rose from 3% to 25%). It contradicted the classical belief in automatic full employment, revealing the need to study the economy as a whole. This crisis inspired John Maynard Keynes to develop a new framework, leading to the formal emergence of macroeconomics as a distinct field.",
-          "text": "Discuss the significance of the Great Depression of 1929 in the emergence of macroeconomics as a separate branch of economic study."
+          "answer150Words": "The emergence of macroeconomics as a distinct field is largely attributed to the British economist John Maynard Keynes, particularly after the publication of his book 'The General Theory of Employment, Interest and Money' in 1936. Prior to Keynes, the dominant 'classical tradition' in economics held that market forces would naturally lead to full employment and optimal resource utilization, making long-term unemployment an anomaly. However, the severity and prolonged nature of the Great Depression, which began in 1929, challenged these assumptions. The Depression saw unprecedented levels of unemployment (e.g., 25% in the USA) and a drastic fall in aggregate output (e.g., 33% in the USA). Classical theories failed to adequately explain or offer solutions for such widespread economic collapse. Keynes's work provided a new framework that examined the economy in its entirety, focusing on aggregate demand, total output, and overall employment, demonstrating that an economy could remain in equilibrium with persistent unemployment. This intellectual shift marked the formal birth of macroeconomics, recognizing the need for a separate analysis of economy-wide phenomena and the potential role of government intervention.",
+          "answer200Words": "The rise of macroeconomics as a distinct branch of economic study is intrinsically linked to the historical context of the early 20th century and the intellectual contributions of John Maynard Keynes. Before the 1930s, economic thought was largely dominated by the classical tradition, which posited that market mechanisms, if left unfettered, would automatically adjust to ensure full employment and efficient allocation of resources. This view held that any unemployment would be temporary, caused by rigidities, and self-correcting. However, the catastrophic events of the Great Depression, which started in 1929, fundamentally challenged these assumptions. The Depression witnessed a severe and prolonged global economic downturn, marked by a massive decline in industrial output, widespread business failures, and unprecedented levels of unemployment across developed nations. For instance, unemployment in the USA soared from 3% to 25% between 1929 and 1933, with aggregate output falling by a third. The classical framework proved inadequate in explaining the persistence of such widespread unemployment and economic stagnation. In response, Keynes published 'The General Theory of Employment, Interest and Money' in 1936, which provided a revolutionary framework. He argued that an economy could achieve equilibrium at less than full employment, primarily due to insufficient aggregate demand. Keynes's analysis shifted focus from individual markets to aggregate variables and introduced the concept that government intervention (e.g., through fiscal and monetary policies) might be necessary to stabilize the economy and ensure full employment. This seminal work laid the foundation for modern macroeconomics, recognizing the need for a separate discipline to address economy-wide issues and formulate appropriate policies.",
+          "answer50To75Words": "Macroeconomics emerged primarily due to the failure of classical economic theories to explain the severity and persistence of the Great Depression (1929). Before Keynes, economists believed markets naturally ensured full employment. However, the Depression's mass unemployment (e.g., 25% in USA) and output collapse highlighted the need for a new approach. John Maynard Keynes's 'The General Theory' (1936) provided this, analyzing the economy as a whole and showing how unemployment could persist, thus establishing macroeconomics as a separate field.",
+          "text": "Discuss the historical factors and intellectual contributions that led to the emergence of macroeconomics as a separate branch of economic study.",
+          "title": "Emergence of Macroeconomics"
         },
         {
-          "answer150Words": "A capitalist economy is primarily characterized by three features. First, there is **private ownership of the means of production**, meaning assets like factories, land, and machinery are owned by private individuals or entities (like KnowledgeCompass's servers and offices). Second, **production takes place for selling the output in the market**, rather than primarily for self-consumption. Firms like KnowledgeCompass produce educational content specifically to sell to a broad customer base. Third, there is **sale and purchase of labour services at a price called the wage rate**, creating 'wage labour'. People work for wages, and firms hire them based on their skills and market rates. Additionally, in capitalist economies, entrepreneurs (like Neil and Kanishq) combine these factors, bear risks, and seek to maximize profit, which is often reinvested as 'investment expenditure' to expand productive capacity.",
-          "answer200Words": "A capitalist economy is an economic system predominantly characterized by three core features. Firstly, it embodies **private ownership of the means of production**. This implies that the capital, land, and other resources necessary for producing goods and services are primarily owned and controlled by private individuals or firms, rather than the state or community. For instance, the infrastructure and intellectual property of KnowledgeCompass are privately owned by its founders and shareholders. Secondly, **production takes place for selling the output in the market**. The primary motive for production is to cater to market demand and generate revenue, not for direct self-consumption by the producers. KnowledgeCompass develops learning modules and sells them to a vast market of students and professionals globally. Lastly, there is a distinct system of **sale and purchase of labour services at a price called the wage rate**. This gives rise to 'wage labour,' where individuals offer their labor in exchange for wages, and firms hire labor as an input to production. In such an economy, entrepreneurs combine these factors of production, bear the risks of business, and aim to earn profits. These profits are often reinvested as 'investment expenditure' to enhance productive capacity, driving economic growth.",
-          "answer50To75Words": "A capitalist economy is defined by: (a) **Private ownership of means of production** (e.g., KnowledgeCompass's assets). (b) **Production for selling output in the market** (e.g., KnowledgeCompass selling courses). (c) **Sale and purchase of wage labor**, where labor is hired for wages. Entrepreneurs combine factors of production to earn profits, often reinvesting them as investment expenditure to expand capacity.",
-          "text": "Identify and explain the key features that define a capitalist economy."
+          "answer150Words": "A capitalist economy is fundamentally characterized by three key features. Firstly, there is private ownership of the means of production, meaning that assets like land, factories, and machinery are predominantly owned by individuals or private entities rather than the state. Secondly, production primarily takes place for selling the output in the market. Firms produce goods and services not for self-consumption, but with the explicit aim of selling them to consumers or other businesses to generate revenue and profit. Thirdly, there is the widespread sale and purchase of labour services at a determined price, known as the wage rate. This implies the existence of 'wage labour', where individuals offer their labour in exchange for wages. Entrepreneurs, driven by the motive of profit, organize these factors of production. Investment expenditure, the use of profits to expand productive capacity, is also a crucial aspect, allowing for economic growth and expansion within this system. These characteristics define how resources are allocated and economic activity is organized in a capitalist framework.",
+          "answer200Words": "A capitalist economy is defined by a distinct set of characteristics that govern its production and exchange activities. The first and foremost feature is the private ownership of the means of production. This implies that the key resources and assets required for production—such as land, capital equipment, and raw materials—are largely held and controlled by private individuals or firms, not by the government. This private control allows for individual initiative and entrepreneurship. The second crucial characteristic is that production takes place primarily for selling the output in the market. Unlike subsistence economies, capitalist enterprises produce goods and services with the explicit intention of selling them to consumers or other businesses, driven by the goal of earning profit. This market orientation necessitates efficiency and responsiveness to consumer demand. The third defining feature is the existence of a labour market where labour services are bought and sold at a price known as the wage rate. This gives rise to 'wage labour,' where individuals offer their skills and time in exchange for wages from firms. Entrepreneurs play a central role in this system, risking their capital and organizing these factors of production (land, labour, capital) to generate output. The profits earned are often reinvested as 'investment expenditure' to expand productive capacity, fostering economic growth. These interconnected characteristics underscore a system driven by private enterprise, market exchange, and the pursuit of profit.",
+          "answer50To75Words": "A capitalist economy is characterized by private ownership of the means of production (e.g., land, capital). Production is primarily for sale in the market, aiming for profit. Crucially, there's a market for 'wage labour,' where labour services are bought and sold at a wage rate. Entrepreneurs combine these factors, taking risks for profit, and reinvest profits as 'investment expenditure' to expand capacity. These features highlight a market-driven, private-sector dominated economic system.",
+          "text": "Enumerate and explain the important features that define a capitalist economy.",
+          "title": "Features of a Capitalist Economy"
         },
         {
-          "answer150Words": "The four major sectors in an economy, from a macroeconomic perspective, are: (1) **Households:** This sector comprises individuals or groups making consumption decisions, supplying factors of production (labor, capital) to firms and government, and earning income (wages, salaries, rent, interest, profits). They also save and pay taxes. (2) **Firms:** These are production units (like KnowledgeCompass) that hire factors of production from households, produce goods and services, and sell them in the market with the primary motive of earning profits. (3) **Government (State):** This sector's role includes framing and enforcing laws, delivering justice, imposing taxes, undertaking public spending, and providing public goods and services (e.g., infrastructure, defense, education, health). (4) **External Sector:** This encompasses all economic interactions with the rest of the world, including exports (domestic goods sold abroad), imports (foreign goods bought domestically), and capital flows (investment from/to foreign countries). Understanding these sectors and their interlinkages is crucial for macroeconomic analysis.",
-          "answer200Words": "From a macroeconomic standpoint, an economy is typically viewed as consisting of four interconnected major sectors, each playing a vital role in the circular flow of income and expenditure. First, the **Household Sector** consists of individuals and groups making consumption and saving decisions. They are the primary consumers of goods and services and are also the ultimate owners and suppliers of factors of production (land, labor, capital, entrepreneurship) to firms and the government, earning income in return. Second, the **Firm Sector** comprises all production units (e.g., KnowledgeCompass) whose main objective is to produce goods and services using factors hired from households, selling them in various markets, and earning profits. Firms make investment expenditures to expand their productive capacity. Third, the **Government (State) Sector** is a crucial macroeconomic agent responsible for establishing the legal and institutional framework of the economy, providing public goods and services (like defense, infrastructure, education, and healthcare), imposing taxes, and undertaking public spending to achieve societal goals that private markets might not fulfill. Finally, the **External Sector** represents the economy's interactions with the rest of the world. This includes exports (domestic goods sold to foreign countries), imports (foreign goods purchased by domestic residents), and international capital flows (foreign investment into or out of the domestic country). These four sectors are interdependent, with flows of goods, services, and money continuously moving between them, forming the aggregate economic activity studied in macroeconomics.",
-          "answer50To75Words": "The four major economic sectors are: (1) **Households:** Consumers and suppliers of factors of production. (2) **Firms:** Producers of goods and services for profit (like KnowledgeCompass). (3) **Government:** Provides public goods, taxes, and spends. (4) **External Sector:** Engages in international trade (exports/imports) and capital flows. These interlinked sectors drive the aggregate economy.",
-          "text": "Describe the four major sectors in an economy from a macroeconomic point of view and their respective roles."
+          "answer150Words": "From a macroeconomic perspective, an economy is typically divided into four major sectors to understand its aggregate functioning and interlinkages. First, the **Household Sector** consists of individuals or groups making consumption decisions, supplying labour and capital to firms and government, and paying taxes. Second, the **Firm Sector** comprises production units (firms) that hire inputs (labour, capital, land) to produce goods and services with the motive of selling them in the market for profit. Third, the **Government (or State) Sector** is involved in framing and enforcing laws, delivering justice, undertaking public production, imposing taxes, and spending on public infrastructure, education, and health. It pursues public goals beyond private profit. Fourth, the **External Sector** deals with the rest of the world. This involves international trade, specifically 'exports' (domestic goods sold abroad) and 'imports' (foreign goods bought domestically), and also includes capital flows between the domestic country and foreign nations. Analyzing these sectors and their interactions allows macroeconomists to understand the overall health and dynamics of an economy.",
+          "answer200Words": "Macroeconomics simplifies the complex reality of an economy by dividing it into four interconnected major sectors, allowing for a comprehensive aggregate analysis. These sectors are:  1. **Household Sector**: This comprises individuals or groups who are the ultimate consumers of goods and services. Households make decisions regarding their consumption, saving, and tax payments. Crucially, they also supply the factors of production – primarily labour to firms and government, and capital through savings and investments. Their demand for goods and services is vital for the functioning of markets.  2. **Firm Sector**: This sector consists of production units or enterprises, organized predominantly on capitalist principles. Firms hire wage labour, utilize capital and land, and undertake the task of production. Their primary motive is to sell their output in the market and earn profits. These profits are often reinvested as 'investment expenditure' to expand productive capacity.  3. **Government (or State) Sector**: This sector encompasses the various government bodies that perform diverse economic functions. Beyond framing and enforcing laws, the government undertakes public production, imposes taxes, and spends money on public infrastructure, education, healthcare, and defence. The government's economic decisions are guided by public goals and the welfare of the country as a whole, often modifying market forces.  4. **External Sector**: This sector represents the interaction of the domestic economy with the rest of the world. Its activities include international trade, specifically 'exports' (selling goods and services to foreign countries) and 'imports' (buying goods and services from foreign countries). Additionally, it accounts for capital flows, where capital moves into or out of the domestic country. This sector highlights the increasing interdependence of national economies in a globalized world. Understanding the interlinkages between these four sectors is fundamental to macroeconomic analysis.",
+          "answer50To75Words": "Macroeconomics identifies four major sectors:  1.  **Households**: Consumers of goods, suppliers of labour and capital.  2.  **Firms**: Producers of goods and services for profit.  3.  **Government**: Sets policies, collects taxes, provides public goods and services.  4.  **External Sector**: Engages in international trade (exports/imports) and capital flows.  These sectors interact to determine the overall economic activity of a country.",
+          "text": "Describe in detail the four major sectors in an economy from a macroeconomic point of view, explaining the role of each.",
+          "title": "Four Major Sectors of an Economy"
         },
         {
-          "answer150Words": "Macroeconomic decision-makers are distinct from microeconomic agents in terms of their identity, goals, and scope. Firstly, macroeconomic decisions are typically made by the State itself or statutory bodies like the Reserve Bank of India (RBI) and Securities and Exchange Board of India (SEBI). These are public institutions with a national mandate. Secondly, their goals are not private profit or individual welfare maximization, but rather broad public objectives defined by law or the Constitution, aimed at the welfare of the country as a whole. Examples include achieving full employment, stabilizing prices, promoting economic growth, and providing public goods like defense, education, and healthcare. For instance, while KnowledgeCompass aims to maximize its profit (a micro goal), the RBI aims to control inflation for the entire economy (a macro goal). These public-spirited goals often require deploying economic resources for collective needs, sometimes even modifying the aggregate effects of individual microeconomic decisions.",
-          "answer200Words": "Macroeconomic decision-makers differ significantly from individual economic agents (like consumers or firms) in both their nature and objectives. Macroeconomic decisions are typically undertaken by the State or its statutory bodies, such as the Reserve Bank of India (RBI) or the Securities and Exchange Board of India (SEBI). These institutions operate at a national level and have a broader mandate compared to individual market participants. The fundamental distinction lies in their goals. While individual economic agents, like KnowledgeCompass as a firm, aim to maximize their private profit or personal satisfaction, macroeconomic decision-makers pursue public goals. These objectives are defined by law, the Constitution, or societal consensus, and are directed towards the overall welfare of the country and its people. Examples of such goals include achieving full employment, maintaining price stability (controlling inflation), fostering sustainable economic growth, ensuring equitable distribution of income, and providing essential public services like defense, infrastructure, education, and public health. These activities often involve deploying economic resources for collective needs and may necessitate modifying or influencing the aggregate outcomes of numerous microeconomic decisions made by individuals and firms, reflecting society's choices outside the pure market mechanisms. Thus, their scope is economy-wide, and their motivation is collective well-being rather than individual gain.",
-          "answer50To75Words": "Macroeconomic decision-makers are the State or statutory bodies (e.g., RBI, SEBI). Their goals differ from individual agents' self-interest. They pursue public goals for the country's welfare, like achieving full employment, price stability, and providing public goods (e.g., defense, education). These objectives often require directing economic resources for collective needs, unlike individual profit maximization.",
-          "text": "Who are the macroeconomic decision-makers in an economy, and how do their goals and scope of action differ from those of individual economic agents?"
+          "answer150Words": "The simplification of focusing on a single imaginary commodity in macroeconomics is valuable for several reasons. Primarily, it streamlines analysis by allowing economists to study the aggregated behavior of prices, output, and employment without getting bogged down in the distinct details of countless individual goods. The underlying observation is that, especially during significant economic shifts like inflation or recession, the general directions of movement for variables like prices, interest rates, wages, and profits tend to be similar across most commodities. This aggregation helps in identifying broad economic trends and formulating general policies. However, this simplification has limitations. It may overlook vital distinctive characteristics, such as the vastly different production conditions of agricultural versus industrial goods, or the qualitative differences in various types of labour (e.g., manager vs. accountant). For certain policy purposes or a deeper understanding, macroeconomists often need to disaggregate, considering a handful of representative goods (like agricultural, industrial, and services) with their unique technologies and price dynamics, recognizing that complete homogeneity is rarely the case.",
+          "answer200Words": "Macroeconomics often simplifies its analysis by treating the economy's vast array of goods and services as a 'single imaginary commodity.' This simplification is highly beneficial because it allows economists to focus on aggregate variables like total output, general price levels, and overall employment without delving into the intricacies of every individual market. The underlying justification is the observed tendency for output levels, prices, and employment across different goods and services to move together, particularly during periods of significant economic change such as inflation or recession. This cohesiveness implies that what happens to the prices, wages, and profits for one commodity often broadly reflects what happens for others, thus facilitating the study of economy-wide trends and the formulation of broad macroeconomic policies.  However, this simplification is not without its limitations. A significant drawback is the potential to overlook vital distinctive characteristics that genuinely differentiate individual goods and sectors. For instance, the production technologies, cost structures, and supply elasticities of agricultural commodities are fundamentally different from those of industrial goods. Similarly, treating 'labour' as a single homogenous category might obscure crucial distinctions between various skill sets and roles, such as the labour of a highly specialized manager versus a factory worker. In many practical scenarios, these distinctions matter for targeted policy interventions. Therefore, while aggregation provides a useful starting point, macroeconomists often find it necessary to move beyond a single representative good to a handful of distinct categories (like agricultural goods, industrial goods, and services) to capture essential nuances and interdependencies within the economy more accurately.",
+          "answer50To75Words": "Simplifying to a single imaginary commodity in macroeconomics helps focus on aggregate trends like overall prices and output, as these often move together. It simplifies complex analysis. However, a limitation is that it may overlook crucial distinctions between different types of goods (e.g., agricultural vs. industrial) or labour, whose production conditions and market dynamics can vary significantly. This means the simplification, while convenient, might miss important nuances for specific policy analysis.",
+          "text": "Explain the rationale behind simplifying macroeconomic analysis by focusing on a 'single imaginary commodity.' Also, discuss the potential limitations of this simplification.",
+          "title": "Simplification in Macroeconomics: Rationale and Limitations"
+        },
+        {
+          "answer150Words": "The Great Depression of 1929 was a severe global economic downturn that significantly impacted developed countries, particularly Europe and North America. It began with the stock market crash in October 1929 and led to a prolonged period of economic contraction. Key characteristics included a massive fall in aggregate output and employment levels. In the USA, for instance, the unemployment rate drastically rose from 3% in 1929 to 25% by 1933, meaning one-fourth of the labor force was jobless. Over the same period, aggregate output in the USA plummeted by approximately 33%. Demand for goods in the market was extremely low, leading to idle factories and widespread business failures. This crisis highlighted the inability of existing economic theories (the classical tradition) to explain persistent mass unemployment and necessitated a new approach to understanding the functioning of the economy as a whole, paving the way for John Maynard Keynes's groundbreaking work and the emergence of macroeconomics.",
+          "answer200Words": "The Great Depression, which commenced in 1929 and extended throughout the 1930s, stands as one of the most severe economic crises in modern history, profoundly shaping macroeconomic thought. Originating in the United States with the stock market crash, its effects quickly rippled across the globe, severely impacting the economies of Europe and North America. The period was characterized by an unprecedented and sustained decline in economic activity. Key features included:  1.  **Massive Fall in Output**: Aggregate output in affected countries plummeted. For example, in the USA, aggregate output fell by approximately 33% from 1929 to 1933, indicating a significant contraction in the production of goods and services.  2.  **Soaring Unemployment**: Unemployment reached catastrophic levels. In the USA, the unemployment rate surged from 3% in 1929 to a staggering 25% by 1933, meaning millions of people were jobless and actively seeking work.  3.  **Widespread Business Failures**: Low demand, falling prices, and economic uncertainty led to the collapse of numerous businesses and banks.  4.  **Idle Productive Capacity**: Many factories and production units lay idle due to a lack of demand, contradicting the classical economic assumption of full capacity utilization.  The magnitude and persistence of these issues fundamentally challenged the prevailing classical economic theories, which largely assumed markets would self-correct to full employment. The inability of existing frameworks to explain or resolve such a severe and prolonged crisis provided the impetus for new economic theories, most notably those developed by John Maynard Keynes, which formed the bedrock of modern macroeconomics.",
+          "answer50To75Words": "The Great Depression, starting in 1929, was a severe global economic downturn. It was characterized by massive falls in output and employment. In the USA, unemployment rose from 3% to 25%, and aggregate output fell by about 33%. Factories lay idle due to low demand. This crisis highlighted the inadequacy of existing economic theories and spurred the development of macroeconomics to explain and address large-scale economic failures.",
+          "text": "Describe in detail the characteristics and impact of the Great Depression of 1929.",
+          "title": "The Great Depression of 1929"
         }
       ],
       "mindmap": [
         {
-          "definition": "A branch of economics that studies individual economic units and their decisions, as well as the functioning of specific markets.",
-          "example": "KnowledgeCompass deciding on the optimal price for a new AI-powered learning module based on market research and production costs, or an individual student choosing which course to purchase based on their budget and interests.",
-          "explanation": "Microeconomics focuses on the 'small' picture of the economy, analyzing how individual consumers, households, and firms make choices, and how demand and supply interact in particular markets. It aims to understand individual motivations and market mechanisms without necessarily considering economy-wide impacts.",
+          "definition": "A branch of economics that studies individual economic units and specific markets.",
+          "explanation": "Microeconomics focuses on small-scale economic decisions made by individual agents like consumers and firms, and the interactions within individual markets. It examines topics such as pricing of a single product, consumer choice, and resource allocation within a firm.",
           "keyPoints": [
-            "Focuses on individual economic agents (consumers, firms).",
-            "Studies specific markets (e.g., market for EdTech services).",
-            "Analyzes decision-making for individual optimization (profit, satisfaction).",
-            "Takes aggregate phenomena like inflation or unemployment as given."
+            "Studies individual economic agents (consumers, producers)",
+            "Focuses on individual markets (demand, supply, equilibrium)",
+            "Aims to maximize individual profit or satisfaction",
+            "Treats macro phenomena (inflation, unemployment) as given"
           ],
           "title": "Microeconomics",
-          "points": [
-            {
-              "example": "KnowledgeCompass launching a new product and assessing its specific market share and profitability.",
-              "explanation": "Microeconomic concerns revolve around how individual players operate within their specific domain. This includes aspects like production decisions, pricing strategies, consumer behavior, and efficiency within a single market.",
-              "keyPoints": [
-                "Individual decision-making (e.g., what to buy, what to produce).",
-                "Market equilibrium (supply and demand in one market).",
-                "Resource allocation at a firm or household level."
-              ],
-              "title": "Core Concerns of Microeconomics"
-            },
-            {
-              "example": "While KnowledgeCompass focuses on its unique challenges and market, the broader economic trends of rising unemployment or inflation (macro phenomena) are generally outside its direct influence.",
-              "explanation": "In microeconomics, large-scale economic issues such as inflation or widespread unemployment are usually considered exogenous—meaning they are taken as given and not directly influenced by the individual decisions being studied. The focus remains on the internal dynamics of a specific market or entity.",
-              "keyPoints": [
-                "Aggregate variables (inflation, unemployment) are exogenous.",
-                "Individual buyers/sellers cannot change these macro variables.",
-                "Nearest to macro is General Equilibrium (equilibrium across all markets)."
-              ],
-              "title": "Macro Phenomena in Microeconomics"
-            }
-          ]
+          "points": null
         },
         {
-          "definition": "A branch of economics that deals with the economy as a whole, focusing on aggregate variables and issues like national income, overall employment, and the general price level.",
-          "example": "The national government implementing policies to reduce the overall unemployment rate across all sectors, or the Reserve Bank of India adjusting interest rates to control nationwide inflation, impacting KnowledgeCompass's expansion plans.",
-          "explanation": "Macroeconomics looks at the 'large' picture, analyzing the economy in terms of aggregate phenomena. It addresses questions about the overall health of a country's economy, the factors driving national output and employment, and the role of government or central bank policies in achieving societal goals such as stable prices, full employment, and economic growth.",
+          "definition": "A branch of economics that deals with the economy as a whole, focusing on aggregate economic variables.",
+          "explanation": "Macroeconomics examines large-scale economic phenomena and the overall health of a country's economy. It looks at economy-wide issues that concern all citizens, such as national income, overall employment levels, general price stability, and economic growth. It emerged to address limitations of microeconomics in explaining aggregate issues like the Great Depression.",
           "keyPoints": [
-            "Focuses on the economy as a whole.",
-            "Studies aggregate variables (e.g., national output, price level, employment level).",
-            "Addresses broad economic questions concerning all citizens.",
-            "Deals with policies to achieve societal goals (e.g., reducing unemployment)."
+            "Studies the economy as a whole",
+            "Focuses on aggregate variables (national income, total employment, price level)",
+            "Aims to achieve societal goals (full employment, price stability)",
+            "Deals with policies affecting the entire economy (fiscal, monetary)"
           ],
           "title": "Macroeconomics",
           "points": [
             {
-              "example": "If KnowledgeCompass observes a general increase in purchasing power across the nation, it's a macroeconomic indicator influencing their overall market potential, not just their specific product appeal.",
-              "explanation": "Macroeconomics is concerned with how the entire economy performs. This includes assessing overall production levels, average prices, and the total number of people employed. These aggregate measures provide a comprehensive view of the economic state.",
-              "keyPoints": [
-                "Overall output levels of goods and services.",
-                "General price levels (e.g., inflation).",
-                "Total employment levels.",
-                "These variables tend to move together."
-              ],
-              "title": "Key Macroeconomic Concerns/Variables"
+              "explanation": "Microeconomics studies individual agents trying to maximize profit/satisfaction in specific markets, taking large-scale phenomena as given. Macroeconomics addresses situations facing the economy as a whole, dealing with aggregate effects and societal goals.",
+              "title": "Key Differences"
             },
             {
-              "example": "KnowledgeCompass's growth might be seen as a micro-level success, but the Great Depression's widespread unemployment profoundly impacted even successful firms, necessitating a broader macroeconomic approach.",
-              "explanation": "Macroeconomics emerged as a distinct field largely due to the failure of classical economic theory to explain prolonged and widespread economic downturns like the Great Depression. John Maynard Keynes's work highlighted the need for a holistic view of the economy.",
-              "keyPoints": [
-                "Classical tradition assumed full employment and full capacity.",
-                "Great Depression (1929) showed persistent unemployment and output fall.",
-                "Keynes's 'General Theory' (1936) provided a new framework.",
-                "Emphasized interdependence of different sectors and aggregate demand."
-              ],
-              "title": "Emergence of Macroeconomics"
+              "explanation": "Macroeconomics emerged in 1936 with J.M. Keynes's 'The General Theory' in response to the Great Depression (1929-1933), which classical economics couldn't explain. Keynes focused on the economy in its entirety and interdependencies.",
+              "title": "Emergence of Macroeconomics (Keynesian Revolution)"
             },
             {
-              "example": "While KnowledgeCompass operates within its sector, government initiatives (like new education policies) or global economic shifts (impacting their international sales) represent macroeconomic influences.",
-              "explanation": "Macroeconomic analysis recognizes that while a 'representative good' simplification is useful, the economy can also be viewed as composed of distinct sectors (e.g., agriculture, industry, services) or broad economic agents (households, firms, government, external sector). Understanding the relationships and interdependencies between these large components is crucial for a complete picture.",
-              "keyPoints": [
-                "Economy seen as composed of distinct sectors (e.g., agriculture, industry, services).",
-                "Focus on interdependencies between sectors (e.g., household sector, business sector, government).",
-                "Allows for better understanding of specific economic dynamics not captured by pure aggregation."
-              ],
-              "title": "Sectoral Approach in Macroeconomics"
-            }
-          ]
-        },
-        {
-          "definition": "Individuals or institutions that take economic decisions, such as consumers, producers, governments, and financial entities like banks.",
-          "example": "Neil and Kanishq as entrepreneurs making production decisions for KnowledgeCompass, individual students deciding to purchase learning modules, or the Indian government deciding on tax rates for EdTech companies.",
-          "explanation": "Economic agents are the fundamental decision-making units in an economy. They interact in markets and their collective actions determine economic outcomes. These agents can be individuals (like consumers), groups (like households), or organizations (like firms, governments, and banks), each with their own set of motivations and roles in the economy.",
-          "keyPoints": [
-            "Entities that make economic decisions.",
-            "Consumers: decide what and how much to consume.",
-            "Producers: decide what and how much to produce.",
-            "Government/Corporations/Banks: decide spending, interest rates, taxes.",
-            "Motivations vary: private profit/welfare vs. public goals."
-          ],
-          "title": "Economic Agents",
-          "points": [
-            {
-              "example": "If KnowledgeCompass wants to expand its reach, the Reserve Bank of India's (RBI) decision on interest rates (a macro policy) will influence the cost of borrowing for their expansion.",
-              "explanation": "Macroeconomic decision-makers are distinct from individual agents. They are typically public bodies or the State itself, with mandates to pursue broad societal goals rather than individual profit or welfare. These goals include addressing unemployment, ensuring access to education and health for all, and national defense.",
-              "keyPoints": [
-                "Are the State or statutory bodies (e.g., RBI, SEBI).",
-                "Pursue public goals defined by law/constitution.",
-                "Goals are not individual profit/welfare maximization.",
-                "Aim for the welfare of the country as a whole.",
-                "Often direct economic resources for collective needs."
-              ],
+              "explanation": "Macroeconomic decision-makers are the State or statutory bodies (like RBI, SEBI) that pursue public goals defined by law/constitution (e.g., employment, defence), rather than private profit/welfare.",
               "title": "Macroeconomic Decision-Makers"
             }
           ]
         },
         {
-          "definition": "An economic system where most production activities are carried out by private enterprises for market sale, characterized by private ownership of means of production and the presence of wage labor.",
-          "example": "KnowledgeCompass operates as a capitalist enterprise: it's privately owned by Neil and Kanishq, produces learning modules for sale in the market, and hires employees (wage labor) to develop content and manage operations, aiming to generate profits for reinvestment and growth.",
-          "explanation": "A capitalist economy is defined by specific institutional arrangements regarding ownership, production motives, and labor. Private individuals or entities own the capital and land used in production. Goods and services are primarily produced not for self-consumption but to be sold in markets. Labor itself becomes a commodity, sold and purchased for wages.",
+          "definition": "An economic system characterized by private ownership of means of production, production for market sale, and wage labour.",
+          "explanation": "In a capitalist economy, private individuals or firms own the resources used for production. They produce goods and services with the primary aim of selling them in markets to earn profits. Labour is hired against wages, creating a wage labour market. Entrepreneurs play a crucial role, taking risks and investing profits to expand productive capacity.",
           "keyPoints": [
-            "Private ownership of means of production (capital, land).",
-            "Production takes place for selling output in the market.",
-            "Sale and purchase of labor services at a wage rate (wage labor).",
-            "Entrepreneurs combine factors of production with profit motive.",
-            "Profits often used for investment expenditure to expand capacity."
+            "Private ownership of means of production",
+            "Production for selling output in the market",
+            "Sale and purchase of labour services (wage labour)",
+            "Profit motive drives production",
+            "Investment expenditure expands productive capacity"
           ],
           "title": "Capitalist Economy",
           "points": [
             {
-              "example": "KnowledgeCompass utilizes its proprietary software (capital), its office space (land), its content creators and tech team (labour), and the strategic vision of Neil and Kanishq (entrepreneurship) to produce its learning modules.",
-              "explanation": "These are the fundamental inputs required for production in a capitalist economy. Entrepreneurs organize and combine these factors to create goods and services. Each factor earns a specific type of income in the production process.",
-              "keyPoints": [
-                "**Land:** Natural resources, both consumed (raw materials) and fixed (plots of land).",
-                "**Labour:** Human effort, both physical and mental, used in production.",
-                "**Capital:** Man-made resources like machinery, tools, and factories.",
-                "**Entrepreneurship:** The organizing, decision-making, and risk-bearing function that brings other factors together."
-              ],
+              "explanation": "These are the fundamental resources used to produce goods and services: Land (natural resources), Labour (human effort), Capital (man-made resources like machinery), and Entrepreneurship (the ability to organize and bear risk).",
               "title": "Factors of Production"
-            },
-            {
-              "example": "After selling its premium courses, KnowledgeCompass earns 'revenue'. A part of this revenue goes to pay salaries to its employees ('wages'), rent for its office ('rent'), and interest on any loans ('interest'). The remaining portion is 'profit', which Neil and Kanishq might reinvest as 'investment expenditure' to develop new AI tools or expand globally.",
-              "explanation": "The income generated from selling the output is distributed among the factors of production. What remains after covering these costs is the entrepreneur's profit, which can be reinvested to expand future production.",
-              "keyPoints": [
-                "**Revenue:** Total money earned from selling products.",
-                "**Rent:** Payment for the service of land.",
-                "**Interest:** Payment for the service of capital.",
-                "**Wages:** Payment to labour.",
-                "**Profit:** Earning of entrepreneurs after other costs are paid.",
-                "**Investment Expenditure:** Use of profits to raise productive capacity (e.g., new machinery, factories)."
-              ],
-              "title": "Income Distribution and Investment"
             }
           ]
         },
         {
-          "definition": "The main categories of economic agents or activities that interact to form an economy, including households, firms, government, and the external sector.",
-          "example": "KnowledgeCompass (firm) hires employees (households), pays taxes to the government, and sells courses to students globally (external sector).",
-          "explanation": "To comprehensively understand the flow of income and expenditure in an economy, macroeconomics divides it into major interacting components. These sectors represent different roles and decision-making units that collectively drive economic activity.",
+          "definition": "The distinct constituent components into which an economy is divided for macroeconomic analysis.",
+          "explanation": "For analytical convenience, macroeconomics divides the entire economy into four interdependent sectors, each with specific roles in economic activity: Households, Firms, Government, and the External Sector. Understanding their interactions is key to aggregate analysis.",
           "keyPoints": [
-            "Help analyze interlinkages within the economy.",
-            "Critical for understanding aggregate economic variables.",
-            "Framework for building macroeconomic models."
+            "Households: consumers, suppliers of labour/capital, pay taxes",
+            "Firms: producers of goods/services, hire inputs, earn profit",
+            "Government: frames laws, provides public services, taxes, spends",
+            "External Sector: international trade (exports/imports), capital flows"
           ],
           "title": "Four Major Sectors of an Economy",
-          "points": [
-            {
-              "example": "Neil and Kanishq, as a household, consume goods, save some of their earnings from KnowledgeCompass, and pay taxes to the government. They also supply their entrepreneurial labor to the firm.",
-              "explanation": "Households are the primary consumers of goods and services and also supply the factors of production (like labor and capital) to firms and the government. Their income comes from wages, salaries, rent, interest, and profits.",
-              "keyPoints": [
-                "Individuals or groups making consumption decisions.",
-                "Supply labor and capital.",
-                "Earn income (wages, salaries, rent, interest, profits).",
-                "Save and pay taxes.",
-                "Generate demand for goods and services."
-              ],
-              "title": "Household Sector"
-            },
-            {
-              "example": "KnowledgeCompass, as a firm, hires content creators, software engineers, and marketing staff, uses its capital (servers, software), and produces educational modules to sell them in the market, aiming for profit.",
-              "explanation": "Firms are the production units in the economy. They hire factors of production to create goods and services, which they then sell in the market. Their central motivation is to earn profits, which can then be reinvested.",
-              "keyPoints": [
-                "Undertake production of goods and services.",
-                "Hire wage labor, capital, and land.",
-                "Motive is to sell output and earn profits.",
-                "Undertake risks and uncertainties."
-              ],
-              "title": "Firm Sector"
-            },
-            {
-              "example": "The Indian government imposes taxes on KnowledgeCompass's profits, spends on public education infrastructure, and sets regulations for the EdTech industry, influencing the business environment.",
-              "explanation": "The State, or Government, plays a crucial role beyond just economic production. It sets laws, provides public services that benefit all citizens (like defense and infrastructure), and influences economic activity through taxation and spending policies.",
-              "keyPoints": [
-                "Frames laws, enforces justice.",
-                "Undertakes public production (schools, hospitals).",
-                "Imposes taxes and spends money (public infrastructure).",
-                "Aims for public welfare, not private profit."
-              ],
-              "title": "Government (State) Sector"
-            },
-            {
-              "example": "KnowledgeCompass exports its learning modules to students in the USA (exports) and imports specialized software tools from Germany (imports). Additionally, a foreign venture capital firm might invest in KnowledgeCompass (capital inflow).",
-              "explanation": "This sector accounts for all economic interactions between the domestic country and the rest of the world. It includes the buying and selling of goods and services across borders and the movement of capital.",
-              "keyPoints": [
-                "Deals with external trade (exports and imports).",
-                "**Exports:** Domestic goods sold to the rest of the world.",
-                "**Imports:** Goods bought from the rest of the world.",
-                "Involves capital flows (domestic capital to foreign, or foreign to domestic)."
-              ],
-              "title": "External Sector"
-            }
-          ]
+          "points": null
         }
       ],
       "story": [
         {
           "storyParts": [
             {
-              "richHtml": "<p class=\"mb-2 text-slate-700 dark:text-slate-300\">The early days of KnowledgeCompass were a whirlwind of intense coding sessions, late-night strategy meetings, and endless cups of coffee. Neil and Kanishq, the co-founders, were in their element, building an EdTech empire from the ground up. One evening, after a particularly long day of analyzing market trends, Kanishq leaned back, a thoughtful expression on his face.</p>",
-              "speaker": null,
-              "text": "The early days of KnowledgeCompass were a whirlwind of intense coding sessions, late-night strategy meetings, and endless cups of coffee. Neil and Kanishq, the co-founders, were in their element, building an EdTech empire from the ground up. One evening, after a particularly long day of analyzing market trends, Kanishq leaned back, a thoughtful expression on his face."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"Neil, you know, when we started, all our focus was on individual student subscriptions, pricing strategies for our new modules, and outsmarting 'EduSpark' in the K-12 market. That was pretty much our world, right?\"</p>",
-              "speaker": "Kanishq",
-              "text": "Neil, you know, when we started, all our focus was on individual student subscriptions, pricing strategies for our new modules, and outsmarting 'EduSpark' in the K-12 market. That was pretty much our world, right?"
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Absolutely, Kanishq. That's what we now call 'microeconomics' in our business school lectures. It was all about the 'small' picture – individual consumers deciding what to buy given their income, and us, the producers, trying to maximize profit by keeping costs low and selling high. Even a large company like KnowledgeCompass was 'micro' in that sense; our decisions were for our shareholders, not necessarily for the entire country's economy.\"</p>",
               "speaker": "Neil",
-              "text": "Absolutely, Kanishq. That's what we now call 'microeconomics' in our business school lectures. It was all about the 'small' picture – individual consumers deciding what to buy given their income, and us, the producers, trying to maximize profit by keeping costs low and selling high. Even a large company like KnowledgeCompass was 'micro' in that sense; our decisions were for our shareholders, not necessarily for the entire country's economy."
+              "text": "Kanishq, remember our early days in the garage with KnowledgeCompass? We were so focused on micro details – like getting the pricing right for our first online course, or how many hours we needed to spend coding the platform."
             },
             {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"But then, as KnowledgeCompass grew into a corporation, we started seeing these much bigger waves. Remember when the national inflation rate spiked, and suddenly our production costs for server infrastructure went through the roof, and people had less disposable income for premium subscriptions? Or when the overall employment market dipped, and our B2B corporate training sales froze?\"</p>",
               "speaker": "Kanishq",
-              "text": "But then, as KnowledgeCompass grew into a corporation, we started seeing these much bigger waves. Remember when the national inflation rate spiked, and suddenly our production costs for server infrastructure went through the roof, and people had less disposable income for premium subscriptions? Or when the overall employment market dipped, and our B2B corporate training sales froze?"
+              "text": "Absolutely, Neil! Those were pure microeconomics: consumer choices, our firm's profit maximization, optimizing the supply of study materials. We were economic agents trying to make our little venture successful."
             },
             {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Exactly! Those were the 'macroeconomic' phenomena hitting us. Unlike microeconomics, which took these big picture issues as given, macroeconomics tries to address situations facing the economy as a whole. It asks questions like, 'Will prices as a whole rise or fall?' or 'Is the country's employment condition getting better or worse?' It's about the health of the entire nation's economy.\"</p>",
               "speaker": "Neil",
-              "text": "Exactly! Those were the 'macroeconomic' phenomena hitting us. Unlike microeconomics, which took these big picture issues as given, macroeconomics tries to address situations facing the economy as a whole. It asks questions like, 'Will prices as a whole rise or fall?' or 'Is the country's employment condition getting better or worse?' It's about the health of the entire nation's economy."
+              "text": "But look at us now, a major corporation. My concerns have shifted. I'm constantly checking reports on national inflation, the country's unemployment rate, and the latest government policies. It feels like we're playing a much bigger game now."
             },
             {
-              "richHtml": "<p class=\"mb-2 text-slate-700 dark:text-slate-300\">Neil paused, reflecting on their journey from a garage startup to a multinational entity, realizing how their perspective had broadened. He picked up a marker and started drawing on a whiteboard.</p>",
-              "speaker": null,
-              "text": "Neil paused, reflecting on their journey from a garage startup to a multinational entity, realizing how their perspective had broadened. He picked up a marker and started drawing on a whiteboard."
+              "speaker": "Kanishq",
+              "text": "That's because we've transitioned from primarily micro to macro. Inflation affects our costs, like server maintenance and content creator salaries. High unemployment means fewer families might afford our premium courses. These are 'macro' variables, affecting the economy as a whole, beyond our individual firm's control."
+            },
+            {
+              "speaker": "Neil",
+              "text": "It's fascinating how macroeconomics came to be. I was reading about John Maynard Keynes and 'The General Theory'. Apparently, before him, the 'classical tradition' believed markets would always self-correct and ensure full employment."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Yes, but then came the Great Depression of 1929. Output and employment plummeted across Europe and North America. The USA's unemployment rate went from 3% to 25%! Classical theories couldn't explain or fix that massive, long-lasting problem. Keynes basically said, 'Hey, we need to look at the whole picture!' and macroeconomics was born."
+            },
+            {
+              "speaker": "Neil",
+              "text": "So, instead of just individual buyers and sellers, macroeconomics looks at the big players like governments and central banks, right? They're the 'macroeconomic decision-makers' trying to achieve public goals, not just personal profit."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Exactly. They manage the economy for the welfare of the country, using tools like taxation, spending, and controlling money supply. Even KnowledgeCompass, operating in a capitalist country, needs to understand how these policies affect us, from our 'investment expenditure' on new AI modules to 'wage rates' for our employees."
+            },
+            {
+              "speaker": "Neil",
+              "text": "And the chapter also mentioned the four major sectors of an economy. Let's see... we have 'Households' – our students and employees. Then 'Firms' – that's us, KnowledgeCompass, producing digital education as our 'output'."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Right. And the 'Government' sector, which sets educational policies and collects taxes. Finally, the 'External Sector' – that's our international expansion, dealing with 'exports' of our online courses and 'imports' of foreign technology. It's all interconnected."
+            },
+            {
+              "speaker": "Neil",
+              "text": "It makes you realize that even though we started small, our success now depends so much on the overall 'health' of the country's economy. Our 'profits' are tied to these larger movements. It's a complex, but crucial, understanding."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Indeed. Knowledge of macroeconomics is essential for strategic planning. It helps us anticipate challenges and leverage opportunities on a national and global scale, ensuring KnowledgeCompass continues to thrive."
             }
           ],
-          "title": "Micro vs. Macro: The KnowledgeCompass Journey"
-        },
-        {
-          "storyParts": [
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Initially, it feels complex, right? Like, how can you analyze an economy with millions of goods, services, and jobs? But in macroeconomics, we often simplify. We observe that output levels, prices, and employment tend to move together. If our EdTech output grows, usually industrial goods output also grows. Similarly, prices generally rise or fall simultaneously across different sectors. This allows us to think of a 'single good' as representative of all, reflecting the average production, price, and employment.\"</p>",
-              "speaker": "Neil",
-              "text": "Initially, it feels complex, right? Like, how can you analyze an economy with millions of goods, services, and jobs? But in macroeconomics, we often simplify. We observe that output levels, prices, and employment tend to move together. If our EdTech output grows, usually industrial goods output also grows. Similarly, prices generally rise or fall simultaneously across different sectors. This allows us to think of a 'single good' as representative of all, reflecting the average production, price, and employment."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"Ah, so instead of tracking every single course subscription or every server purchase, we look at 'aggregate output' for KnowledgeCompass's overall contribution to the economy? And 'general price level' for how much things cost on average, not just our course fees?\"</p>",
-              "speaker": "Kanishq",
-              "text": "Ah, so instead of tracking every single course subscription or every server purchase, we look at 'aggregate output' for KnowledgeCompass's overall contribution to the economy? And 'general price level' for how much things cost on average, not just our course fees?"
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Precisely. And the 'aggregate employment level' for the total jobs in the economy. This simplification allows us to analyze broad relationships between variables like prices, interest rates, and wage rates, which, when changing fast (like during inflation or depression), affect all commodities similarly. This helps us understand the big picture.\"</p>",
-              "speaker": "Neil",
-              "text": "Precisely. And the 'aggregate employment level' for the total jobs in the economy. This simplification allows us to analyze broad relationships between variables like prices, interest rates, and wage rates, which, when changing fast (like during inflation or depression), affect all commodities similarly. This helps us understand the big picture."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"But what about when we want to understand, say, why our software developers earn more than our content moderators, or why the cost of producing an AI module is different from a basic e-book? That 'single good' simplification wouldn't help there, right?\"</p>",
-              "speaker": "Kanishq",
-              "text": "But what about when we want to understand, say, why our software developers earn more than our content moderators, or why the cost of producing an AI module is different from a basic e-book? That 'single good' simplification wouldn't help there, right?"
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"You got it. That's when we depart from that simplification. For certain purposes, we need to see the economy as composed of distinct sectors, like agricultural goods, industrial goods, and services – KnowledgeCompass falls under services. Or even look at different types of labor. This helps us analyze how individual output levels, prices, and employment get determined within those specific segments.\"</p>",
-              "speaker": "Neil",
-              "text": "You got it. That's when we depart from that simplification. For certain purposes, we need to see the economy as composed of distinct sectors, like agricultural goods, industrial goods, and services – KnowledgeCompass falls under services. Or even look at different types of labor. This helps us analyze how individual output levels, prices, and employment get determined within those specific segments."
-            }
-          ],
-          "title": "Aggregate Variables and Simplification"
-        },
-        {
-          "storyParts": [
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"So, essentially, macroeconomics helps us understand the 'big picture' issues like inflation and unemployment that individual buyers or sellers can't control. Before Keynes, economists largely followed Adam Smith's idea, thinking that if everyone pursued their self-interest, the overall economy would naturally thrive. 'It is not from the benevolence of the butcher... but from their regard to their own interest,' as he said.\"</p>",
-              "speaker": "Kanishq",
-              "text": "So, essentially, macroeconomics helps us understand the 'big picture' issues like inflation and unemployment that individual buyers or sellers can't control. Before Keynes, economists largely followed Adam Smith's idea, thinking that if everyone pursued their self-interest, the overall economy would naturally thrive. 'It is not from the benevolence of the butcher... but from their regard to their own interest,' as he said."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Exactly. That was the 'classical tradition'. They believed all willing laborers would find employment, and factories would work at full capacity. But then came the Great Depression of 1929. Output and employment plummeted in Europe and North America. In the USA, unemployment shot up from 3% to 25% by 1933, and output fell by a third! This massive, long-lasting unemployment couldn't be explained by classical theories. The markets weren't self-correcting.\"</p>",
-              "speaker": "Neil",
-              "text": "Exactly. That was the 'classical tradition'. They believed all willing laborers would find employment, and factories would work at full capacity. But then came the Great Depression of 1929. Output and employment plummeted in Europe and North America. In the USA, unemployment shot up from 3% to 25% by 1933, and output fell by a third! This massive, long-lasting unemployment couldn't be explained by classical theories. The markets weren't self-correcting."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"And that's where John Maynard Keynes stepped in. His book, 'The General Theory of Employment, Interest and Money' in 1936, was a game-changer. He argued that the economy could indeed have long-lasting unemployment and didn't automatically return to full employment. He examined the economy in its entirety, looking at the interdependence of sectors. That's really how macroeconomics was born, right?\"</p>",
-              "speaker": "Kanishq",
-              "text": "And that's where John Maynard Keynes stepped in. His book, 'The General Theory of Employment, Interest and Money' in 1936, was a game-changer. He argued that the economy could indeed have long-lasting unemployment and didn't automatically return to full employment. He examined the economy in its entirety, looking at the interdependence of sectors. That's really how macroeconomics was born, right?"
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Precisely. The Great Depression provided the critical inspiration. It became clear that society often has important social goals – like ensuring education, health, and defense for all – which required modifying the aggregate effects of individual decisions, something Adam Smith's view didn't fully account for. That's why macroeconomists study policies like taxation, money supply, interest rates, and wages at a national level.\"</p>",
-              "speaker": "Neil",
-              "text": "Precisely. The Great Depression provided the critical inspiration. It became clear that society often has important social goals – like ensuring education, health, and defense for all – which required modifying the aggregate effects of individual decisions, something Adam Smith's view didn't fully account for. That's why macroeconomists study policies like taxation, money supply, interest rates, and wages at a national level."
-            }
-          ],
-          "title": "The Emergence of Macroeconomics: Keynes and the Great Depression"
-        },
-        {
-          "storyParts": [
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"So, speaking of the economy, KnowledgeCompass is a classic example of a capitalist enterprise, isn't it?\"</p>",
-              "speaker": "Kanishq",
-              "text": "So, speaking of the economy, KnowledgeCompass is a classic example of a capitalist enterprise, isn't it?"
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Absolutely. A capitalist economy has three key features. First, there's **private ownership of means of production**. Our servers, our software, our office space – it's all privately owned by KnowledgeCompass. Second, **production takes place for selling the output in the market**. We create courses and sell them to students globally, not just for our own use. Third, there's **sale and purchase of labour services at a wage rate**, which is 'wage labour'. We hire thousands of content creators, developers, and support staff, paying them wages for their services.\"</p>",
-              "speaker": "Neil",
-              "text": "Absolutely. A capitalist economy has three key features. First, there's **private ownership of means of production**. Our servers, our software, our office space – it's all privately owned by KnowledgeCompass. Second, **production takes place for selling the output in the market**. We create courses and sell them to students globally, not just for our own use. Third, there's **sale and purchase of labour services at a wage rate**, which is 'wage labour'. We hire thousands of content creators, developers, and support staff, paying them wages for their services."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"And we use the 'factors of production' – our capital (tech infrastructure), land (our offices), labour (our employees), and our entrepreneurship (our innovative ideas and risk-taking) – to create our 'output', the learning modules. Then, from the 'revenue' we earn, we pay rent, interest on our loans, and wages. What's left is our 'profit', which we often use for 'investment expenditure' to build new features or expand our global reach.\"</p>",
-              "speaker": "Kanishq",
-              "text": "And we use the 'factors of production' – our capital (tech infrastructure), land (our offices), labour (our employees), and our entrepreneurship (our innovative ideas and risk-taking) – to create our 'output', the learning modules. Then, from the 'revenue' we earn, we pay rent, interest on our loans, and wages. What's left is our 'profit', which we often use for 'investment expenditure' to build new features or expand our global reach."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Exactly! That's the core of how KnowledgeCompass, and most other 'firms' in a capitalist economy, operate. It's a system driven by profit motive and risk-taking.\"</p>",
-              "speaker": "Neil",
-              "text": "Exactly! That's the core of how KnowledgeCompass, and most other 'firms' in a capitalist economy, operate. It's a system driven by profit motive and risk-taking."
-            }
-          ],
-          "title": "The Capitalist Economy: KnowledgeCompass as a Case Study"
-        },
-        {
-          "storyParts": [
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Now, to wrap up, macroeconomics sees an economy as a combination of four major sectors. First, there's the **household sector** – that's us, our families, and all the individual students who subscribe to KnowledgeCompass. We make consumption decisions, save, pay taxes, and supply labor to firms like ours or the government.\"</p>",
-              "speaker": "Neil",
-              "text": "Now, to wrap up, macroeconomics sees an economy as a combination of four major sectors. First, there's the **household sector** – that's us, our families, and all the individual students who subscribe to KnowledgeCompass. We make consumption decisions, save, pay taxes, and supply labor to firms like ours or the government."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"Then there's the **firm sector**, which is KnowledgeCompass itself, and all other businesses, big or small. We produce goods and services, hire factors of production, and sell our output to earn profits.\"</p>",
-              "speaker": "Kanishq",
-              "text": "Then there's the **firm sector**, which is KnowledgeCompass itself, and all other businesses, big or small. We produce goods and services, hire factors of production, and sell our output to earn profits."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Precisely. Third is the **government (or state) sector**. They frame laws, enforce justice, and crucially, undertake production of public goods – think schools, healthcare, defense. They also impose taxes and spend on public infrastructure, all influencing the broader economic environment for firms like KnowledgeCompass.\"</p>",
-              "speaker": "Neil",
-              "text": "Precisely. Third is the **government (or state) sector**. They frame laws, enforce justice, and crucially, undertake production of public goods – think schools, healthcare, defense. They also impose taxes and spend on public infrastructure, all influencing the broader economic environment for firms like KnowledgeCompass."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Kanishq:</strong> \"And finally, the **external sector**. That's our international reach! When we sell KnowledgeCompass subscriptions in the USA, those are 'exports'. When we buy specialized server equipment from Germany, those are 'imports'. And if a foreign investor puts money into KnowledgeCompass, that's a capital flow. All these interlinkages are what make the economy a dynamic whole.\"</p>",
-              "speaker": "Kanishq",
-              "text": "And finally, the **external sector**. That's our international reach! When we sell KnowledgeCompass subscriptions in the USA, those are 'exports'. When we buy specialized server equipment from Germany, those are 'imports'. And if a foreign investor puts money into KnowledgeCompass, that's a capital flow. All these interlinkages are what make the economy a dynamic whole."
-            },
-            {
-              "richHtml": "<p class=\"mb-2\"><strong class=\"text-primary-500\">Neil:</strong> \"Exactly. Understanding these four sectors and how they interact is fundamental to understanding the macroeconomy. It's truly fascinating how it all connects, from our garage startup days to these complex national and global economic systems.\"</p>",
-              "speaker": "Neil",
-              "text": "Exactly. Understanding these four sectors and how they interact is fundamental to understanding the macroeconomy. It's truly fascinating how it all connects, from our garage startup days to these complex national and global economic systems."
-            }
-          ],
-          "title": "The Four Sectors of the Economy"
+          "title": "From Garage to Global: KnowledgeCompass's Macroeconomic Journey"
         }
       ],
-      "title": "Introduction to Macroeconomics",
-      "unitName": "Introduction",
+      "title": "Introduction",
+      "unitName": "Introduction to Macroeconomics",
       "unitNumber": 1
     }
-  ]
+  ],
+  "metadata": {
+    "chapterTitle": "Chapter 1 Introduction",
+    "description": "This chapter introduces macroeconomics by differentiating it from microeconomics, discussing its historical emergence with John Maynard Keynes, and outlining the characteristics of a capitalist economy and its four major sectors."
+  }
 }

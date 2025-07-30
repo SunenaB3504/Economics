@@ -19,7 +19,10 @@ async function loadChapter(chapterId) {
         chapter = data.chapters.find(c => c.id === chapterId);
     }
     if (!chapter) return;
-    document.getElementById('chapter-title').textContent = chapter.title;
+    var chapterTitleEl = document.getElementById('chapter-title');
+    if (chapterTitleEl) {
+        chapterTitleEl.textContent = chapter.title;
+    }
     // Story
     const storyDiv = document.getElementById('chapter-story');
     storyDiv.innerHTML = chapter.story.map(s => {

@@ -72,8 +72,11 @@ function openStoryModal(segments) {
 }
 
 function closeStoryModal() {
-    stopStory();
-    document.getElementById('story-modal').style.display = 'none';
+    if (typeof stopStory === 'function') {
+        try { stopStory(); } catch(e) {}
+    }
+    var modal = document.getElementById('story-modal');
+    if (modal) modal.style.display = 'none';
 }
 
 function renderStorySegments(segments) {
@@ -173,11 +176,6 @@ function stopStory() {
     currentSegment = 0;
     highlightSegment(0);
     resetControls();
-    stopStory();
-    isPlaying = false;
-    currentSegment = 0;
-    highlightSegment(0);
-    resetControls();
 }
 
 function resetControls() {
@@ -187,10 +185,14 @@ function resetControls() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('story-close').onclick = closeStoryModal;
-    document.getElementById('story-play').onclick = playStory;
-    document.getElementById('story-pause').onclick = pauseStory;
-    document.getElementById('story-stop').onclick = stopStory;
+    var storyCloseBtn = document.getElementById('story-close');
+    if (storyCloseBtn) storyCloseBtn.onclick = closeStoryModal;
+    var storyPlayBtn = document.getElementById('story-play');
+    if (storyPlayBtn) storyPlayBtn.onclick = playStory;
+    var storyPauseBtn = document.getElementById('story-pause');
+    if (storyPauseBtn) storyPauseBtn.onclick = pauseStory;
+    var storyStopBtn = document.getElementById('story-stop');
+    if (storyStopBtn) storyStopBtn.onclick = stopStory;
     // Wait for voices to be loaded before allowing playback
     if (typeof speechSynthesis !== 'undefined') {
         function setReady() {
