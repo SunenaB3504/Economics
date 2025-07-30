@@ -1,9 +1,9 @@
 <!-- Removed duplicate metadata fetch. All dynamic metadata and content integration is handled in the main script block at the end of <body>. -->
 </body>
 <script>
-// Fetch updated chapter2.json and render all sections
+// Fetch updated chapter3.json and render all sections
 // --- Dynamic Metadata Integration ---
-fetch('chapter2.json')
+fetch('chapter3.json')
   .then(response => response.json())
   .then(data => {
     if (data.metadata) {
@@ -405,24 +405,24 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
         const mainHeading = document.getElementById('mainHeading');
         const unitSubheading = document.getElementById('unitSubheading');
 
-        fetch('chapter2.json')
+        fetch('chapter3.json')
           .then(function(res) {
             if (!res.ok) {
-              showGlobalDebug('ERROR: Failed to fetch chapter2.json. Status: ' + res.status, true);
-              throw new Error('Failed to fetch chapter2.json');
+              showGlobalDebug('ERROR: Failed to fetch chapter3.json. Status: ' + res.status, true);
+              throw new Error('Failed to fetch chapter3.json');
             }
-            showGlobalDebug('chapter2.json fetched successfully.', false);
+            showGlobalDebug('chapter3.json fetched successfully.', false);
             return res.json();
           })
           .then(function(data) {
             if (!data.chapters || !Array.isArray(data.chapters)) {
-              showGlobalDebug('ERROR: chapter2.json does not contain a "chapters" array.', true);
+              showGlobalDebug('ERROR: chapter3.json does not contain a "chapters" array.', true);
               return;
             }
             // Use the first chapter object (chapter2)
             chapterData = data.chapters[0];
             if (!chapterData) {
-              showGlobalDebug('ERROR: No chapter data found in chapter2.json.', true);
+              showGlobalDebug('ERROR: No chapter data found in chapter3.json.', true);
               return;
             }
             // Set subheading dynamically
@@ -1366,7 +1366,7 @@ function checkAnswers(type) {
             let foundChapter = '';
             if (window.chapterData && window.chapterData.id) {
                 // Use already loaded chapterData and fetch full content.json if needed
-        fetch('chapter2.json')
+        fetch('chapter3.json')
                     .then(res => res.json())
                     .then(data => {
                         if (!data.chapters || !Array.isArray(data.chapters)) {
