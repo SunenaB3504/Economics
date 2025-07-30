@@ -1,0 +1,753 @@
+{
+  "chapters": [
+    {
+      "caseStudy": [
+        {
+          "questions": [
+            {
+              "answer": "The New Economic Policy of 1991 was founded on liberalisation, privatisation, and globalisation. For KnowledgeCompass, liberalisation, particularly the deregulation of the industrial sector and financial sector reforms, was crucial as it reduced governmental restrictions, made it easier to start and expand a private firm, and increased access to finance. Globalisation, through the emphasis on opening up the economy, facilitated access to foreign technology and investment, while also creating opportunities for outsourcing services, which an EdTech company could leverage.",
+              "marks": 6,
+              "question": "Identify the key principles of the 1991 New Economic Policy that likely facilitated KnowledgeCompass's expansion.",
+              "type": "identify",
+              "wordLimit": 150
+            },
+            {
+              "answer": "Globalisation led to the integration of the Indian economy with the world economy, making it a hub for outsourcing. For KnowledgeCompass, this meant they could leverage India's low wage rates and availability of skilled manpower (especially in IT and education) to provide cost-effective content creation, software development, and customer support services. By outsourcing non-core functions or even core content development to India, KnowledgeCompass could significantly reduce operational costs while maintaining quality, allowing them to offer competitive pricing globally and scale rapidly.",
+              "marks": 6,
+              "question": "Explain how the process of globalisation, particularly outsourcing, could have contributed to KnowledgeCompass's ability to offer cost-effective and high-quality educational content globally.",
+              "type": "explain",
+              "wordLimit": 150
+            },
+            {
+              "answer": "Stabilisation measures are short-term policies aimed at correcting balance of payments weaknesses and controlling inflation, such as rupee devaluation. Structural reform measures are long-term policies designed to improve economic efficiency and international competitiveness by removing rigidities, like deregulation and privatisation. For KnowledgeCompass, a private enterprise, structural reform measures were far more beneficial. Deregulation meant reduced barriers to entry and growth, and financial sector reforms provided greater access to capital and allowed for diversified investment. While a stable macroeconomic environment (from stabilisation measures) is important, the fundamental changes brought about by structural reforms directly enabled the growth of private businesses by creating a more competitive and open operational landscape.",
+              "marks": 8,
+              "question": "Differentiate between stabilization measures and structural reform measures in the context of the 1991 reforms, and explain which type was more beneficial for an emerging private enterprise like KnowledgeCompass.",
+              "type": "differentiate",
+              "wordLimit": 200
+            },
+            {
+              "answer": "With liberalisation came increased international competition. KnowledgeCompass might have faced challenges from well-established global EdTech companies entering the Indian market or from domestic competitors leveraging foreign investment and technology. This could lead to intense price wars, pressure to constantly innovate, and the need to acquire advanced technology or talent to stay competitive. They would have had to invest heavily in marketing, product development, and customer acquisition strategies to carve out their niche and defend their market share against larger, more experienced players, potentially straining their initial resources.",
+              "marks": 6,
+              "question": "Discuss the potential challenges KnowledgeCompass might have faced from increased international competition due to liberalisation.",
+              "type": "other",
+              "wordLimit": 150
+            }
+          ],
+          "scenario": "KnowledgeCompass, founded by Neil and Kanishq, began as a small EdTech startup operating from a garage. Their vision was to provide accessible and high-quality educational content. Their journey coincided with India's significant economic reforms initiated in 1991, which transformed the country's economic landscape. Over the decades, KnowledgeCompass expanded, leveraging new opportunities and navigating challenges posed by a globalising economy, eventually growing into a prominent corporation in the EdTech sector. Their success is often cited as an example of private sector growth in the post-reform era.",
+          "title": "KnowledgeCompass's Growth Amidst Economic Reforms"
+        }
+      ],
+      "exercises": {
+        "mcq": [
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The primary reason for introducing economic reforms in India in 1991 was a severe balance of payments crisis, where the government could not make repayments on external debt and foreign exchange reserves were critically low.",
+            "options": [
+              "To improve agricultural productivity",
+              "Due to a severe balance of payments crisis",
+              "To reduce unemployment rates",
+              "To increase government revenue through higher taxes"
+            ],
+            "question": "What was the immediate cause for India to introduce a new set of economic policy measures in 1991?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "The International Bank for Reconstruction and Development (IBRD) is popularly known as the World Bank.",
+            "options": [
+              "World Bank",
+              "Asian Development Bank",
+              "International Monetary Fund",
+              "Reserve Bank of India"
+            ],
+            "question": "The International Bank for Reconstruction and Development (IBRD) is popularly known as:"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Stabilisation measures are short-term, focusing on correcting balance of payments and controlling inflation. Structural reforms are long-term, aiming to improve efficiency and international competitiveness.",
+            "options": [
+              "Structural reforms are short-term, and stabilisation measures are long-term.",
+              "Both are long-term measures.",
+              "Stabilisation measures are short-term, while structural reform measures are long-term.",
+              "Stabilisation measures focus on industrial growth, while structural reforms focus on agriculture."
+            ],
+            "question": "What is the key difference between stabilisation measures and structural reform measures introduced in the NEP?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Industrial licensing was largely abolished, except for certain product categories like alcohol, cigarettes, hazardous chemicals, and drugs & pharmaceuticals.",
+            "options": [
+              "It was abolished for all industries.",
+              "It was made mandatory for all new firms.",
+              "It was abolished only for public sector enterprises.",
+              "It was abolished for almost all product categories except a few."
+            ],
+            "question": "Which of the following statements is true regarding industrial licensing post-1991 reforms?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "A major aim of financial sector reforms was to reduce the RBI's role from a direct regulator to a facilitator, allowing financial institutions more autonomy.",
+            "options": [
+              "To increase the RBI's direct control over commercial banks.",
+              "To reduce the role of RBI from regulator to facilitator of the financial sector.",
+              "To nationalise all private sector banks.",
+              "To restrict foreign investment in Indian financial markets."
+            ],
+            "question": "What was a major aim of financial sector reforms in India?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Since 1991, there has been a continuous reduction in individual income taxes, based on the belief that moderate rates encourage compliance.",
+            "options": [
+              "Continuous reduction in individual income taxes.",
+              "Continuous increase in individual income taxes.",
+              "Introduction of new direct taxes.",
+              "Abolition of all direct taxes."
+            ],
+            "question": "What has been the trend regarding direct taxes on individual incomes since 1991?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "GST was introduced in 2016 (though implemented in 2017) to create 'one nation, one tax and one market' for goods and commodities, aiming to reform indirect taxes.",
+            "options": [
+              "To abolish direct taxes.",
+              "To increase import duties.",
+              "To establish a common national market for goods and commodities.",
+              "To reduce public expenditure on social sectors."
+            ],
+            "question": "The Goods and Services Tax (GST) was introduced primarily for what purpose related to tax reforms?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Devaluation of the rupee in 1991 was an immediate measure to resolve the balance of payments crisis by making exports cheaper and imports more expensive, thereby increasing foreign exchange inflow.",
+            "options": [
+              "Devaluation of the rupee against foreign currencies.",
+              "Appreciation of the rupee against foreign currencies.",
+              "Fixed exchange rates determined by the government.",
+              "Introduction of a new currency."
+            ],
+            "question": "What was the first important reform made in the foreign exchange market in 1991?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "The aim of trade policy reforms was to increase international competitiveness, promote efficiency of local industries, and adopt modern technologies, which involved dismantling restrictions and reducing tariffs.",
+            "options": [
+              "To protect domestic industries by increasing tariffs.",
+              "To promote import substitution.",
+              "To reduce foreign investments.",
+              "To increase international competitiveness of industrial production and foreign investments."
+            ],
+            "question": "What was the primary aim of trade and investment policy reforms?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Privatisation implies shedding the ownership or management of government-owned enterprises, either by withdrawal or outright sale.",
+            "options": [
+              "Integration of the economy with the world economy.",
+              "Shedding of the ownership or management of government-owned enterprises.",
+              "Relaxation of rules and laws regulating economic activities.",
+              "Increase in foreign exchange reserves."
+            ],
+            "question": "What does privatisation imply?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Disinvestment is the privatisation of public sector enterprises by selling off part of their equity to the public.",
+            "options": [
+              "Selling off part of the equity of PSEs to the public.",
+              "Increasing government ownership in private companies.",
+              "Nationalising private industries.",
+              "Providing subsidies to public sector enterprises."
+            ],
+            "question": "What is disinvestment?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Globalisation is best understood as the integration of the economy of the country with the world economy, involving greater interdependence.",
+            "options": [
+              "The process of reducing government expenditure.",
+              "The process of selling public sector enterprises.",
+              "Integration of the economy of the country with the world economy.",
+              "Regulation of industrial licensing."
+            ],
+            "question": "What is the general understanding of globalisation?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Outsourcing has intensified due to the growth of fast modes of communication, particularly Information Technology (IT), which allows for real-time transmission of data.",
+            "options": [
+              "Increase in agricultural production.",
+              "Decrease in global trade.",
+              "Reduction in skilled manpower in developed countries.",
+              "Growth of fast modes of communication, especially IT."
+            ],
+            "question": "What has intensified the process of outsourcing in recent times?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The WTO was founded in 1995 as the successor organisation to the General Agreement on Trade and Tariff (GATT).",
+            "options": [
+              "General Agreement on Tariffs and Trade (GATT)",
+              "General Agreement on Trade and Tariff (GATT)",
+              "World Trade Agreement (WTA)",
+              "International Trade Organisation (ITO)"
+            ],
+            "question": "The World Trade Organisation (WTO) was founded as the successor organisation to which agreement?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "During the reform period, GDP growth rate has increased. However, agriculture growth has declined, industrial growth fluctuated, and service sector growth has gone up, driving overall GDP growth.",
+            "options": [
+              "GDP growth rate has increased, driven mainly by the service sector.",
+              "GDP growth rate has declined significantly.",
+              "Agriculture sector has shown the highest growth rate.",
+              "Industrial sector has been the main driver of GDP growth."
+            ],
+            "question": "How has the Indian economy performed in terms of GDP growth during the reform period?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Scholars argue that reform-led growth has not generated sufficient employment opportunities, leading to the criticism of 'jobless growth'.",
+            "options": [
+              "Increased employment opportunities rapidly.",
+              "Had no impact on employment.",
+              "Not generated sufficient employment opportunities.",
+              "Led to a shift of employment from services to agriculture."
+            ],
+            "question": "What is a major criticism regarding the impact of reforms on employment?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Public investment in agriculture, especially in infrastructure like irrigation and power, has fallen since 1991, contributing to its decelerating growth.",
+            "options": [
+              "Increased public investment in agriculture.",
+              "Led to higher agricultural subsidies.",
+              "Shifted production towards food grains for domestic market.",
+              "Seen a fall in public investment, especially in infrastructure."
+            ],
+            "question": "Which of the following has been an adverse effect of reforms on the agriculture sector?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The industrial sector has performed poorly due to reasons like cheaper imports, which replace demand for domestic goods, and inadequate infrastructure.",
+            "options": [
+              "Increased demand for domestic industrial products.",
+              "Cheaper imports replacing demand for domestic goods.",
+              "Significant increase in infrastructure facilities.",
+              "Shift of production to small-scale industries."
+            ],
+            "question": "What is one reason attributed to the slowdown in industrial growth during the reform period?"
+          }
+        ],
+        "numericalQuestions": [],
+        "oneWord": [
+          {
+            "correctAnswer": "Balance of Payments",
+            "question": "The crisis in 1991 that led to economic reforms was related to which financial aspect?"
+          },
+          {
+            "correctAnswer": "World Bank and IMF",
+            "question": "Which two international financial institutions provided India a loan of $7 billion in 1991?"
+          },
+          {
+            "correctAnswer": "New Economic Policy",
+            "question": "What was the name of the new set of policy measures announced by India in 1991?"
+          },
+          {
+            "correctAnswer": "Short-term",
+            "question": "Are stabilisation measures short-term or long-term measures?"
+          },
+          {
+            "correctAnswer": "Long-term",
+            "question": "Are structural reform policies short-term or long-term measures?"
+          },
+          {
+            "correctAnswer": "RBI",
+            "question": "Which institution regulates the financial sector in India?"
+          },
+          {
+            "correctAnswer": "Tax evasion",
+            "question": "High rates of income tax were felt to be an important reason for what problem?"
+          },
+          {
+            "correctAnswer": "GST",
+            "question": "What tax was introduced in India in 2016 to create 'one nation, one tax and one market'?"
+          },
+          {
+            "correctAnswer": "Devaluation",
+            "question": "What was the immediate measure taken in 1991 in the foreign exchange market to resolve the balance of payments crisis?"
+          },
+          {
+            "correctAnswer": "Disinvestment",
+            "question": "What is the term for privatisation of public sector enterprises by selling off part of their equity to the public?"
+          },
+          {
+            "correctAnswer": "Outsourcing",
+            "question": "What is the process called when a company hires regular service from external sources, mostly from other countries?"
+          },
+          {
+            "correctAnswer": "WTO",
+            "question": "Which international organisation was founded in 1995 as the successor to GATT?"
+          },
+          {
+            "correctAnswer": "Service sector",
+            "question": "During the reform period, which sector has mainly driven India's GDP growth?"
+          },
+          {
+            "correctAnswer": "Quantitative restrictions",
+            "question": "What policy was India following to protect domestic industries, involving tight control over imports?"
+          },
+          {
+            "correctAnswer": "Hazardous chemicals",
+            "question": "Name one product category for which industrial licensing was not abolished after 1991 reforms."
+          }
+        ],
+        "shortAnswer1": [
+          {
+            "answer": "The main reason for India's economic reforms in 1991 was a severe financial crisis. The government was unable to make repayments on its foreign borrowings, and foreign exchange reserves plummeted to levels insufficient for even two weeks of imports. This crisis was compounded by rising prices of essential goods and unsustainable government expenditure that exceeded revenue significantly.",
+            "question": "Briefly explain the main reasons for the introduction of economic reforms in India in 1991."
+          },
+          {
+            "answer": "Stabilisation measures are short-term policies designed to correct macroeconomic imbalances, specifically in the balance of payments and inflation. For instance, devaluing the rupee to increase foreign exchange inflow and taking steps to control rising prices. Structural reform measures, on the other hand, are long-term policies aimed at improving the overall efficiency and international competitiveness of the economy by removing rigidities in various sectors.",
+            "question": "Distinguish between 'stabilisation measures' and 'structural reform measures' within the New Economic Policy."
+          },
+          {
+            "answer": "Deregulation of the industrial sector involved significant changes. Industrial licensing was abolished for most product categories, freeing entrepreneurs from government permission to start or expand firms. Industries previously reserved for the public sector were opened up to the private sector (except for atomic energy and railways), and many goods reserved for small-scale industries were dereserved. Lastly, market forces were allowed to determine prices in most industries.",
+            "question": "What were the major changes introduced under the deregulation of the industrial sector as part of liberalisation?"
+          },
+          {
+            "answer": "Financial sector reforms aimed to change the Reserve Bank of India's (RBI) role from a regulator to a facilitator. This meant allowing the financial sector, including commercial and investment banks, stock exchange operations, and foreign exchange markets, to make more decisions without constant RBI consultation. Private sector banks, both Indian and foreign, were permitted, and foreign investment limits in banks were raised.",
+            "question": "Explain the major objective of financial sector reforms in India and how it was pursued."
+          },
+          {
+            "answer": "Privatisation implies the shedding of ownership or management of government-owned enterprises. This can occur either by the government withdrawing from ownership and management of public sector companies or by outright sale of public sector companies. A key aspect of privatisation is 'disinvestment', which means selling off part of the equity of Public Sector Enterprises (PSEs) to the public.",
+            "question": "What is meant by privatisation, and how is 'disinvestment' related to it?"
+          },
+          {
+            "answer": "Globalisation is the process of integrating a country's economy with the world economy. It involves creating greater interdependence and integration across economic, social, and geographical boundaries. It attempts to link global events, making the world a 'borderless world'. Outsourcing, where companies hire services from external sources (often other countries) that were previously performed internally, is a significant outcome of this process, driven by advancements in Information Technology and communication.",
+            "question": "Define globalisation and how outsourcing is an outcome of this process."
+          }
+        ],
+        "shortAnswer2": [
+          {
+            "answer": "India approached the World Bank (International Bank for Reconstruction and Development) and the International Monetary Fund (IMF) for a loan of $7 billion. These international agencies imposed conditionalities for granting the loan, expecting India to liberalise and open up its economy. This involved removing restrictions on the private sector, reducing the government's role in many areas, and removing trade restrictions with other countries. India agreed to these conditions, leading to the New Economic Policy.",
+            "question": "What were the conditionalities imposed by international agencies for granting a loan to India in 1991?"
+          },
+          {
+            "answer": "Tax reforms focused on both direct and indirect taxes. For direct taxes (income and corporation tax), rates were continuously reduced, as high rates were seen to encourage evasion. Lower rates were believed to encourage savings and voluntary disclosure. For indirect taxes (on commodities), efforts were made to reform them to establish a common national market, culminating in the introduction of GST. Procedures were also simplified to encourage better compliance from taxpayers.",
+            "question": "Describe the key reforms introduced in India's tax system after 1991."
+          },
+          {
+            "answer": "The first major reform was the devaluation of the rupee against foreign currencies in 1991, which immediately increased the inflow of foreign exchange. This set the stage for freeing the determination of the rupee's value from government control. Subsequently, the exchange rates are largely determined by market forces, specifically the demand and supply of foreign exchange, moving away from a fixed regime.",
+            "question": "Explain the major foreign exchange reforms introduced in India and their impact on the rupee's value."
+          },
+          {
+            "answer": "To improve efficiency and competitiveness, the government identified profitable Public Sector Enterprises (PSEs) and designated them as 'Maharatnas', 'Navratnas', and 'Miniratnas'. These companies were granted greater managerial, operational, and financial autonomy. This autonomy allowed them to take quicker decisions, manage their operations more effectively, and compete better in the liberalised global environment, thereby increasing their profits and overall performance.",
+            "question": "How did the 'Navratnas' policy aim to improve the performance of Public Sector Undertakings (PSUs)?"
+          },
+          {
+            "answer": "Outsourcing benefits India by creating significant employment opportunities, especially in IT-enabled services and Business Process Outsourcing (BPO), contributing to economic growth. Developed countries oppose it because it often leads to job losses in their own economies as companies shift operations to countries like India to leverage lower wage rates, causing concerns about domestic employment and economic stability in those developed nations.",
+            "question": "What are the benefits of outsourcing for India, and why are developed countries often opposing it?"
+          },
+          {
+            "answer": "The agriculture sector has been adversely affected by reforms due to several factors. Public investment in agricultural infrastructure (irrigation, power, roads, research) has significantly fallen. The partial removal of fertiliser subsidies increased production costs for farmers. Furthermore, policy changes like reduced import duties on agricultural products, low minimum support prices, and removal of import restrictions have increased international competition for Indian farmers, making them vulnerable to cheaper imports and shifting focus from food grains to cash crops for export.",
+            "question": "Explain why the agriculture sector appears to have been adversely affected by the reform process."
+          }
+        ],
+        "trueFalse": [
+          {
+            "correctAnswer": true,
+            "explanation": "India's foreign exchange reserves had dropped to levels that were not sufficient for even a fortnight of imports in 1991, indicating a severe crisis.",
+            "question": "In 1991, India's foreign exchange reserves were sufficient for less than two weeks of imports."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The thrust of the New Economic Policy was indeed towards creating a more competitive environment and removing barriers to entry and growth of firms.",
+            "question": "The New Economic Policy aimed at creating a more competitive environment in the economy."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "After reforms, industrial licensing was largely abolished, not made mandatory for all industries. It was retained only for a few specific categories like alcohol and hazardous chemicals.",
+            "question": "Post-1991, industrial licensing was made mandatory for all new firms."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The reform policies led to the establishment of both Indian and foreign private sector banks, increasing competition and diversity in the financial sector.",
+            "question": "The financial sector reforms allowed the establishment of private sector banks in India."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Since 1991, the rate of corporation tax, which was very high, has been gradually reduced to encourage investment and discourage tax evasion.",
+            "question": "The rate of corporation tax has been gradually reduced since 1991."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The rupee was devalued in 1991 to increase the inflow of foreign exchange, making exports cheaper and imports more expensive, thereby improving the balance of payments.",
+            "question": "The rupee was appreciated against foreign currencies in 1991 to resolve the balance of payments crisis."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The government's stated purpose of disinvestment was to improve financial discipline and facilitate modernisation, as well as utilise private capital and managerial capabilities, not solely to sell public property to vested interests.",
+            "question": "The primary purpose of disinvestment, according to critics, was to improve financial discipline."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Outsourcing is indeed one of the important outcomes of the globalisation process, facilitating companies to hire services from other countries.",
+            "question": "Outsourcing is an important outcome of the globalisation process."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The WTO was founded in 1995 as the successor to GATT, which was established in 1948, not 1995.",
+            "question": "The World Trade Organisation (WTO) was founded in 1995 as the successor to GATT, which was also established in 1995."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "During the reform period, the growth of the agriculture sector has declined, and its contribution to GDP growth has decelerated.",
+            "question": "During the reform period, the agriculture sector has shown a continuous high growth rate."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The service sector has indeed been the main driver of GDP growth in India during the post-reform period, showing consistent high growth rates.",
+            "question": "GDP growth in India during the reform period is mainly driven by the growth in the service sector."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Critics argue that the proceeds from disinvestment are often used to offset government revenue shortages rather than being invested back into PSEs or social infrastructure.",
+            "question": "Critics of disinvestment argue that proceeds are often used to offset government revenue shortages."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The reform policies, including tariff reductions and tax incentives for foreign investors, have curtailed the scope for raising tax revenues, negatively impacting developmental and welfare expenditures.",
+            "question": "Economic reforms have led to a significant increase in tax revenue for the government."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The industrial sector's slowdown is partly attributed to cheaper imports that replace demand for domestic goods, making local manufacturers face intense competition.",
+            "question": "Cheaper imports have contributed to the slowdown in India's industrial growth during the reform period."
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "back": "A set of wide-ranging economic reforms introduced in India in 1991, in response to a severe financial crisis, aiming to liberalise, privatise, and globalise the economy.",
+          "front": "New Economic Policy (NEP)"
+        },
+        {
+          "back": "Short-term measures intended to correct weaknesses in the balance of payments and bring inflation under control, e.g., devaluing the rupee.",
+          "front": "Stabilisation Measures"
+        },
+        {
+          "back": "Long-term measures aimed at improving the efficiency of the economy and increasing its international competitiveness by removing rigidities in various segments, e.g., deregulation.",
+          "front": "Structural Reform Measures"
+        },
+        {
+          "back": "The process of putting an end to restrictions and opening various sectors of the economy, aiming to foster growth and development.",
+          "front": "Liberalisation"
+        },
+        {
+          "back": "The removal of regulatory mechanisms like industrial licensing, allowing private sector participation in more industries, and market determination of prices.",
+          "front": "Deregulation of Industrial Sector"
+        },
+        {
+          "back": "Reforms aimed at reducing the Reserve Bank of India's (RBI) role from a regulator to a facilitator, allowing private and foreign banks, and greater autonomy to financial institutions.",
+          "front": "Financial Sector Reforms"
+        },
+        {
+          "back": "Reforms concerned with the government’s taxation and public expenditure policies, including reducing direct and indirect taxes and simplifying procedures (e.g., GST).",
+          "front": "Tax Reforms"
+        },
+        {
+          "back": "Reforms in the external sector, starting with the devaluation of the rupee in 1991, followed by market determination of exchange rates based on demand and supply.",
+          "front": "Foreign Exchange Reforms"
+        },
+        {
+          "back": "A reduction in the value of a country's currency relative to foreign currencies, making exports cheaper and imports more expensive.",
+          "front": "Devaluation"
+        },
+        {
+          "back": "It implies shedding the ownership or management of a government-owned enterprise, converting government companies into private companies.",
+          "front": "Privatisation"
+        },
+        {
+          "back": "Privatisation of public sector enterprises (PSEs) by selling off part of their equity to the public, aimed at improving financial discipline and facilitating modernisation.",
+          "front": "Disinvestment"
+        },
+        {
+          "back": "The integration of the economy of a country with the world economy, creating greater interdependence and a 'borderless world'.",
+          "front": "Globalisation"
+        },
+        {
+          "back": "A company hiring regular services from external sources, mostly from other countries, which were previously provided internally or within the country, driven by cost-effectiveness and skilled labor.",
+          "front": "Outsourcing"
+        },
+        {
+          "back": "Founded in 1995 as the successor to GATT, its objective is to establish a rule-based trading regime, enlarge production and trade of services, ensure optimum utilisation of world resources, and protect the environment.",
+          "front": "World Trade Organisation (WTO)"
+        },
+        {
+          "back": "Government's taxation and public expenditure policies.",
+          "front": "Fiscal Policy"
+        },
+        {
+          "back": "Entities like merchant bankers, mutual funds, and pension funds, which are now allowed to invest in Indian financial markets.",
+          "front": "Foreign Institutional Investors (FII)"
+        },
+        {
+          "back": "A situation where a country's payments to other countries exceed its receipts from them, leading to a severe depletion of foreign exchange reserves.",
+          "front": "Balance of Payments Crisis"
+        },
+        {
+          "back": "Profit-making Public Sector Enterprises (PSEs) granted greater managerial and operational autonomy by the government to improve efficiency and compete globally.",
+          "front": "Maharatnas/Navratnas/Miniratnas"
+        }
+      ],
+      "id": "chapter3",
+      "longAnswerQuestions": [
+        {
+          "answer150Words": "In 1991, India faced an acute economic crisis marked by a severe balance of payments deficit and critically low foreign exchange reserves, barely enough for two weeks' imports. The government was unable to service its external debt. This crisis stemmed from inefficient management in the 1980s, characterized by excessive government expenditure on development programs and social sectors without corresponding revenue generation, leading to large fiscal deficits financed by borrowing. Income from public sector undertakings was insufficient, and foreign exchange borrowed was often spent on consumption needs. Exports did not grow sufficiently to match rising imports, further depleting reserves. The rising prices of essential goods compounded the crisis, compelling India to seek assistance from the World Bank and IMF, which imposed conditionalities for economic reforms.",
+          "answer200Words": "The 1991 economic crisis in India was multi-faceted, rooted in inefficient economic management during the 1980s. A primary cause was the unsustainable fiscal deficit: government expenditure consistently outstripped revenue, leading to heavy domestic and international borrowing. Funds were disproportionately spent on social sectors and defense, which yielded no immediate returns, while revenue generation from taxation and public sector enterprises remained low. Crucially, foreign exchange reserves dwindled alarmingly, falling to levels that couldn't cover even two weeks of imports. This external debt crisis was exacerbated by a widening trade deficit—imports surged without matching export growth. Compounding these issues were rampant inflation and rising prices of essential goods, putting immense pressure on the populace. The inability to service foreign debt and the lack of foreign exchange forced India to approach international bodies like the World Bank and IMF, who mandated wide-ranging economic reforms as a condition for financial assistance, thereby changing the trajectory of India's developmental strategy.",
+          "answer50To75Words": "India faced a severe economic crisis in 1991, primarily due to an unsustainable balance of payments deficit. Foreign exchange reserves plummeted, barely covering two weeks of imports, and the government struggled to repay foreign debt. This was caused by years of excessive government spending without adequate revenue generation, coupled with low export growth and rising import bills. High inflation further compounded the crisis, necessitating reforms dictated by international lenders like the World Bank and IMF.",
+          "text": "Discuss the background and key causes of the 1991 economic crisis in India that led to the introduction of the New Economic Policy.",
+          "title": "Background of 1991 Economic Crisis"
+        },
+        {
+          "answer150Words": "Liberalisation in India, introduced in 1991, involved significant reforms across various sectors to reduce government restrictions and open up the economy. In the industrial sector, licensing was largely abolished (except for a few specific categories), public sector reservations were reduced, and market forces were allowed to determine prices. Financial sector reforms aimed to shift RBI's role from a regulator to a facilitator, allowing the entry of private and foreign banks and increasing foreign investment limits. Tax reforms included continuous reduction in individual and corporate income taxes, simplification of procedures, and later, the introduction of GST to create a common national market. Foreign exchange reforms devalued the rupee and moved towards market-determined exchange rates. Trade and investment policy reforms dismantled quantitative import/export restrictions and reduced tariffs to enhance international competitiveness.",
+          "answer200Words": "Liberalisation, a cornerstone of India's 1991 New Economic Policy, aimed to reduce the extensive web of rules and laws that had hindered economic growth. This policy involved comprehensive reforms across multiple sectors. Firstly, the industrial sector saw a sweeping deregulation: industrial licensing was largely abolished for most products, and many industries previously reserved for the public sector were opened to private players. Market forces gained a greater role in price determination. Secondly, financial sector reforms redefined the Reserve Bank of India's (RBI) role from a strict regulator to a facilitator, encouraging the entry of private and foreign banks and allowing Foreign Institutional Investors (FIIs) to invest in Indian markets. Thirdly, tax reforms focused on reducing direct taxes (income and corporation tax) to curb evasion and simplify procedures, alongside indirect tax reforms leading to GST, fostering a 'one nation, one tax, one market' concept. Fourthly, foreign exchange reforms initiated with the rupee's devaluation in 1991, shifting towards a market-determined exchange rate regime. Lastly, trade and investment policy reforms aimed to boost international competitiveness by dismantling quantitative restrictions on imports and exports, reducing tariff rates, and simplifying import licensing procedures. These measures collectively aimed to create a more open, competitive, and efficient economic environment.",
+          "answer50To75Words": "Liberalisation in India involved significant deregulation across sectors. Industrial licensing was largely abolished, financial markets were opened to private and foreign entities, and tax rates were reduced with simplification of procedures. Foreign exchange reforms saw rupee devaluation and market-determined rates. Trade policies removed quantitative restrictions and reduced tariffs, fostering greater competition and integration with the global economy.",
+          "text": "Explain the main components of liberalisation as introduced in 1991, detailing its impact on different sectors of the Indian economy.",
+          "title": "Components and Impact of Liberalisation"
+        },
+        {
+          "answer150Words": "Privatisation implies shedding government ownership or management of public sector enterprises (PSEs), converting them into private companies. It was adopted as a reform measure to improve financial discipline, facilitate modernisation, and leverage private capital and managerial capabilities to enhance PSU performance. Disinvestment is a key method of privatisation, where the government sells off a part of the equity of PSEs to the public. This mobilises revenue, but critics argue it often undervalues assets and diverts funds from development. The 'Navratnas' policy, however, aimed to retain profitable PSEs in the public sector but grant them greater managerial and operational autonomy to enable them to compete globally and raise resources independently, rather than privatising them outright, thus fostering efficiency within the public domain.",
+          "answer200Words": "Privatisation signifies the transfer of ownership or management from government-owned enterprises to the private sector. This reform was adopted primarily to enhance the efficiency and competitiveness of Public Sector Undertakings (PSUs). It was believed that private capital and professional management could improve performance, infuse financial discipline, and facilitate modernisation, which was lacking in many state-run entities. Disinvestment is a direct method of privatisation, involving the sale of a portion of the PSE's equity to the public. While the government aimed to improve financial health and modernise through disinvestment, critics often pointed to the undervaluation of public assets and the use of disinvestment proceeds to bridge revenue deficits rather than for PSU development or social infrastructure. In contrast, the 'Navratnas' policy introduced an alternative approach for profitable PSEs like Indian Oil and SAIL. Instead of outright privatisation, these enterprises were granted significant managerial, operational, and financial autonomy. This autonomy allowed them to make quicker decisions, expand globally, and raise their own resources, empowering them to compete effectively in the liberalised market while remaining under public ownership, thereby fostering efficiency and competitiveness without complete divestment.",
+          "answer50To75Words": "Privatisation involves transferring government ownership/management of public enterprises to the private sector, aimed at improving efficiency and discipline. Disinvestment, selling PSE equity to the public, is a key tool. While controversial, the 'Navratnas' policy granted autonomy to profitable PSUs, enabling them to expand and compete globally without full privatisation, showcasing a nuanced approach to public sector reform.",
+          "text": "What is privatisation, and why was it adopted as a reform measure? Discuss the concept of disinvestment and the government's 'Navratnas' policy concerning Public Sector Undertakings.",
+          "title": "Privatisation, Disinvestment, and Navratnas"
+        },
+        {
+          "answer150Words": "Globalisation means the integration of the economy of a country with the world economy, leading to greater interdependence and interconnectedness across national boundaries. It transforms the world into a 'borderless world' through enhanced flow of goods, services, capital, technology, and information. Outsourcing has emerged as a significant outcome for India. It involves companies hiring services (like BPO, IT, accounting, clinical advice) from external, often foreign, sources that were previously done internally. India has become a preferred destination due to its low wage rates and availability of skilled manpower. This has created massive employment opportunities, particularly in big cities, and contributed significantly to India's exports and foreign exchange earnings in the post-reform period, driving economic growth and integrating India into global supply chains.",
+          "answer200Words": "Globalisation is a complex phenomenon signifying the increasing interdependence and integration of national economies into the global economy. It involves transcending traditional economic, social, and geographical boundaries through the accelerated flow of goods, services, capital, technology, and people. The objective is to create a 'borderless world' where events in one part can significantly influence others. For India, a notable outcome of globalisation has been the rise of outsourcing. Outsourcing refers to the practice where companies contract out their non-core or even core services, previously performed in-house, to external providers, frequently located in other countries. The growth of fast communication modes, especially Information Technology, has intensified this trend. India has emerged as a major global outsourcing destination due to its competitive advantages: significantly lower wage rates compared to developed nations, coupled with the availability of a large pool of skilled English-speaking manpower, particularly in IT and IT-enabled services. This has led to the flourishing of sectors like call centers (BPOs), record-keeping, accounting, and software development, generating millions of jobs, boosting foreign exchange reserves, and establishing India as a key player in the global services market.",
+          "answer50To75Words": "Globalisation is the integration of a country's economy with the world economy, creating greater interdependence. Outsourcing is a major outcome for India, where companies hire services from external, often foreign, sources. India has become a favored outsourcing destination due to low wage rates and skilled manpower, generating substantial employment and contributing to foreign exchange earnings in the post-reform era.",
+          "text": "Define globalisation and explain how outsourcing has emerged as a significant outcome for India in the post-reform period.",
+          "title": "Globalisation and Outsourcing's Impact on India"
+        },
+        {
+          "answer150Words": "While economic reforms led to a rapid increase in India's GDP growth (driven by the service sector) and foreign exchange reserves, their impact on employment, agriculture, and industry has been largely criticised. Growth has been 'jobless' with insufficient employment generation. Agriculture experienced decelerating growth due to reduced public investment in infrastructure, increased costs from fertiliser subsidy removal, and adverse impacts of international competition. Industrial growth also slowed due to cheaper imports replacing domestic demand and inadequate infrastructure investment. Critics highlight that the benefits were concentrated in high-income groups and select service sectors, exacerbating income disparities and overlooking vital sectors providing livelihood to millions.",
+          "answer200Words": "The economic reforms initiated in 1991 have yielded mixed results for the Indian economy. On the positive side, India witnessed a rapid and sustained increase in GDP growth for two decades, primarily driven by the robust expansion of the service sector. Foreign direct investment (FDI) and foreign institutional investment (FII) surged, leading to a substantial increase in foreign exchange reserves, making India one of the largest reserve holders globally. India also emerged as a successful exporter of various goods and IT software. However, the reforms have been widely criticised for failing to address fundamental problems. Growth has been 'jobless,' not generating sufficient employment opportunities. The agriculture sector experienced decelerating growth due to a decline in public investment, increased production costs from subsidy removal, and fierce international competition. Industrial growth also slowed down, primarily attributed to cheaper imports displacing domestic demand and persistent infrastructure deficiencies. Furthermore, critics argue that the reform benefits were unevenly distributed, primarily benefiting high-income groups and concentrating growth in select service sectors (telecommunication, IT, finance), while vital sectors like agriculture and core industry, which provide livelihoods to millions, remained neglected or adversely affected, thereby widening economic disparities.",
+          "answer50To75Words": "Economic reforms boosted GDP growth, especially in services, and increased foreign exchange reserves. However, criticism points to 'jobless growth' and adverse impacts on agriculture (declining public investment, higher costs, global competition) and industry (cheaper imports, inadequate infrastructure). Benefits were concentrated, widening disparities and neglecting vital employment sectors.",
+          "text": "Critically appraise the impact of economic reforms on the Indian economy, particularly focusing on growth, employment, agriculture, and industry.",
+          "title": "Appraisal of Economic Reforms: Growth, Employment, and Sectors"
+        },
+        {
+          "answer150Words": "The World Trade Organisation (WTO), established in 1995 as successor to GATT, aims to facilitate international trade by establishing a rule-based trading regime. Its objectives include providing equal opportunities to all countries in the international market, enlarging production and trade of goods and services, ensuring optimum utilisation of world resources, and protecting the environment. The WTO achieves this by working towards the removal of tariff and non-tariff barriers and providing greater market access to all member countries. As an important member, India has actively participated in framing fair global rules, advocating for developing countries' interests, and fulfilling its commitments towards trade liberalisation, such as removing quantitative restrictions on imports and reducing tariff rates, thereby promoting global trade flows.",
+          "answer200Words": "The World Trade Organisation (WTO), founded in 1995 as the successor to the General Agreement on Trade and Tariff (GATT), plays a crucial role in facilitating international trade. Its primary objective is to establish a rule-based multilateral trading system where nations cannot impose arbitrary restrictions on trade, thereby ensuring predictability and fairness. The WTO aims to enlarge the production and trade of goods and services globally, promote optimal utilisation of the world's resources, and contribute to sustainable development and environmental protection. It facilitates international trade by negotiating agreements that cover various aspects of trade, including both goods and services, leading to the removal of both tariff (taxes on imports/exports) and non-tariff barriers (like quotas) and ensuring greater market access for all member countries. India has been an active and significant member of the WTO, often leading efforts to frame fair global trade rules and advocating for the interests of developing nations. India has also upheld its commitments made within the WTO framework, such as progressively removing quantitative restrictions on imports and reducing its tariff rates, thereby contributing to the liberalisation of its own economy and supporting the global trading system.",
+          "answer50To75Words": "The WTO facilitates world trade by establishing a rule-based trading regime, ensuring equal opportunities, and removing tariff and non-tariff barriers. It aims for optimal resource utilization and enlarged global trade. India, as a member, actively frames fair rules and has liberalised its trade by removing quantitative restrictions and reducing tariffs.",
+          "text": "How did the World Trade Organisation (WTO) facilitate international trade, and what role has India played as a member?",
+          "title": "WTO's Role in Global Trade and India's Position"
+        },
+        {
+          "answer150Words": "The 1991 economic reforms have faced significant criticism regarding their impact on social justice and welfare. Critics argue that the crisis itself was partly due to deep-rooted inequalities, and the reforms, influenced by external advisors, further aggravated these disparities. The growth observed has been primarily concentrated in specific service sectors like telecommunication, IT, finance, and hospitality, benefiting mainly high-income groups, leading to increased income and consumption inequality. Crucial sectors like agriculture and core industry, which provide livelihoods to millions, have been neglected or adversely affected. Furthermore, tax reductions, aimed at stimulating the economy, haven't significantly increased tax revenues, and limits on public expenditure have negatively impacted social sector development and welfare programs, raising concerns about the state's ability to address poverty and inequality effectively.",
+          "answer200Words": "The 1991 economic reforms in India, while boosting overall GDP growth, have drawn significant criticism concerning their implications for social justice and welfare. Scholars argue that the reforms, influenced by externally advised policy packages, potentially exacerbated pre-existing deep-rooted inequalities in Indian society. The growth witnessed has been largely concentrated in high-growth, high-skill service sectors such as telecommunication, information technology, finance, entertainment, and real estate. This has disproportionately benefited high-income groups, leading to a widening of economic disparities among nations and within the country, as income and quality of consumption improved predominantly for this segment. In contrast, vital sectors like agriculture and traditional industries, which employ a vast majority of the population and are crucial for inclusive development, have either seen decelerating growth or faced adverse competition, impacting livelihoods. Furthermore, the reforms, including tax reductions and tariff liberalisation, have curtailed the government's ability to raise revenue, placing limits on public expenditure in critical social sectors like education and health. This reduced public investment in welfare programs raises concerns about the state's capacity to address poverty, unemployment, and ensure broad-based social justice, suggesting that market-driven globalisation may compromise the welfare and identity of the poor.",
+          "answer50To75Words": "Critics argue that the 1991 reforms exacerbated social inequalities, concentrating benefits in specific service sectors and for high-income groups, while neglecting agriculture and industry. Tax reductions and expenditure limits negatively impacted welfare programs. This led to concerns that market-driven globalisation compromised the welfare and identity of the poor, widening economic disparities rather than promoting social justice.",
+          "text": "Discuss economic reforms in India in the light of social justice and welfare, critically analysing the criticisms leveled against them.",
+          "title": "Economic Reforms, Social Justice, and Welfare"
+        }
+      ],
+      "mindmap": [
+        {
+          "definition": "A significant shift in India's economic policies initiated in 1991, comprising liberalisation, privatisation, and globalisation, aimed at moving from a controlled economy to a more market-oriented one.",
+          "explanation": "India adopted a new set of economic policies in 1991 in response to a severe balance of payments crisis and mounting fiscal deficits. These reforms fundamentally changed the direction of India's development strategies by opening up the economy, reducing the role of the state, and integrating with the global market.",
+          "keyPoints": [
+            "Triggered by 1991 balance of payments crisis and IMF conditionalities.",
+            "Comprises Liberalisation, Privatisation, and Globalisation (LPG).",
+            "Aims to create a more competitive environment and remove barriers to growth.",
+            "Includes stabilisation (short-term) and structural reform (long-term) measures.",
+            "Impacted industrial, financial, agricultural, and trade sectors.",
+            "Led to significant GDP growth but also faced criticisms regarding employment and inequality."
+          ],
+          "title": "Economic Reforms of 1991",
+          "points": [
+            {
+              "explanation": "In the late 1980s, India faced an economic crisis due to inefficient management, unsustainable government expenditure exceeding revenue, low income from public sector undertakings, and foreign exchange reserves depleting rapidly, insufficient for even two weeks of imports. Rising prices of essential goods compounded the problem, leading India to approach the World Bank and IMF for a loan.",
+              "title": "Background to the Crisis"
+            },
+            {
+              "explanation": "The New Economic Policy (NEP), introduced in 1991, comprised wide-ranging reforms agreed upon with the World Bank and IMF. It aimed to create a more competitive environment and remove barriers to firm entry and growth. Policies were classified into short-term stabilisation measures and long-term structural reform measures.",
+              "title": "New Economic Policy (NEP)"
+            },
+            {
+              "explanation": "Liberalisation refers to the removal of government restrictions and opening various sectors of the economy that were previously heavily regulated. It aimed to dismantle the complex set of rules and laws that hindered growth and development.",
+              "title": "Liberalisation"
+            },
+            {
+              "explanation": "Privatisation implies shedding the ownership or management of government-owned enterprises. This was achieved either by outright sale of public sector companies or by withdrawal of government from ownership and management. The purpose was to improve financial discipline and facilitate modernisation.",
+              "title": "Privatisation"
+            },
+            {
+              "explanation": "Globalisation means the integration of the economy of the country with the world economy. It is an outcome of policies aimed at transforming the world towards greater interdependence and integration, creating a 'borderless world' through interconnectedness.",
+              "title": "Globalisation"
+            },
+            {
+              "explanation": "The reform process has led to rapid GDP growth, primarily driven by the service sector. However, it has been criticised for not generating sufficient employment (jobless growth), negatively impacting agriculture due to reduced public investment and increased competition, and slowing industrial growth due to cheaper imports and inadequate infrastructure. Disinvestment proceeds were often used to cover revenue deficits, and tax reforms impacted social sector spending.",
+              "title": "Appraisal of Reforms (Impact and Criticisms)"
+            }
+          ]
+        },
+        {
+          "definition": "The removal or reduction of governmental restrictions on economic activity, especially in industrial licensing, financial markets, and trade.",
+          "explanation": "Liberalisation policies aimed to dismantle regulatory mechanisms that created hindrances to growth. This included reducing the need for government permits, opening up sectors previously reserved for the public sector, and allowing market forces to determine prices.",
+          "keyPoints": [
+            "Deregulation of Industrial Sector",
+            "Financial Sector Reforms",
+            "Tax Reforms",
+            "Foreign Exchange Reforms",
+            "Trade and Investment Policy Reforms"
+          ],
+          "title": "Key Areas of Liberalisation",
+          "points": [
+            {
+              "explanation": "Industrial licensing was largely abolished (except for a few hazardous/strategic categories), private sector was allowed in most industries, goods reserved for small-scale industries were dereserved, and market forces gained control over price fixation and distribution.",
+              "title": "Deregulation of Industrial Sector"
+            },
+            {
+              "explanation": "Aimed to change RBI's role from regulator to facilitator, allowing private and foreign banks, raising foreign investment limits in banks, and permitting Foreign Institutional Investors (FIIs) to invest in Indian financial markets.",
+              "title": "Financial Sector Reforms"
+            },
+            {
+              "explanation": "Involved reducing direct taxes (income and corporation tax) to encourage savings and compliance, reforming indirect taxes (like GST) to create a common national market, and simplifying tax procedures.",
+              "title": "Tax Reforms"
+            },
+            {
+              "explanation": "The rupee was devalued in 1991 to boost foreign exchange inflow, and the determination of exchange rates was freed from government control, allowing market demand and supply to largely determine its value.",
+              "title": "Foreign Exchange Reforms"
+            },
+            {
+              "explanation": "Aimed to increase international competitiveness, promote local industry efficiency, and attract foreign investment/technology by dismantling quantitative restrictions on imports/exports, reducing tariff rates, and removing import licensing procedures.",
+              "title": "Trade and Investment Policy Reforms"
+            }
+          ]
+        },
+        {
+          "definition": "The process of shedding government ownership or management of public sector enterprises (PSEs), either through outright sale or by selling part of their equity.",
+          "explanation": "Privatisation was introduced to improve the efficiency and financial discipline of public sector undertakings (PSUs), which were often loss-making or inefficient. It also sought to leverage private capital and managerial capabilities.",
+          "keyPoints": [
+            "Achieved by withdrawal of government ownership/management or outright sale.",
+            "Disinvestment is a key mechanism.",
+            "Aimed to improve financial discipline and modernisation.",
+            "Navratnas/Maharatnas/Miniratnas policy granted autonomy to profitable PSEs."
+          ],
+          "title": "Privatisation in Detail",
+          "points": [
+            {
+              "explanation": "The sale of part of the equity of Public Sector Enterprises (PSEs) to the public. According to the government, its purpose was to improve financial discipline and facilitate modernisation, and to utilise private capital and managerial capabilities. Critics, however, allege undervaluation of assets and using proceeds for revenue deficits.",
+              "title": "Disinvestment"
+            },
+            {
+              "explanation": "A policy to grant greater managerial and operational autonomy to certain profitable PSEs (Maharatnas, Navratnas, Miniratnas) to improve their efficiency and enable them to compete more effectively in the global environment, rather than outright privatisation.",
+              "title": "Navratnas and Public Enterprise Policies"
+            }
+          ]
+        },
+        {
+          "definition": "The integration of a country's economy with the world economy, creating greater interdependence and interconnectedness across national boundaries.",
+          "explanation": "Globalisation is a complex phenomenon resulting from policies that aim to create a world with increased economic, social, and geographical links, effectively turning the world into a 'borderless' entity where events globally can influence local happenings.",
+          "keyPoints": [
+            "Leads to greater interdependence and integration.",
+            "Involves transcending economic, social, and geographical boundaries.",
+            "Key outcomes include outsourcing and establishment of WTO.",
+            "Facilitates movement of goods, services, capital, and technology.",
+            "Has both positive and negative implications for developing countries."
+          ],
+          "title": "Globalisation: Concept and Outcomes",
+          "points": [
+            {
+              "explanation": "A company hires regular services from external sources, often from other countries, which were previously provided internally. It has intensified due to the growth of fast communication modes (especially IT). India became a major destination due to low wage rates and skilled manpower, creating significant employment (e.g., BPO, call centers).",
+              "title": "Outsourcing"
+            },
+            {
+              "explanation": "Established in 1995 as the successor to GATT, its objective is to create a rule-based trading regime, provide equal opportunities for all countries, enlarge trade in goods and services, ensure optimum resource utilisation, and protect the environment by removing tariff and non-tariff barriers.",
+              "title": "World Trade Organisation (WTO)"
+            }
+          ]
+        }
+      ],
+      "story": [
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Kanishq, remember how our company, KnowledgeCompass, started? Just a small garage setup. It makes me think about how much India itself transformed around the same time, right when we were beginning to dream big."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely, Neil! Our growth mirrored India's economic liberalisation. The early 90s were a critical period. India faced a severe balance of payments crisis; our foreign exchange reserves were so low, barely enough for a couple of weeks of imports. The government was almost bankrupt and couldn't even repay its foreign loans."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Yes, I recall reading about that. The crisis was compounded by high inflation, too. It forced India to seek help from the IMF and World Bank, who then put forward some tough conditions: liberalise, privatise, and globalise the economy."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Precisely! That led to the New Economic Policy, or NEP, in 1991. It wasn't just a quick fix; it involved both short-term 'stabilisation measures' to control inflation and address the balance of payments, and long-term 'structural reforms' to improve the economy's efficiency and competitiveness. The LPG reforms were the core of those structural changes."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Let's break them down. 'Liberalisation' meant dismantling old controls, didn't it? Like industrial licensing. Suddenly, entrepreneurs like us didn't need government permission for every little thing. That must have been a huge relief for new businesses."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "It was! Industrial licensing was abolished for most sectors. And it wasn't just industry. Financial sector reforms changed RBI's role from a strict regulator to a facilitator, allowing private and foreign banks to enter. Tax reforms reduced income and corporate taxes, and later we got GST, aiming for 'one nation, one tax'."
+            },
+            {
+              "speaker": "Neil",
+              "text": "And the foreign exchange reforms were pivotal too. The rupee was devalued, which helped exports, and then its value was largely left to market forces. That definitely made India more attractive for foreign investment, right?"
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely. It aligned with 'privatisation' too. The idea was to reduce the government's role by shedding ownership or management of Public Sector Enterprises (PSEs) through 'disinvestment'. They sold off parts of government companies to the public, aiming for better financial discipline and modernisation. Remember the 'Navratnas' policy? That allowed profitable PSEs more autonomy."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Yes, giving them more freedom to operate like private companies. And then there's 'globalisation' – integrating India with the world economy. That’s where 'outsourcing' comes in, a major game-changer for India, and certainly for an EdTech like ours."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Definitely. Because of lower wages and skilled manpower, particularly in IT, India became a global outsourcing hub. Many developed countries outsourced services like call centres, accounting, and even content development to us. KnowledgeCompass benefited hugely from being able to access a global talent pool and offer competitive services globally."
+            },
+            {
+              "speaker": "Neil",
+              "text": "And the World Trade Organisation, WTO, played a big role here, didn't it? As the successor to GATT, it pushed for rule-based trade and removal of barriers."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Indeed. India, as a WTO member, had to open up its markets, removing quantitative restrictions and reducing tariffs. This increased competitiveness but also brought challenges to domestic industries, particularly in agriculture and traditional manufacturing."
+            },
+            {
+              "speaker": "Neil",
+              "text": "That's the flip side of the reforms, isn't it? While GDP growth surged, driven by our service sector, employment generation hasn't kept pace – often called 'jobless growth'. Agriculture also faced problems due to reduced public investment and increased competition."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Right. The industrial sector too, struggled against cheaper imports and inadequate infrastructure. Critics also point out that the benefits of reforms were largely concentrated in specific service sectors and for high-income groups, widening economic disparities. And disinvestment proceeds were often used for government revenue deficits, not for developing the PSUs or social infrastructure."
+            },
+            {
+              "speaker": "Neil",
+              "text": "So, while the reforms provided the fertile ground for KnowledgeCompass to flourish, they also came with significant challenges for the broader economy and social justice. It's a complex legacy."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely. A powerful lesson in balancing economic growth with equitable development, a challenge we, as a company, also try to address through accessible education."
+            }
+          ],
+          "title": "The Genesis of KnowledgeCompass and India's Economic Reforms"
+        }
+      ],
+      "title": "LIBERALISATION, PRIVATISATION AND GLOBALISATION: AN APPRAISAL",
+      "unitName": "ECONOMIC REFORMS SINCE 1991",
+      "unitNumber": 2
+    }
+  ],
+  "metadata": {
+    "chapterTitle": "LIBERALISATION, PRIVATISATION AND GLOBALISATION: AN APPRAISAL",
+    "description": "This chapter provides an appraisal of India's economic reforms introduced in 1991, focusing on the background of the financial crisis, the policies of liberalisation, privatisation, and globalisation, and their varied impact on different sectors of the Indian economy."
+  }
+}

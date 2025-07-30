@@ -1,0 +1,851 @@
+{
+  "chapters": [
+    {
+      "caseStudy": [
+        {
+          "questions": [
+            {
+              "answer": "KnowledgeCompass's initial reliance on flexible, often informally hired talent for programming work, especially for tasks that could be done remotely, aligns with the informal sector. As they grew and sought stability and better benefits for their workforce, moving towards formal employment structures for core roles with regular salaries, provident funds, and other benefits demonstrates a shift towards the formal sector. This mirrors the broad economic goal of transitioning workers from vulnerable informal arrangements to more secure, regulated formal employment.",
+              "marks": 6,
+              "question": "Analyze how KnowledgeCompass's growth trajectory from a garage startup to a corporation might reflect the shift between formal and informal sector employment in India. Provide specific examples based on the chapter's definitions.",
+              "type": "explain",
+              "wordLimit": 150
+            },
+            {
+              "answer": "The chapter defines a 'worker' as anyone engaged in economic activities that contribute to the gross national product, irrespective of their capacity or payment method (paid by employer or self-employed). Based on this definition, both Neil and Kanishq were workers from the very beginning. Neil, as the founder, was self-employed and actively operating an enterprise to earn a livelihood. Kanishq, as a co-founder and contributing programmer, was also actively engaged in an economic activity contributing to the company's output and, by extension, the national product. Their unpaid work during the initial 'garage' phase still constituted economic activity aimed at producing goods/services for the market.",
+              "marks": 4,
+              "question": "According to the definition of a 'worker' provided in the chapter, were Neil and Kanishq considered 'workers' when they first started KnowledgeCompass in their garage and were not earning regular salaries? Justify your answer.",
+              "type": "identify",
+              "wordLimit": 100
+            },
+            {
+              "answer": "As KnowledgeCompass expanded and hired more employees, particularly for specialized roles like customer support or regional sales, they might face the challenge of 'jobless growth' if their revenue and production increase significantly without a corresponding increase in their workforce. For example, if they invest heavily in AI-driven customer service solutions, they might double their customer base (increased GDP/output) but only need to hire a few more technicians to manage the AI, instead of a large team of human customer service representatives. This would mean that while the company (and national economy) grows, employment opportunities within that specific area do not expand commensurately, leading to a 'jobless' increase in output.",
+              "marks": 5,
+              "question": "Explain how the concept of 'jobless growth', as discussed in the chapter, could potentially manifest within a successful EdTech company like KnowledgeCompass if it focuses heavily on automation and efficiency.",
+              "type": "explain",
+              "wordLimit": 120
+            }
+          ],
+          "scenario": "Neil and Kanishq, two passionate educators, founded 'KnowledgeCompass', an EdTech startup, in their garage. In its early days, they poured countless hours into developing innovative learning modules, often working without pay, relying on a small team of freelance programmers and content creators who were paid on a project basis. Their dedication paid off, and KnowledgeCompass grew exponentially, becoming a recognized corporation. As the company scaled, they began offering competitive salaries, provident funds, and health benefits to their growing team of full-time employees. They even opened regional offices, creating new job opportunities. However, with technological advancements, certain roles that once required human input became increasingly automated, leading to efficiency gains but also questions about employment generation.",
+          "title": "KnowledgeCompass: Navigating the Workforce Landscape"
+        }
+      ],
+      "exercises": {
+        "mcq": [
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Economic activities are those that contribute to the Gross National Product (GNP). Working to earn a living, producing goods and services, and helping others are all aspects that fall under economic activities contributing to GNP.",
+            "options": [
+              "Activities done solely for personal satisfaction.",
+              "Activities that do not involve any monetary transaction.",
+              "Activities that contribute to the gross national product.",
+              "Activities performed only by paid employees."
+            ],
+            "question": "Which of the following best defines 'economic activities' as per the chapter?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "The chapter explicitly states that those who are self-employed are also considered workers, alongside those who are paid by an employer.",
+            "options": [
+              "Only those who are paid by an employer for their work.",
+              "Only those who work on farms or in factories.",
+              "Only those who are engaged in high-capacity roles.",
+              "Both self-employed individuals and those paid by an employer."
+            ],
+            "question": "Who is considered a 'worker' according to the chapter's definition?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "The worker-population ratio is calculated by dividing the total number of workers by the total population and multiplying by 100 to get a percentage.",
+            "options": [
+              "(Total Workers / Total Population) × 100",
+              "(Total Population / Total Workers) × 100",
+              "(Total Employed / Total Unemployed) × 100",
+              "(Rural Workers / Urban Workers) × 100"
+            ],
+            "question": "How is the worker-population ratio calculated?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "As per Chart 6.1, self-employment accounts for 54% of male workers and 62% of female workers, making it the major source of livelihood for both genders.",
+            "options": [
+              "Regular salaried employment.",
+              "Self-employment.",
+              "Casual wage labour.",
+              "Government jobs."
+            ],
+            "question": "According to the chapter, what is the major source of livelihood for both men and women in India?"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "The primary sector includes Agriculture, Mining, and Quarrying, which are activities directly related to natural resources.",
+            "options": [
+              "Agriculture, Mining and Quarrying",
+              "Manufacturing, Construction, and Trade",
+              "Trade, Transport, and Services",
+              "Electricity, Gas, Water Supply, and Services"
+            ],
+            "question": "Which activities are grouped under the 'primary sector' according to the chapter?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Jobless growth refers to a phenomenon where GDP grows but without a corresponding increase in employment opportunities. The Indian economy experienced this, especially after the late 1990s.",
+            "options": [
+              "High employment growth with low GDP growth.",
+              "Stagnant GDP with constant employment.",
+              "Economic recession leading to job losses.",
+              "Growth in GDP without proportionate growth in employment."
+            ],
+            "question": "What is meant by 'jobless growth'?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The process of moving from self-employment and regular salaried employment to casual wage work is termed 'casualisation of workforce'. This often makes workers more vulnerable.",
+            "options": [
+              "Formalisation of workforce.",
+              "Casualisation of workforce.",
+              "Modernisation of workforce.",
+              "Stabilisation of workforce."
+            ],
+            "question": "The process where workers shift from self-employment and regular salaried employment to casual wage work is known as:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "Formal sector establishments are defined as public sector establishments and private sector establishments that employ 10 or more hired workers.",
+            "options": [
+              "Private sector establishments employing 10 or more hired workers.",
+              "Any establishment that pays regular salaries.",
+              "All public sector establishments regardless of size.",
+              "Any establishment that maintains proper accounts."
+            ],
+            "question": "Which of the following is considered a 'formal sector establishment'?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "Workers in the informal sector often lack social security benefits, regular income, and protection from government regulations, making them vulnerable.",
+            "options": [
+              "They earn more than formal sector workers.",
+              "They have strong trade unions to protect their rights.",
+              "They often lack social security benefits like provident fund and pension.",
+              "They generally use modern technology in their enterprises."
+            ],
+            "question": "Which of the following is a characteristic of workers in the informal sector?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "Disguised unemployment occurs when more people are employed in an activity than are actually required to achieve the current level of output, with the marginal productivity of the extra workers being zero or negligible.",
+            "options": [
+              "People actively looking for work but unable to find it.",
+              "More people are employed than actually required, often in agriculture.",
+              "Unemployment that occurs during specific times of the year, like off-season farming.",
+              "Temporary absence from work due to illness or bad weather."
+            ],
+            "question": "What is 'disguised unemployment'?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "Seasonal unemployment is prevalent in agriculture because work is dependent on specific seasons, leaving many unemployed during off-seasons.",
+            "options": [
+              "Formal sector unemployment.",
+              "Technological unemployment.",
+              "Structural unemployment.",
+              "Seasonal unemployment."
+            ],
+            "question": "The type of unemployment common in Indian farms due to the nature of agricultural work is:"
+          },
+          {
+            "correctAnswerIndex": 0,
+            "explanation": "MGNREGA guarantees 100 days of wage employment to rural households who volunteer for unskilled manual work, directly contributing to employment generation.",
+            "options": [
+              "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA).",
+              "Pradhan Mantri Jan Dhan Yojana (PMJDY).",
+              "Make in India initiative.",
+              "Swachh Bharat Abhiyan."
+            ],
+            "question": "Which government initiative guarantees 100 days of wage employment to rural households who volunteer for unskilled manual work?"
+          },
+          {
+            "correctAnswerIndex": 2,
+            "explanation": "When a government company increases its output, it directly employs more people. Simultaneously, private companies that rely on its output (e.g., steel from a government steel company) also increase their production and employment, which is an indirect effect.",
+            "options": [
+              "Direct employment only in public sector enterprises.",
+              "Employment created solely through private sector investments.",
+              "Direct employment in government departments and public sector, and indirect employment through private enterprises linked to government output.",
+              "Employment generated only by skill development programs."
+            ],
+            "question": "How do government initiatives broadly contribute to employment generation?"
+          },
+          {
+            "correctAnswerIndex": 1,
+            "explanation": "The chapter highlights that men form the majority of the workforce in India, comprising about 77% of total workers.",
+            "options": [
+              "Women account for about two-thirds of the rural workforce.",
+              "Men form the majority of the workforce in India.",
+              "Women workers constitute a higher proportion in urban areas than in rural areas.",
+              "Child labourers are not included in the workforce calculations."
+            ],
+            "question": "Which statement about the Indian workforce is correct, according to the chapter?"
+          },
+          {
+            "correctAnswerIndex": 3,
+            "explanation": "While GDP grew positively and faster than employment, employment growth itself was not more than 2% and even declined in the late 1990s, leading to jobless growth. So, employment growth was positive but comparatively slow.",
+            "options": [
+              "Employment growth was consistently higher than GDP growth.",
+              "Employment growth was negative throughout the period.",
+              "Employment growth remained stagnant at zero percent.",
+              "Employment grew at a rate of not more than 2% and declined in the late 1990s."
+            ],
+            "question": "What was the trend of employment growth in India during the period 1950–2010, compared to GDP growth?"
+          }
+        ],
+        "numericalQuestions": [
+          {
+            "answer": "40.4%",
+            "explanation": "The worker-population ratio is calculated by dividing the total number of workers by the total population and multiplying by 100. This ratio indicates the proportion of the population actively contributing to the production of goods and services.",
+            "question": "If India had a workforce of 545 million and a total population of 1350 million in 2022-23, what was the worker-population ratio (rounded to one decimal place)?",
+            "steps": [
+              "Identify Total Workforce = 545 million",
+              "Identify Total Population = 1350 million",
+              "Calculate Worker-Population Ratio = (Total Workforce / Total Population) * 100",
+              "Worker-Population Ratio = (545 / 1350) * 100",
+              "Worker-Population Ratio = 0.4037037... * 100",
+              "Worker-Population Ratio = 40.37037...",
+              "Round to one decimal place: 40.4%"
+            ],
+            "table": null
+          },
+          {
+            "answer": "314 million",
+            "explanation": "The number of rural workers is calculated by applying the given proportion (two-thirds) to the total specified workforce. This highlights the significant contribution of rural areas to the overall workforce.",
+            "question": "In 2022-23, if India's specified workforce was 471 million, and rural workers constituted approximately two-thirds of this workforce, calculate the number of rural workers.",
+            "steps": [
+              "Identify the specified total workforce = 471 million",
+              "Identify the proportion of rural workers = 2/3",
+              "Calculate the number of rural workers = (2/3) * 471 million",
+              "Number of rural workers = 314 million"
+            ],
+            "table": null
+          },
+          {
+            "answer": "6.3%",
+            "explanation": "The percentage of workers in a specific sector (like formal sector) is found by dividing the number of workers in that sector by the total workforce and multiplying by 100. This calculation reveals the small proportion of formal sector employment in India.",
+            "question": "In 2011-12, India had about 473 million workers, with approximately 30 million workers in the formal sector. Calculate the percentage of workers employed in the formal sector (rounded to one decimal place).",
+            "steps": [
+              "Identify Total Workers = 473 million",
+              "Identify Formal Sector Workers = 30 million",
+              "Calculate Percentage = (Formal Sector Workers / Total Workers) * 100",
+              "Percentage = (30 / 473) * 100",
+              "Percentage = 0.0634249... * 100",
+              "Percentage = 6.34249...",
+              "Round to one decimal place: 6.3%"
+            ],
+            "table": null
+          },
+          {
+            "answer": "28.05 million",
+            "explanation": "The number of urban women workers is derived by applying their worker-population ratio to the total urban female population. This demonstrates how a ratio translates into an actual number of workers for a specific demographic.",
+            "question": "According to Table 6.1 (Worker-Population Ratio in India, 2022-2023), the worker-population ratio for urban women in India in 2022-23 was 18.7. If the urban female population was 150 million, how many urban women were engaged in economic activities?",
+            "steps": [
+              "Identify Urban Women Worker-Population Ratio = 18.7%",
+              "Identify Urban Female Population = 150 million",
+              "Convert ratio to decimal = 18.7 / 100 = 0.187",
+              "Calculate Number of Urban Women Workers = Urban Female Population * (Ratio / 100)",
+              "Number of Urban Women Workers = 150 million * 0.187",
+              "Number of Urban Women Workers = 28.05 million"
+            ],
+            "table": [
+              {
+                "Sex": "Men",
+                "Total": 54.4,
+                "Rural": 54,
+                "Urban": 55.6
+              },
+              {
+                "Sex": "Women",
+                "Total": 27,
+                "Rural": 30,
+                "Urban": 18.7
+              },
+              {
+                "Sex": "Total",
+                "Total": 41.1,
+                "Rural": 42.3,
+                "Urban": 37.7
+              }
+            ]
+          },
+          {
+            "answer": "28.2 percentage points decrease",
+            "explanation": "To find the percentage decrease, subtract the later percentage share from the earlier one. This calculation highlights the significant structural shift away from agriculture in India's workforce over five decades.",
+            "question": "Using the data from Table 6.3 (Trends in Employment Pattern (Sector-wise and Status-wise), 1972-2023), calculate the percentage decrease in the share of the primary sector in India's workforce from 1972-73 to 2022-23.",
+            "steps": [
+              "Identify Primary Sector share in 1972-73 = 74.3%",
+              "Identify Primary Sector share in 2022-23 = 46.1%",
+              "Calculate Percentage Decrease = Share in 1972-73 - Share in 2022-23",
+              "Percentage Decrease = 74.3% - 46.1%",
+              "Percentage Decrease = 28.2 percentage points"
+            ],
+            "table": [
+              {
+                "1983": null,
+                "Item": "Sector",
+                "1972-73": null,
+                "1993-94": null,
+                "2011-2012": null,
+                "2017-2018": null
+              },
+              {
+                "1983": 68.6,
+                "Item": "Primary",
+                "1972-73": 74.3,
+                "1993-94": 64,
+                "2011-2012": 48.9,
+                "2017-2018": 46.1
+              },
+              {
+                "1983": 11.5,
+                "Item": "Secondary",
+                "1972-73": 10.9,
+                "1993-94": 16,
+                "2011-2012": 24.3,
+                "2017-2018": 24.9
+              },
+              {
+                "1983": 16.9,
+                "Item": "Services",
+                "1972-73": 14.8,
+                "1993-94": 20,
+                "2011-2012": 26.8,
+                "2017-2018": 29
+              },
+              {
+                "1983": 100,
+                "Item": "Total",
+                "1972-73": 100,
+                "1993-94": 100,
+                "2011-2012": 100,
+                "2017-2018": 100
+              },
+              {
+                "1983": null,
+                "Item": "Status",
+                "1972-73": null,
+                "1993-94": null,
+                "2011-2012": null,
+                "2017-2018": null
+              },
+              {
+                "1983": 57.3,
+                "Item": "Self-employed",
+                "1972-73": 61.4,
+                "1993-94": 54.6,
+                "2011-2012": 52,
+                "2017-2018": 55.6
+              },
+              {
+                "1983": 13.8,
+                "Item": "Regular Salaried Employees",
+                "1972-73": 15.4,
+                "1993-94": 13.6,
+                "2011-2012": 18,
+                "2017-2018": 21.1
+              },
+              {
+                "1983": 28.9,
+                "Item": "Casual Wage Labourers",
+                "1972-73": 23.2,
+                "1993-94": 31.8,
+                "2011-2012": 30,
+                "2017-2018": 23.3
+              },
+              {
+                "1983": 100,
+                "Item": "Total",
+                "1972-73": 100,
+                "1993-94": 100,
+                "2011-2012": 100,
+                "2017-2018": 100
+              }
+            ]
+          }
+        ],
+        "oneWord": [
+          {
+            "correctAnswer": "Economic activities",
+            "question": "What are activities that contribute to the gross national product called?"
+          },
+          {
+            "correctAnswer": "Worker",
+            "question": "What is the term for anyone engaged in economic activities, regardless of their capacity, who contributes to the national income?"
+          },
+          {
+            "correctAnswer": "Workforce",
+            "question": "What is the total number of people actively engaged in various economic activities called?"
+          },
+          {
+            "correctAnswer": "Self-employed",
+            "question": "Workers who own and operate an enterprise to earn their livelihood are known as what?"
+          },
+          {
+            "correctAnswer": "Casual wage labourers",
+            "question": "What is the term for workers who are casually engaged in others' farms or enterprises and get remuneration for work done?"
+          },
+          {
+            "correctAnswer": "Regular salaried employees",
+            "question": "What are workers called who are engaged by someone or an enterprise and paid wages on a regular basis?"
+          },
+          {
+            "correctAnswer": "Primary sector",
+            "question": "Which sector includes agriculture, mining, and quarrying activities?"
+          },
+          {
+            "correctAnswer": "Jobless growth",
+            "question": "What phenomenon occurs when GDP grows without a proportionate increase in employment opportunities?"
+          },
+          {
+            "correctAnswer": "Casualisation of workforce",
+            "question": "What is the process of moving from self-employment and regular salaried employment to casual wage work called?"
+          },
+          {
+            "correctAnswer": "Formal sector",
+            "question": "What is the term for public sector establishments and private sector establishments which employ 10 or more hired workers?"
+          },
+          {
+            "correctAnswer": "Informal sector",
+            "question": "What sector includes all other enterprises and workers not covered by formal sector definitions, often lacking social security?"
+          },
+          {
+            "correctAnswer": "Unemployment",
+            "question": "What is a situation where people are not working but are seeking or available for work due to lack of it?"
+          },
+          {
+            "correctAnswer": "Disguised unemployment",
+            "question": "What type of unemployment exists when more people are employed in a task than are actually required?"
+          },
+          {
+            "correctAnswer": "Seasonal unemployment",
+            "question": "What type of unemployment arises due to the seasonal nature of work, especially in agriculture?"
+          }
+        ],
+        "shortAnswer1": [
+          {
+            "answer": "People work for 'earning' a living, which means actively contributing to national income and the development of the country. Beyond monetary gain, work also provides a sense of self-worth, accomplishment, and enables meaningful societal relations.",
+            "question": "Why do people work, according to the chapter?"
+          },
+          {
+            "answer": "A worker is anyone engaged in economic activities that contribute to the gross national product, regardless of their capacity (high or low) or whether they are paid by an employer or are self-employed. Even those temporarily abstaining due to illness or festivals are counted.",
+            "question": "Who is defined as a 'worker' in the context of economic activities?"
+          },
+          {
+            "answer": "The worker-population ratio is an indicator used to analyze a country's employment situation. It measures the proportion of the population that is actively contributing to the production of goods and services, calculated as (Total Workers / Total Population) × 100.",
+            "question": "Define worker-population ratio."
+          },
+          {
+            "answer": "Self-employed workers own and operate their enterprises (e.g., a cement shop owner). Casual wage labourers are engaged by others for specific tasks and paid remuneration (e.g., a construction worker). Regular salaried employees are hired by an enterprise and receive regular wages (e.g., a civil engineer in a construction company).",
+            "question": "Briefly differentiate between self-employed, casual wage labourers, and regular salaried employees."
+          },
+          {
+            "answer": "The primary sector includes activities like agriculture, mining, and quarrying. The secondary sector comprises manufacturing, electricity, gas, water supply, and construction. The service (tertiary) sector covers trade, transport, storage, and other services.",
+            "question": "Name the three major sectors of economic activities and give two examples for each."
+          },
+          {
+            "answer": "Jobless growth is a phenomenon where the Gross Domestic Product (GDP) of an economy grows significantly, but without a corresponding or proportionate increase in employment opportunities. This means more goods and services are produced with a relatively stagnant workforce.",
+            "question": "What is meant by 'jobless growth' in the Indian context?"
+          }
+        ],
+        "shortAnswer2": [
+          {
+            "answer": "A beggar, a thief, a smuggler, and a gambler are generally not considered workers because their activities, while they might provide income to the individual, do not contribute to the Gross National Product (GNP) through the production of legitimate goods and services. Economic activities, by definition, must add value to the national income in a recognized and productive manner.",
+            "question": "Are the following considered workers: a beggar, a thief, a smuggler, a gambler? Why or why not?"
+          },
+          {
+            "answer": "Compared to urban women, more rural women are found working due to several reasons. Rural areas have limited high-income opportunities, compelling more people, including women, to participate in the workforce, often in agriculture or allied activities. Unlike urban areas where educational opportunities are more prevalent and families might discourage women from working if male incomes are high, rural women often cannot afford to stay at home due to economic necessity.",
+            "question": "Compared to urban women, more rural women are found working. Why is there such a difference?"
+          },
+          {
+            "answer": "Meena can be considered a worker. The chapter states that self-employed individuals are also workers, and those who help main workers in economic activities are included. Even though she is not paid cash wages, she is actively engaged in an economic activity (working in her husband's cloth shop) that contributes to the enterprise's output and, by extension, the national income. Her contribution helps the business function and grow.",
+            "question": "Meena is a housewife who, besides household chores, works in her husband's cloth shop. Can she be considered a worker? Justify your answer."
+          },
+          {
+            "answer": "Regular salaried employees are more prevalent in urban areas than in rural areas because the nature of work in urban areas is different. Urban areas host more factories, shops, and offices of various types that require workers on a regular, consistent basis. In contrast, rural areas are dominated by farming, where individuals often own land and cultivate independently, leading to a higher proportion of self-employed workers.",
+            "question": "Why are regular salaried employees more commonly found in urban areas than in rural areas?"
+          },
+          {
+            "answer": "It is necessary to generate employment in the formal sector rather than predominantly in the informal sector because formal sector workers enjoy better social security benefits, such as maternity leave, provident fund, gratuity, and pension. They also tend to earn higher wages and have legal protection through labor laws, enabling them to form trade unions and bargain for better working conditions. Informal sector workers, conversely, lack these protections, making them highly vulnerable.",
+            "question": "Is it necessary to generate employment in the formal sector rather than in the informal sector? Explain why."
+          },
+          {
+            "answer": "Victor is unemployed. The National Statistical Office defines unemployment as a situation where those, due to lack of work, are not working but express willingness or availability for work under prevailing conditions. Since Victor is able to get work for only two hours and spends the rest of the day looking for work, he clearly expresses his availability for work but cannot find it, fitting the definition of an unemployed person. Persons like Victor might be doing casual daily wage jobs like street vending, loading/unloading, or other odd jobs.",
+            "question": "Victor is able to get work only for two hours in a day. Rest of the day, he is looking for work. Is he unemployed? Why? What kind of jobs could persons like Victor be doing?"
+          }
+        ],
+        "trueFalse": [
+          {
+            "correctAnswer": true,
+            "explanation": "All those engaged in economic activities that contribute to the gross national product are considered workers, including those who are self-employed or temporarily absent from work.",
+            "question": "All persons engaged in economic activities that contribute to the gross national product are workers."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "Many household activities done by women, such as cooking or fetching water, are often not recognized as productive work and are excluded from GNP calculations, leading to underestimation of women workers.",
+            "question": "All household activities done by women are recognized as productive work and contribute to the gross national product."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The chapter states that the rural workers constitute about two-thirds of the workforce, and overall, men form about 77% of the total workers, making them the majority.",
+            "question": "Men, particularly rural men, form the major section of the workforce in India."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Self-employment accounts for over 50% of the workforce for both men and women, making it the dominant category.",
+            "question": "Majority of workers in India are self-employed."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The chapter highlights that in 2022-23, about 46% of the workforce was engaged in the primary sector, a significant decline from 74.3% in 1972-73, indicating a substantial shift.",
+            "question": "Compared to the 1970s, there has hardly been any change in the distribution of workforce across various industries."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The chapter mentions that after the late 1990s, employment growth started declining and widened the gap with GDP growth, indicating a jobless growth scenario.",
+            "question": "During 1950-2010, the growth of employment in India was generally lower than the growth of GDP."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The chapter clearly states that the newly emerging jobs are found mostly in the service sector, not manufacturing, as the service sector enters a period of rapid expansion.",
+            "question": "The newly emerging jobs are found mostly in the manufacturing sector."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The chapter specifies that public sector establishments and private sector establishments employing 10 or more hired workers are part of the formal sector.",
+            "question": "An establishment with ten hired workers is known as a formal sector establishment."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "Disguised unemployment is when more people are employed than necessary for a given task, making it common in agriculture where family labor often exceeds actual requirements.",
+            "question": "Disguised unemployment is a common form of unemployment in rural India."
+          },
+          {
+            "correctAnswer": false,
+            "explanation": "The chapter states that approximately 94% of workers were in the informal sector in 2011-12, implying the government is the major formal sector employer, not the overall major employer.",
+            "question": "The government is the major employer in the informal sector in the country."
+          },
+          {
+            "correctAnswer": true,
+            "explanation": "The chapter highlights that while there has been GDP growth, there hasn't been a simultaneous increase in employment, particularly in rural areas, leading the government to take initiatives like MGNREGA.",
+            "question": "The government takes initiatives to generate employment opportunities, especially in rural areas, due to inadequate job creation elsewhere."
+          }
+        ]
+      },
+      "flashcards": [
+        {
+          "back": "Any activity that contributes to the Gross National Product (GNP) of a country, regardless of whether it's paid employment, self-employment, or even temporary work.",
+          "front": "Economic Activity"
+        },
+        {
+          "back": "All those who are engaged in economic activities, in whatever capacity (high or low), contributing to the national income. This includes self-employed individuals and those paid by employers.",
+          "front": "Worker"
+        },
+        {
+          "back": "The total number of people actively engaged in various economic activities in a country.",
+          "front": "Workforce"
+        },
+        {
+          "back": "An indicator used to analyze the employment situation, calculated as (Total number of workers / Total population) × 100. It shows the proportion of the population contributing to the production of goods and services.",
+          "front": "Worker-Population Ratio"
+        },
+        {
+          "back": "Workers who own and operate an enterprise to earn their livelihood.",
+          "front": "Self-Employed"
+        },
+        {
+          "back": "Workers who are casually engaged in others' farms and, in return, get remuneration for the work done.",
+          "front": "Casual Wage Labourers"
+        },
+        {
+          "back": "Workers engaged by someone or an enterprise and paid wages on a regular basis, often with additional benefits.",
+          "front": "Regular Salaried Employees"
+        },
+        {
+          "back": "The sector that includes activities related to natural resources like agriculture, forestry, fishing, mining, and quarrying.",
+          "front": "Primary Sector"
+        },
+        {
+          "back": "The sector that includes manufacturing, electricity, gas and water supply, and construction.",
+          "front": "Secondary Sector"
+        },
+        {
+          "back": "The sector that includes trade, transport and storage, and various services.",
+          "front": "Service (Tertiary) Sector"
+        },
+        {
+          "back": "A phenomenon where the Gross Domestic Product (GDP) of an economy grows positively, but without a simultaneous or proportionate increase in employment opportunities.",
+          "front": "Jobless Growth"
+        },
+        {
+          "back": "The process of a workforce moving from self-employment and regular salaried employment to casual wage work, often making workers more vulnerable due to lack of job security and benefits.",
+          "front": "Casualisation of Workforce"
+        },
+        {
+          "back": "Comprises all public sector establishments and private sector establishments which employ 10 or more hired workers. Workers in this sector typically enjoy social security benefits and regular income.",
+          "front": "Formal Sector"
+        },
+        {
+          "back": "Includes all enterprises and workers not covered by the formal sector definition, such as millions of farmers, agricultural labourers, small enterprise owners, and self-employed individuals without hired workers. Workers often lack regular income, protection, and social security benefits.",
+          "front": "Informal Sector"
+        },
+        {
+          "back": "A situation in which all those who, owing to lack of work, are not working but either seek work or express their willingness or availability for work under prevailing conditions.",
+          "front": "Unemployment"
+        },
+        {
+          "back": "A type of unemployment where more people are employed in an activity (especially agriculture) than are actually required to produce the current output. The marginal productivity of the extra workers is negligible or zero.",
+          "front": "Disguised Unemployment"
+        },
+        {
+          "back": "A type of unemployment that occurs due to the seasonal nature of work, particularly in agriculture, where employment opportunities are not available throughout the year.",
+          "front": "Seasonal Unemployment"
+        },
+        {
+          "back": "An Act passed in 2005 guaranteeing 100 days of wage employment to all rural households who volunteer to do unskilled manual work, aiming to generate employment and alleviate poverty.",
+          "front": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)"
+        }
+      ],
+      "id": "chapter6",
+      "longAnswerQuestions": [
+        {
+          "answer150Words": "The Indian economy has witnessed significant changes in its employment structure over the past five decades, shifting from primary sector dependence towards secondary and service sectors, and within worker status, towards casualisation. In 1972-73, the primary sector engaged about 74.3% of the workforce; by 2022-23, this share declined to approximately 46.1%. Concurrently, the secondary sector's share increased from 10.9% to 24.9%, and the services sector saw a substantial rise from 14.8% to 29.0%. This indicates a positive structural transformation as labor moves towards higher-productivity sectors. However, this shift has also been accompanied by 'casualisation of workforce', where the proportion of self-employed and regular salaried employees has stagnated or declined, with a rise in casual wage labourers in certain periods. This makes a significant portion of the workforce vulnerable due to lack of job security and social benefits.",
+          "answer200Words": "The Indian economy has undergone substantial structural changes in its employment pattern from 1972-73 to 2022-23, both sector-wise and status-wise. Historically agrarian, India saw the primary sector's share in the workforce plummet from 74.3% in 1972-73 to 46.1% in 2022-23. This decline indicates a movement of labor out of agriculture. Complementing this, the secondary sector's share rose from 10.9% to 24.9%, and the service sector, particularly, expanded significantly from 14.8% to 29.0% over the same period. This trend signifies a positive economic development, where a larger portion of the workforce is absorbed into industrial and service activities, often associated with higher productivity. Simultaneously, a concerning trend of 'casualisation of workforce' has emerged. While self-employment remains the largest category, there has been a notable increase in casual wage labourers and some stagnation in regular salaried employment, making a considerable segment of the workforce vulnerable due to lack of job security, social security benefits, and fair wages. This dual transformation presents both progress in sectoral diversification and challenges in ensuring quality employment.",
+          "answer50To75Words": "India's employment structure has significantly shifted over five decades. The primary sector's share in the workforce drastically reduced from 74.3% (1972-73) to 46.1% (2022-23). Conversely, secondary and service sectors witnessed substantial increases in their share. Alongside this sectoral shift, there's been a trend of 'casualisation of workforce', where workers move from self-employment and regular salaried jobs to less secure casual wage work, highlighting both progress in diversification and challenges in job quality.",
+          "text": "Analyze the recent trends in the sectoral distribution and status-wise distribution of workforce in India, highlighting the key shifts and their implications.",
+          "title": "Changing Structure of Employment in India"
+        },
+        {
+          "answer150Words": "Jobless growth refers to an economic phenomenon where a country's Gross Domestic Product (GDP) increases significantly, but this growth is not accompanied by a proportional increase in employment opportunities. In India, from 1950-2010, while GDP grew positively and often at a higher rate, employment growth remained low, not exceeding 2%, and even declined in the late 1990s. This widening gap meant the economy was producing more goods and services without generating sufficient jobs. This can happen due to various reasons, such as increased capital intensity in production (using more machinery instead of labor), technological advancements that automate jobs, or focusing on high-productivity sectors that are less labor-intensive. The implication is a paradox: economic progress without adequate job creation, leading to social challenges like unemployment and underemployment.",
+          "answer200Words": "Jobless growth, a critical economic phenomenon, describes a situation where a country experiences robust growth in its Gross Domestic Product (GDP) but fails to generate a commensurate increase in employment opportunities. The Indian economy, particularly during the 1950-2010 period, exemplifies this trend. While India's GDP grew positively and was generally higher than employment growth, job creation lagged significantly, with employment growing at a rate of not more than 2% and even declining in the late 1990s. This widening disparity indicates that the economy was producing more goods and services through more efficient or capital-intensive methods rather than by employing more people. Several factors contribute to jobless growth, including technological advancements leading to automation, a shift towards capital-intensive industries, or a focus on high-productivity sectors that inherently require less labor. The implications are profound: despite economic expansion, a large segment of the population might remain unemployed or underemployed, leading to social inequality, poverty, and underutilization of human resources. This necessitates government intervention, as seen in India's employment generation programs, to address the lack of sufficient job opportunities.",
+          "answer50To75Words": "Jobless growth occurs when a country's GDP expands significantly without a proportionate increase in employment. India experienced this, with GDP growing faster than employment (which grew at under 2% and even declined in the late 1990s). This means the economy produced more with fewer additional jobs, leading to challenges like unemployment despite economic progress. It often stems from capital-intensive production or technology adoption, creating a paradox of growth without widespread job creation.",
+          "text": "Explain the concept of 'jobless growth' in the context of the Indian economy. How has this phenomenon manifested in India, and what are its potential causes and implications?",
+          "title": "Understanding Jobless Growth in India"
+        },
+        {
+          "answer150Words": "The formal sector includes public sector establishments and private sector establishments employing 10 or more hired workers, offering regular income, social security benefits (PF, gratuity, pension), and legal protection through labor laws and trade unions. The informal sector comprises all other enterprises and workers, including millions of farmers, small enterprise owners, and casual wage labourers. Workers here lack regular income, social security, and government regulation, making them highly vulnerable. Informalisation, the increasing proportion of informal sector workers, is driven by factors like slow formal job growth, economic reforms, and employers seeking to reduce costs and bypass labor laws. Its consequences include increased worker vulnerability, income insecurity, lack of benefits, poor working conditions, and social inequality, hindering inclusive development.",
+          "answer200Words": "The Indian workforce is broadly categorized into formal and informal sectors, each with distinct characteristics and implications for worker welfare. The formal sector encompasses all public sector establishments and private enterprises employing 10 or more hired workers. Employees in this sector benefit from regular salaries, job security, and comprehensive social security benefits such as provident fund, gratuity, and pension. They also have legal protection through labor laws and the right to form trade unions. Conversely, the informal sector includes a vast majority of workers—farmers, agricultural laborers, small shop owners, casual wage laborers, and self-employed individuals—who lack regular income, social security coverage, and protection from government regulations. They are often dismissed without compensation and work in unregulated environments. The 'informalisation' of the Indian workforce, where the proportion of workers in the informal sector is increasing, is a significant concern. This trend is driven by factors like slow growth in formal employment opportunities, the pursuit of cheaper labor by employers, and the desire to circumvent stringent labor laws. The consequences are severe, leading to increased worker vulnerability, income instability, lack of basic benefits, exploitation, and perpetuating poverty, thus hindering equitable economic development.",
+          "answer50To75Words": "The formal sector offers regular income, social security, and legal protection (e.g., companies with 10+ employees), while the informal sector (e.g., farmers, casual laborers) lacks these benefits, making workers vulnerable. Informalisation, the shift towards the informal sector, is a concern due to slow formal job growth and employers avoiding labor laws. Its consequences include income insecurity, lack of benefits, and increased worker vulnerability, highlighting challenges in ensuring decent livelihood.",
+          "text": "Differentiate between the formal and informal sectors of employment in India. Discuss the concept of 'informalisation of Indian workforce', its reasons, and its consequences.",
+          "title": "Formal vs. Informal Sector and Informalisation"
+        },
+        {
+          "answer150Words": "India faces various types of unemployment. 'Open unemployment' refers to individuals actively seeking work but unable to find it. 'Disguised unemployment' is prevalent in agriculture, where more people are employed than technically required for the output, making the marginal productivity of additional workers negligible. 'Seasonal unemployment' occurs due to the seasonal nature of work, especially in agriculture, where workers are jobless during off-seasons. To address these, the government employs both direct and indirect initiatives. Direct measures include employing people in government departments and public enterprises (e.g., dam construction). Indirect measures involve government enterprise output stimulating private sector growth, generating jobs. Additionally, employment generation programs like MGNREGA guarantee wage employment, provide primary health, education, and aid for asset creation in rural areas, directly combating poverty and unemployment.",
+          "answer200Words": "India grapples with multiple forms of unemployment, necessitating diverse government interventions. 'Open unemployment' describes the situation where individuals are willing and able to work but cannot find suitable employment, actively searching through various means. 'Disguised unemployment', commonly found in the agricultural sector, occurs when a surplus of labor is engaged in a task, meaning that removing some workers would not reduce total output, effectively hiding actual unemployment. 'Seasonal unemployment' is a direct consequence of the cyclical nature of certain industries, primarily agriculture, where employment is only available during specific seasons, leaving workers idle for the rest of the year. To mitigate these issues, the government employs both direct and indirect strategies for employment generation. Direct strategies involve the government directly employing individuals in administrative roles across various departments and through its public sector undertakings (e.g., industries, transport companies). Indirect strategies stem from increased output of government enterprises, which stimulates demand for raw materials and services from the private sector, thereby creating additional employment opportunities. Furthermore, the government implements numerous employment generation programs like the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA), which promises 100 days of guaranteed wage employment in rural areas. These programs not only provide direct work but also aim to improve rural infrastructure, health, and education, indirectly enhancing long-term employment prospects and alleviating poverty.",
+          "answer50To75Words": "India experiences open, disguised (excess labor in agriculture), and seasonal unemployment (due to cyclical work). The government addresses this via direct employment in public sectors and indirect job creation when government output boosts private industries. Programs like MGNREGA provide guaranteed rural wage employment, alongside initiatives for primary health, education, and asset creation, aiming to alleviate poverty and generate diverse job opportunities.",
+          "text": "Describe the various types of unemployment prevailing in India. Discuss the direct and indirect initiatives taken by the government to generate employment opportunities.",
+          "title": "Types of Unemployment and Government Initiatives"
+        },
+        {
+          "answer150Words": "The participation of men and women in economic activities varies significantly in India. Men constitute a larger proportion of the workforce (about 77%) compared to women (23%). This disparity is more pronounced in urban areas, where only about 19 urban females are economically active for every 100, compared to 30 rural women. Factors influencing this include societal norms where families discourage women from working if men earn high incomes. Additionally, many household activities performed by women are not recognized as 'productive work' contributing to GNP, leading to underestimation of female workforce participation. While both genders are concentrated in the primary sector, women's concentration is particularly high there (64%), often in unpaid family labor, while men have more opportunities in secondary and service sectors, reflecting traditional gender roles and limited access for women to formal employment and higher education.",
+          "answer200Words": "The participation of men and women in India's economic activities shows distinct patterns influenced by various socio-economic factors. Men overwhelmingly dominate the workforce, constituting approximately 77% of the total workers, while women make up the remaining 23%. This disparity is more pronounced in urban settings, where the worker-population ratio for women is significantly lower (about 18.7%) compared to rural areas (about 30%). Several factors contribute to this difference. Societal norms often play a crucial role, with families in many communities discouraging female members from taking up jobs, especially if male members earn high incomes. Furthermore, a significant portion of women's work, particularly unpaid household activities like cooking, fetching water, and family farm labor, is often not recognized as 'productive work' that contributes to the Gross National Product. This narrow definition leads to a severe underestimation of actual female workforce participation. While both men and women are concentrated in the primary sector (agriculture), women's concentration is notably higher there (around 64% of female workforce), often involving unpaid or low-paid labor. Men, on the other hand, find more opportunities in the secondary and service sectors, indicating different access to diverse employment types. Addressing these issues requires broader recognition of women's work, changes in societal attitudes, and improved access to education and formal sector opportunities for women.",
+          "answer50To75Words": "Men comprise a larger share of India's workforce (77%) than women (23%), with urban women's participation being particularly low. This disparity stems from societal norms discouraging women's work when male incomes are high, and the non-recognition of women's unpaid household activities as economic contributions. While both genders work in the primary sector, women's concentration is higher there, whereas men find more opportunities in secondary and service sectors, reflecting uneven access to diverse employment.",
+          "text": "Analyze the participation of men and women in various economic activities in India, discussing the factors that influence their worker-population ratio, particularly distinguishing between rural and urban areas.",
+          "title": "Gender Participation in India's Workforce"
+        },
+        {
+          "answer150Words": "Mahatma Gandhi expressed concerns about the 'craze' for machinery, particularly 'labour-saving machinery', fearing it would lead to mass unemployment and starvation. His objection was not to technology itself but to its unbridled adoption without considering its social impact on livelihoods. He insisted on education and training through craft and work, emphasizing dignified labor and self-sufficiency. Relating this to modern employment concepts, Gandhi's views resonate with the challenges of 'jobless growth' and 'informalisation'. Rapid technological advancements and automation can indeed lead to productivity gains (GDP growth) without proportionate job creation, displacing labor and increasing vulnerability, especially for unskilled workers. His emphasis on work as a source of self-worth and national contribution remains relevant in debates about ensuring equitable employment and decent livelihoods in an increasingly automated world, advocating for policies that prioritize human employment alongside economic efficiency.",
+          "answer200Words": "Mahatma Gandhi's critique of the 'craze' for machinery, especially 'labour-saving' technology, stemmed from his deep concern for human dignity and employment. He famously stated his objection was not to machinery per se, but to its indiscriminate adoption that could leave thousands jobless and destitute. Gandhi emphasized the importance of education and training through various forms of work, including crafts, as a means of fostering self-worth and contributing meaningfully to society. His vision prioritized human labor and local self-sufficiency over unchecked industrialization. This perspective is profoundly relevant to modern employment concepts like 'jobless growth' and the 'informalisation of the workforce'. In contemporary economies, technological advancements, including automation and AI, can lead to increased output (GDP growth) without a corresponding rise in employment. This creates a paradox where the economy expands, but job opportunities for a significant portion of the population stagnate or decline. Gandhi's warnings against unchecked mechanization without social consideration highlight the ethical imperative to balance economic efficiency with equitable employment generation. His emphasis on work as a source of livelihood, self-worth, and national development continues to underscore the need for policies that protect vulnerable workers and ensure inclusive growth, preventing technology from creating widespread unemployment and exacerbating social inequalities.",
+          "answer50To75Words": "Mahatma Gandhi opposed the 'craze' for labour-saving machinery, fearing it would cause mass unemployment and starvation, not machinery itself. His views relate to 'jobless growth' today, where technology increases GDP but not jobs, and 'informalisation' where displaced workers face vulnerable employment. Gandhi's emphasis on work's self-worth and national contribution highlights the ongoing challenge of ensuring dignified employment alongside technological progress.",
+          "text": "Discuss Mahatma Gandhi's views on machinery and labor, as mentioned in the chapter. How do his concerns relate to contemporary concepts of employment, such as 'jobless growth' and 'informalisation'?",
+          "title": "Mahatma Gandhi's Perspective on Machinery and Labour"
+        }
+      ],
+      "mindmap": [
+        {
+          "definition": "The total number of people aged 15-59 actively engaged in work contributing to the national income, or seeking work.",
+          "explanation": "Work is central to individual self-worth and societal development, enabling people to earn a living and contribute to national income. Studying employment provides insights into a country's human resources and helps address social issues like exploitation and child labor.",
+          "keyPoints": [
+            "Work provides livelihood and self-worth.",
+            "Workers contribute to national income and development.",
+            "Studying employment helps understand human resources and social issues."
+          ],
+          "title": "Introduction to Employment",
+          "points": null
+        },
+        {
+          "definition": "All those who are engaged in economic activities and contribute to the gross national product (GNP), regardless of their capacity, payment status, or temporary absences.",
+          "explanation": "Economic activities are those contributing to a country's Gross National Product (GNP). A 'worker' encompasses anyone involved in such activities, including self-employed individuals and those who are paid. India's workforce is multifaceted, with varying employment durations and wage fairness. As of 2022-23, India had a 545 million strong workforce.",
+          "keyPoints": [
+            "Economic activities contribute to GNP.",
+            "Workers include self-employed and paid employees.",
+            "Temporary absence does not negate worker status.",
+            "India's workforce was 545 million in 2022-23, with a higher proportion in rural areas."
+          ],
+          "title": "Workers and Economic Activities",
+          "points": [
+            {
+              "explanation": "The total money value of all final goods and services produced in a country in a year.",
+              "title": "Gross Domestic Product (GDP)"
+            },
+            {
+              "explanation": "GDP plus net earning from foreign transactions (exports minus imports). Activities contributing to GNP are economic activities.",
+              "title": "Gross National Product (GNP)"
+            }
+          ]
+        },
+        {
+          "definition": "The proportion of the population that is actively contributing to the production of goods and services, calculated as (Total Workers / Total Population) × 100.",
+          "explanation": "The worker-population ratio indicates the level of people's engagement in economic activities. A higher ratio signifies greater participation. In 2022-23, about 41.1% of India's population were workers. Rural areas have a higher ratio (42.3%) than urban areas (37.7%) due to limited resources and less access to education, often compelling rural residents to join the workforce earlier.",
+          "keyPoints": [
+            "Higher ratio means greater engagement.",
+            "India's overall worker-population ratio: ~41.1% (2022-23).",
+            "Rural ratio (42.3%) is higher than urban (37.7%).",
+            "Differences linked to economic conditions and educational access.",
+            "Women's work, especially household activities, is often underestimated, leading to lower official participation rates for women."
+          ],
+          "title": "Participation of People in Employment",
+          "points": null
+        },
+        {
+          "definition": "Classification of workers based on their attachment to an enterprise: self-employed (owning their business), casual wage labourers (irregular, paid daily), and regular salaried employees (regular wages, fixed employment).",
+          "explanation": "The status of workers provides insights into employment quality. Self-employed workers own their enterprises. Casual wage labourers are hired irregularly for daily wages. Regular salaried employees receive fixed wages regularly. Self-employment is the major source of livelihood in India (57% overall, higher in rural areas), followed by casual wage labour (22%), and regular salaried employment (21%).",
+          "keyPoints": [
+            "Self-employed: Own and operate enterprise (e.g., shop owner).",
+            "Casual Wage Labourers: Engaged irregularly, paid daily (e.g., construction worker).",
+            "Regular Salaried Employees: Engaged regularly, paid fixed wages (e.g., civil engineer).",
+            "Self-employment is dominant (57%), especially in rural areas (61%).",
+            "Casual wage work is the second major source for women (23%).",
+            "Regular salaried jobs are more common in urban areas (40%) compared to rural (13%)."
+          ],
+          "title": "Self-Employed and Hired Workers",
+          "points": null
+        },
+        {
+          "definition": "The categorization of all economic activities into three broad sectors: Primary (natural resources), Secondary (manufacturing/construction), and Service (trade/transport/services).",
+          "explanation": "Economic development often involves a shift of labor from the primary to secondary and then to the service sector. In India (2022-23), the primary sector remains the main employer (46.1% of workforce), especially in rural areas (60%). The secondary sector employs 24.9%, and the service sector 29.0%. Urban areas are dominated by the service sector (60%). Women workers are highly concentrated in the primary sector (64%), while men have more opportunities across all sectors.",
+          "keyPoints": [
+            "Primary Sector: Agriculture, mining, quarrying.",
+            "Secondary Sector: Manufacturing, electricity, gas, water supply, construction.",
+            "Service Sector: Trade, transport, storage, other services.",
+            "Primary sector is still the largest employer in India (46.1% in 2022-23).",
+            "Service sector is dominant in urban areas (60% of urban workers).",
+            "Women are highly concentrated in the primary sector (64.4%)."
+          ],
+          "title": "Employment Across Sectors (Industrial Distribution)",
+          "points": null
+        },
+        {
+          "definition": "Economic growth (GDP) without a proportionate increase in employment opportunities.",
+          "explanation": "From 1950-2010, India's GDP grew faster than employment, leading to 'jobless growth'. Employment growth was generally below 2% and declined in the late 1990s. The workforce has also seen 'casualisation', a movement from self-employment and regular salaried jobs to more vulnerable casual wage work. This makes workers highly vulnerable due to lack of job security and social benefits, though there has been a moderate rise in regular salaried employees in recent years (2017-23).",
+          "keyPoints": [
+            "GDP growth outpaced employment growth (1950-2010).",
+            "Employment growth often below 2%, declining in late 1990s.",
+            "Jobless growth: Producing more goods/services with stagnant employment.",
+            "Casualisation of workforce: Shift towards casual wage work, increasing worker vulnerability.",
+            "Primary sector's share declined (74.3% in 1972-73 to 46.1% in 2022-23).",
+            "Secondary and Service sectors' shares increased."
+          ],
+          "title": "Growth and Changing Structure of Employment",
+          "points": null
+        },
+        {
+          "definition": "The increasing proportion of workers employed in the informal sector, lacking social security and regulatory protections.",
+          "explanation": "Development planning aimed for a shift to formal sector employment. However, a small proportion of India's workforce (around 6% in 2011-12) is in the formal sector (establishments with 10+ hired workers, offering benefits). The vast majority (94%) are in the informal sector, lacking social security, regular income, and protection. This 'informalisation' has increased since the late 1970s as formal sector growth is slow. Government and ILO are making efforts to modernize this sector and provide social security.",
+          "keyPoints": [
+            "Formal sector: Public sector & private firms with 10+ hired workers; offers social security benefits.",
+            "Informal sector: All others, including farmers, small enterprises, casual laborers; lacks social security, regular income, regulation.",
+            "Only ~6% of India's workforce in formal sector (2011-12).",
+            "Informalisation: Increase in informal sector workers due to slow formal job growth.",
+            "Workers in informal sector are highly vulnerable.",
+            "Efforts are being made to modernize and provide social security to informal sector workers."
+          ],
+          "title": "Informalisation of Indian Workforce",
+          "points": null
+        },
+        {
+          "definition": "A situation in which all those who, owing to lack of work, are not working but either seek work or express their willingness/availability for work under prevailing conditions.",
+          "explanation": "Unemployment is the state of not having work despite seeking or being available for it. In India, people cannot remain unemployed for long due to economic necessity, often accepting unpleasant jobs. Types include open unemployment (actively seeking but not finding), disguised unemployment (more people employed than needed, common in agriculture), and seasonal unemployment (lack of work during off-seasons, especially in agriculture).",
+          "keyPoints": [
+            "Open unemployment: Actively seeking work but unable to find it.",
+            "Disguised unemployment: More people employed than required for the output, common in agriculture.",
+            "Seasonal unemployment: Lack of work during specific seasons, prevalent in agriculture.",
+            "Indian context: People often forced to accept undesirable jobs due to economic desperation."
+          ],
+          "title": "Unemployment",
+          "points": null
+        },
+        {
+          "definition": "Government initiatives aimed at directly employing people or creating opportunities for employment generation, often through public works and poverty alleviation programs.",
+          "explanation": "Since Independence, both Union and State governments have generated employment directly (e.g., employing in administrative departments, running public enterprises) and indirectly (e.g., government enterprise output stimulating private sector growth). Programs like MGNREGA guarantee wage employment (100 days for rural households volunteering for unskilled work) and focus on providing basic services (health, education, water) and community asset development, addressing poverty through job creation.",
+          "keyPoints": [
+            "Direct employment: Government hiring in departments, public enterprises (e.g., railways, steel plants).",
+            "Indirect employment: Government output stimulating private sector employment.",
+            "Employment Generation Programmes (EGPs): Aim to alleviate poverty through employment.",
+            "MGNREGA (2005): Guarantees 100 days of unskilled manual wage employment to rural households.",
+            "EGPs also provide primary health, education, rural drinking water, and aid asset creation."
+          ],
+          "title": "Government and Employment Generation",
+          "points": null
+        }
+      ],
+      "story": [
+        {
+          "storyParts": [
+            {
+              "speaker": "Neil",
+              "text": "Kanishq, remember our early days with KnowledgeCompass? Working tirelessly in that small garage, just us and a handful of freelancers. We weren't drawing salaries initially, but we were definitely 'working'."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Absolutely, Neil. The chapter defines a 'worker' as anyone engaged in economic activities that contribute to the national product. Even without a formal salary, our efforts in building modules were economic activities. We were self-employed, contributing to the nascent GNP of KnowledgeCompass, even if it was just theoretical at the time!"
+            },
+            {
+              "speaker": "Neil",
+              "text": "It’s interesting how our growth mirrored the national trends. Initially, we relied heavily on project-based freelancers, which the chapter describes as 'casual wage labourers'. They were flexible, but perhaps lacked the security of 'regular salaried employees' we eventually hired."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Precisely. And as we grew, we shifted some core roles to full-time, salaried positions with benefits. That move, for us, was a step towards 'formalisation'. We wanted to provide 'decent livelihood', not just project work. The chapter points out that India overall has a very small formal sector, sadly."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Yes, only about 6% of India's workforce is formal. It makes you realize the sheer scale of the 'informal sector' – millions of small business owners, farmers, and daily wage earners who lack social security and benefits. That's a huge challenge for a developing nation."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "And the trend of 'casualisation of workforce' is concerning, where even permanent jobs shift to more temporary or casual arrangements. It creates so much vulnerability. It's the opposite of what our planning aimed for when we started."
+            },
+            {
+              "speaker": "Neil",
+              "text": "Speaking of planning, remember when we automated large parts of our content generation? Our output, our 'GDP', soared, but we didn't necessarily hire more writers. That's the 'jobless growth' phenomenon the chapter discusses, isn't it?"
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Spot on. Our tech-driven efficiency meant higher productivity per employee, so our revenue grew without a proportionate increase in our headcount. It’s a double-edged sword: good for the company's bottom line, but nationally, it can exacerbate unemployment if not managed well."
+            },
+            {
+              "speaker": "Neil",
+              "text": "It also reminds me of Mahatma Gandhi's point about 'labour-saving machinery'. He wasn't against technology, but he worried about its impact on livelihoods. We need to find a balance, just as the government tries with schemes like MGNREGA to generate employment directly."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Exactly. Direct government employment in various departments and public enterprises, or indirect employment where government projects boost private sector jobs. These are crucial because the market alone isn't creating enough 'decent livelihoods'. The 'worker-population ratio' tells us a lot about participation rates, which are influenced by these factors."
+            },
+            {
+              "speaker": "Neil",
+              "text": "And the types of unemployment: 'open unemployment' for those actively searching, 'seasonal unemployment' for agricultural workers during off-seasons, and the trickier one, 'disguised unemployment', where more people are working than needed, especially on farms."
+            },
+            {
+              "speaker": "Kanishq",
+              "text": "Right. It's a complex picture, Neil. Our journey with KnowledgeCompass has given us a micro-perspective on these macro-economic issues – the changing nature of work, the importance of security, and the ongoing challenge of ensuring productive employment for everyone."
+            }
+          ],
+          "title": "KnowledgeCompass: A Journey Through Employment Realities"
+        }
+      ],
+      "title": "EMPLOYMENT : GROWTH, INFORMALISATION AND OTHER ISSUES",
+      "unitName": "INDIAN ECONOMIC DEVELOPMENT",
+      "unitNumber": 9
+    }
+  ],
+  "metadata": {
+    "chapterTitle": "EMPLOYMENT : GROWTH, INFORMALISATION AND OTHER ISSUES",
+    "description": "This chapter explores key concepts of employment, workforce, and unemployment in India, analyzing participation patterns, sectoral distribution, the trend of informalisation, and government initiatives for employment generation."
+  }
+}
