@@ -14,7 +14,7 @@ fetch('chapter8.json')
       }
       const unitSubheading = document.getElementById('unitSubheading');
       if (unitSubheading) {
-        unitSubheading.textContent = data.metadata.chapterTitle;
+        unitSubheading.textContent = 'Book 2 Chapter 2 - Indian Economy 1950–1990';
       }
     }
     // Get chapter data for Unit 4 (by unitNumber or id)
@@ -433,11 +433,9 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
               showGlobalDebug('ERROR: No chapter data found in chapter8.json.', true);
               return;
             }
-            // Set subheading dynamically
-            if (unitSubheading && chapterData.unitNumber && chapterData.unitName) {
-              unitSubheading.textContent = `Unit ${chapterData.unitNumber}: ${chapterData.unitName}`;
-            } else if (unitSubheading && chapterData.title) {
-              unitSubheading.textContent = chapterData.title;
+            // Set subheading statically for Book 2 Chapter 2
+            if (unitSubheading) {
+              unitSubheading.textContent = 'Book 2 Chapter 2 - Indian Economy 1950–1990';
             }
             try {
               renderFullStory && renderFullStory();

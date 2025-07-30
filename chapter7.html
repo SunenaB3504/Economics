@@ -14,7 +14,7 @@ fetch('chapter7.json')
       }
       const unitSubheading = document.getElementById('unitSubheading');
       if (unitSubheading) {
-        unitSubheading.textContent = data.metadata.chapterTitle;
+        unitSubheading.textContent = 'Book 2 Chapter 1 - Indian Economy On The Eve Of Independence';
       }
     }
     // Get chapter data for Unit 4 (by unitNumber or id)
@@ -431,11 +431,9 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
               showGlobalDebug('ERROR: No chapter data found in chapter7.json.', true);
               return;
             }
-            // Set subheading dynamically
-            if (unitSubheading && chapterData.unitNumber && chapterData.unitName) {
-              unitSubheading.textContent = `Unit ${chapterData.unitNumber}: ${chapterData.unitName}`;
-            } else if (unitSubheading && chapterData.title) {
-              unitSubheading.textContent = chapterData.title;
+            // Set subheading statically for Book 2 Chapter 1
+            if (unitSubheading) {
+              unitSubheading.textContent = 'Book 2 Chapter 1 - Indian Economy On The Eve Of Independence';
             }
             try {
               renderFullStory && renderFullStory();

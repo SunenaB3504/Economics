@@ -14,7 +14,7 @@ fetch('chapter5.json')
       }
       const unitSubheading = document.getElementById('unitSubheading');
       if (unitSubheading) {
-        unitSubheading.textContent = data.metadata.chapterTitle;
+        unitSubheading.textContent = 'Chapter 5 - Government Budget and the Economy';
       }
     }
     // Get chapter data for Unit 4 (by unitNumber or id)
@@ -431,11 +431,9 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
               showGlobalDebug('ERROR: No chapter data found in chapter5.json.', true);
               return;
             }
-            // Set subheading dynamically
-            if (unitSubheading && chapterData.unitNumber && chapterData.unitName) {
-              unitSubheading.textContent = `Unit ${chapterData.unitNumber}: ${chapterData.unitName}`;
-            } else if (unitSubheading && chapterData.title) {
-              unitSubheading.textContent = chapterData.title;
+            // Set subheading statically for Chapter 5
+            if (unitSubheading) {
+              unitSubheading.textContent = 'Chapter 5 - Government Budget and the Economy';
             }
             try {
               renderFullStory && renderFullStory();

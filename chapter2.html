@@ -14,7 +14,7 @@ fetch('chapter2.json')
       }
       const unitSubheading = document.getElementById('unitSubheading');
       if (unitSubheading) {
-        unitSubheading.textContent = data.metadata.chapterTitle;
+        unitSubheading.textContent = 'Chapter 2 - National Income Accounting';
       }
     }
     // Get chapter data (first chapter object)
@@ -425,11 +425,9 @@ if (speechSynthesis.onvoiceschanged !== undefined) {
               showGlobalDebug('ERROR: No chapter data found in chapter2.json.', true);
               return;
             }
-            // Set subheading dynamically
-            if (unitSubheading && chapterData.unitNumber && chapterData.unitName) {
-              unitSubheading.textContent = `Unit ${chapterData.unitNumber}: ${chapterData.unitName}`;
-            } else if (unitSubheading && chapterData.title) {
-              unitSubheading.textContent = chapterData.title;
+            // Set subheading statically for Chapter 2
+            if (unitSubheading) {
+              unitSubheading.textContent = 'Chapter 2 - National Income Accounting';
             }
             try {
               renderFullStory && renderFullStory();
